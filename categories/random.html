@@ -1,0 +1,5 @@
+---
+layout: category
+category: random
+permalink: /categories/random/
+---
