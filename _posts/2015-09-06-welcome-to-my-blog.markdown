@@ -2,15 +2,15 @@
 layout: post
 title:  "Welcome to my blog!"
 subtitle: "Feel home!"
-date:   2015-10-06 01:23:34
+date:   2016-10-06 01:23:34
 categories: [random]
 ---
 
 First of all, thanks for visiting my blog. 
 
-I think of this blog as my scratch book. A place where I can write about my experiences in personal and professional life. Remember the days we used to write diaries in the childhood as
-Dear Diary, 
-	Today I did .........
+I think of this blog as my scratch book. A place where I can write about my experiences in personal and professional life. Remember the days we used to write diaries in the childhood as <br>
+Dear Diary, <br>
+&nbsp;&nbsp;Today I did ......... <br>
 
 This blog is the same dear diary - the only difference being this diary is open to all. 
 
