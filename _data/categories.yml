@@ -1,8 +1,5 @@
-- slug: design
-  name: Design
+- slug: notes
+  name: Notes
 
-- slug: tools
-  name: Tools
-
-- slug: productivity
-  name: Productivity
+- slug: random
+  name: Random

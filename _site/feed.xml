@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sancheeta Kaushal</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://hitchhiker.ma/</link>
+    <atom:link href="http://hitchhiker.ma/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 14 Oct 2016 01:18:03 +0530</pubDate>
+    <lastBuildDate>Fri, 14 Oct 2016 01:18:03 +0530</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Notes for Classification Model!</title>
+        <description>&lt;p&gt;This is first in the series of notes that I plan to put online which I take during my online courses. This one specifically is from the Udacity Course Classification Models.&lt;/p&gt;
+
+&lt;p&gt;The course start with a discussion around a problem where we need to predict which things people are more likely to buy with the change of weather.&lt;/p&gt;
+
+&lt;p&gt;Lesson 1 -&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Discussion about examples of classification problems. For eg. determining if a soyabean has a disease or not using an image.&lt;/li&gt;
+  &lt;li&gt;Discussion about binary(either of the two values) and non-binary(categorical variables) examples.&lt;/li&gt;
+  &lt;li&gt;Discussion about Statistical Terms - Target and Predictor Variable.&lt;/li&gt;
+  &lt;li&gt;Target Variable - Field we are trying to understand and predict - Dependent Variable.&lt;/li&gt;
+  &lt;li&gt;Predictor Variable - Used to predict the target variable - Independent Variable.&lt;/li&gt;
+  &lt;li&gt;Remove Duplicate Variables(one variable subset of other) identifying correlations.&lt;/li&gt;
+  &lt;li&gt;Correlation - Measure of association between two variables whose vaues lie between -1 to 1.&lt;/li&gt;
+  &lt;li&gt;Three types of associations to be studied for understanding correlation
+    &lt;ul&gt;
+      &lt;li&gt;Pearson correlation&lt;/li&gt;
+      &lt;li&gt;Spearman’s Rank correlation&lt;/li&gt;
+      &lt;li&gt;Hoeffding’s Independent Test&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Pearson Correlation - Correlation Plots
+    &lt;ul&gt;
+      &lt;li&gt;No issues during training but issues while testing or predicting.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Key take outs - &lt;br /&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;For those who are already aware of Machine Learning - Predictor Variable is what we call as a feature and Target Variable is the objective function.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 13 Oct 2016 06:53:34 +0530</pubDate>
+        <link>http://hitchhiker.ma/notes/2016/10/13/notes-for-udacity-course-classification-models.html</link>
+        <guid isPermaLink="true">http://hitchhiker.ma/notes/2016/10/13/notes-for-udacity-course-classification-models.html</guid>
+        
+        
+        <category>notes</category>
+        
+      </item>
+    
+      <item>
+        <title>Welcome to my blog!</title>
+        <description>&lt;p&gt;First of all, thanks for visiting my blog.&lt;/p&gt;
+
+&lt;p&gt;I think of this blog as my scratch book. A place where I can write about my experiences in personal and professional life. Remember the days we used to write diaries in the childhood as &lt;br /&gt;
+Dear Diary, &lt;br /&gt;
+  Today I did ……… &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;This blog is the same dear diary - the only difference being this diary is open to all.&lt;/p&gt;
+
+&lt;p&gt;Earlier I thought that I will confine this blog to just tech related learnings and then I saw &lt;a href=&quot;http://hintjens.com/&quot;&gt;this blog&lt;/a&gt; and it gave me something I can never forget. Every time he mentioned about his last days he taught something important to me. All I can feel - he is so bold and he is making me learn something through his personal experiences of last days and so, I decided to eventually write my own personal experiences and make it open to all. May be someday; someone; reading my experiences will get the strength I got due to Pieter Hintjens.&lt;/p&gt;
+
+&lt;p&gt;But to start, I am coming up with personal notes about a book I am currently reading these days. So, stay tuned since something interesting is coming up really soon.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 06 Oct 2016 06:53:34 +0530</pubDate>
+        <link>http://hitchhiker.ma/random/2016/10/06/welcome-to-my-blog.html</link>
+        <guid isPermaLink="true">http://hitchhiker.ma/random/2016/10/06/welcome-to-my-blog.html</guid>
+        
+        
+        <category>random</category>
+        
+      </item>
+    
+  </channel>
+</rss>
