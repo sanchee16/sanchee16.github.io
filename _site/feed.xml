@@ -6,8 +6,8 @@
 </description>
     <link>http://hitchhiker.ma/</link>
     <atom:link href="http://hitchhiker.ma/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 14 Oct 2016 01:18:03 +0530</pubDate>
-    <lastBuildDate>Fri, 14 Oct 2016 01:18:03 +0530</lastBuildDate>
+    <pubDate>Fri, 14 Oct 2016 01:23:48 +0530</pubDate>
+    <lastBuildDate>Fri, 14 Oct 2016 01:23:48 +0530</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -16,7 +16,8 @@
 
 &lt;p&gt;The course start with a discussion around a problem where we need to predict which things people are more likely to buy with the change of weather.&lt;/p&gt;
 
-&lt;p&gt;Lesson 1 -&lt;/p&gt;
+&lt;p&gt;Lesson 1:&lt;/p&gt;
+
 &lt;ul&gt;
   &lt;li&gt;Discussion about examples of classification problems. For eg. determining if a soyabean has a disease or not using an image.&lt;/li&gt;
   &lt;li&gt;Discussion about binary(either of the two values) and non-binary(categorical variables) examples.&lt;/li&gt;
@@ -39,9 +40,9 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Key take outs - &lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Key take outs:&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;For those who are already aware of Machine Learning - Predictor Variable is what we call as a feature and Target Variable is the objective function.&lt;/li&gt;
+  &lt;li&gt;For those who are already aware of Machine Learning, Predictor Variable is what we call as a feature and Target Variable is the objective function.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 13 Oct 2016 06:53:34 +0530</pubDate>
