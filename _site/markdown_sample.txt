@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title> Sample post from Daktilo — What you can do with it! &raquo;  Sancheeta Kaushal</title>
+<meta name="description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+">
+
+<link rel="canonical" href="http://hitchhiker.ma/markdown_sample.txt">
+        
+
+
+
+
+<!-- Twitter Cards -->
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Sample post from Daktilo" />
+<meta name="twitter:description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+" />
+<meta name="twitter:image" content="http://hitchhiker.ma" />
+
+<!-- Google plus -->
+<meta name="author" content="https://www.google.com/+MotaquillahMaddane">
+<link rel="author" href="https://www.google.com/+MotaquillahMaddane">
+
+<!-- Open Graph -->
+<meta property="og:locale" content="">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Sample post from Daktilo">
+<meta property="og:description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+">
+<meta property="og:url" content="http://hitchhiker.ma/markdown_sample.txt">
+<meta property="og:site_name" content="Sancheeta Kaushal">
+
+        <link href='http://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="/assets/vendor/normalize-css/normalize.css">
+<link rel="stylesheet" href="/css/main.css">
+
+  <link rel="stylesheet" href="/assets/vendor/highlight/styles/solarized_dark.css">
+
+<link rel="stylesheet" href="/assets/vendor/font-awesome/css/font-awesome.css">
+    </head>
+
+    <body>
+        <div class="wrapper">
+            <header class="header">
+    <div class="navigation">
+        <a href="/" class="logo">Sancheeta Kaushal</a>
+
+        <ul class="menu">
+            <li class="menu__entry"><a href="/about">About</a></li>
+            <li class="menu__entry"><a href="/">Blog</a></li>
+            <li class="menu__entry"><a href="https://drive.google.com/open?id=0B00_UkobfItZXzFXTm5vUEV2MWc" target='_blank'>Resume</a></li>
+        </ul>
+    </div>
+
+    <ul class="social-links">
+        
+            <a href="https://github.com/sanchee16" class="social-links__entry" target="_blank">
+                <i class="fa fa-github"></i>
+            </a>
+        
+
+        
+            <a href="https://twitter.com/sanchee15" class="social-links__entry" target="_blank">
+                <i class="fa fa-twitter"></i>
+            </a>
+        
+    </ul>
+</header>
+
+            <h1 class="page-title post-title">
+    <div class="page-title__text post-title__text">Sample post from Daktilo</div>
+    <div class="page-title__subtitle post-title__subtitle">What you can do with it!</div>
+</h1>
+
+<div class="content">
+    Just a sample post to show some of the *typography* elements supported from
+**daktilo** theme.
+
+___
+
+A blockquote:
+
+> We are Hitchhikers in the road of open source knowledge.
+
+## Header 2
+
+Duis lacinia commodo dui, vel aliquam metus hendrerit eu. Integer et scelerisque dui. Sed nec molestie quam. Donec sit amet nisl a massa commodo ultrices nec quis nunc. Aenean aliquet eu arcu adipiscing dignissim. Nunc dictum elit vitae dolor molestie aliquet.
+
+
+Example code:
+
+<figure class="highlight"><pre><code class="language-javascript" data-lang="javascript"><span class="kd">var</span> <span class="nx">light</span> <span class="o">=</span> <span class="k">new</span> <span class="nx">Light</span><span class="p">();</span>
+<span class="kd">var</span> <span class="nx">switchUp</span> <span class="o">=</span> <span class="k">new</span> <span class="nx">FlipUpCommand</span><span class="p">(</span><span class="nx">light</span><span class="p">);</span>
+<span class="kd">var</span> <span class="nx">switchDown</span> <span class="o">=</span> <span class="k">new</span> <span class="nx">FlipDownCommand</span><span class="p">(</span><span class="nx">light</span><span class="p">);</span>
+<span class="kd">var</span> <span class="nx">s</span> <span class="o">=</span> <span class="k">new</span> <span class="nx">Switch</span><span class="p">();</span>
+
+<span class="nx">s</span><span class="p">.</span><span class="nx">storeAndExecute</span><span class="p">(</span><span class="nx">switchUp</span><span class="p">);</span>
+<span class="nx">s</span><span class="p">.</span><span class="nx">storeAndExecute</span><span class="p">(</span><span class="nx">switchDown</span><span class="p">);</span></code></pre></figure>
+
+
+A list:
+
+- Praesent nisi elit, bibendum ut consectetur ac, aliquet in nunc
+- Donec ante est, volutpat in mi et, pulvinar congue dolor.
+- Quisque ultrices pulvinar sollicitudin.
+- Duis elementum odio eu euismod suscipit.
+- Integer enim lorem, interdum sit amet consectetur non, bibendum eget neque.
+
+A numbered list:
+
+1. Praesent nisi elit, bibendum ut consectetur ac, aliquet in nunc.
+2. Donec ante est, volutpat in mi et, pulvinar congue dolor.
+3. Quisque ultrices pulvinar sollicitudin.
+4. Duis elementum odio eu euismod suscipit.
+5. Integer enim lorem, interdum sit amet consectetur non, bibendum eget neque.
+
+Definition list:
+
+Curabitur cursus magna eu sem cursus
+: ac ultrices urna pharetra.
+: Duis scelerisque ipsum eu luctus elementum.
+
+Pellentesque habitant morbi tristique senectus
+: Curabitur malesuada lacus ac gravida porttitor
+: Duis sodales feugiat lorem et mollis.
+
+Want to suggest something? Please [Send me a request](https://github.com/kronik3r/daktilo/issues/new).
+</div>
+
+<div class="about">
+    <div class="about__devider">*****</div>
+    <div class="about__text">
+        Written by <strong>  Sancheeta Kaushal </strong>
+        on <strong>20 August 2014</strong>
+    </div>
+</div>
+
+
+        </div>
+
+        <script src="/assets/vendor/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+        
+    </body>
+</html>
