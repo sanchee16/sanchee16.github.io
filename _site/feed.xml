@@ -6,8 +6,8 @@
 </description>
     <link>http://hitchhiker.ma/</link>
     <atom:link href="http://hitchhiker.ma/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 14 Oct 2016 15:27:06 +0530</pubDate>
-    <lastBuildDate>Fri, 14 Oct 2016 15:27:06 +0530</lastBuildDate>
+    <pubDate>Tue, 18 Oct 2016 18:58:34 +0530</pubDate>
+    <lastBuildDate>Tue, 18 Oct 2016 18:58:34 +0530</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -15,6 +15,7 @@
         <description>&lt;p&gt;This is the course offered by Jeffery Hilton.&lt;/p&gt;
 
 &lt;p&gt;Week 1:&lt;/p&gt;
+
 &lt;ul&gt;
   &lt;li&gt;He starts with a dicussion about the need for machine learning models and talks about the situations where it is really hard to write programs and form rule based solutions since there is no single answer. Additionally, rules need to change and outsmart the ones who try to break the system.&lt;/li&gt;
   &lt;li&gt;Approach is to take examples and train the system using these inputs and outputs. Machine Learning algorithms take care of generalisation.&lt;/li&gt;
@@ -28,7 +29,6 @@
   &lt;li&gt;Discussion about MNIST databased of Handwritten Digits, ImageNet competition and Speech Recognition Task.&lt;/li&gt;
   &lt;li&gt;For speech recognition task, we have pre-processing, the acoustic model and decoding as various steps.&lt;/li&gt;
   &lt;li&gt;Talked about real neurons and how they insipred the development of neural networks as a field of machine learning.&lt;/li&gt;
-  &lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 14 Oct 2016 17:15:34 +0530</pubDate>
