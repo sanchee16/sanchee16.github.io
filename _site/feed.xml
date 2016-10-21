@@ -6,9 +6,31 @@
 </description>
     <link>http://hitchhiker.ma/</link>
     <atom:link href="http://hitchhiker.ma/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 18 Oct 2016 18:58:34 +0530</pubDate>
-    <lastBuildDate>Tue, 18 Oct 2016 18:58:34 +0530</lastBuildDate>
+    <pubDate>Fri, 21 Oct 2016 11:48:59 +0530</pubDate>
+    <lastBuildDate>Fri, 21 Oct 2016 11:48:59 +0530</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Notes for Intro to Statistics!</title>
+        <description>&lt;p&gt;This is the course offered by Sabestian Thrun.&lt;/p&gt;
+
+&lt;p&gt;Lesson 1:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Using statistics he shows how we are actually less popular than our friends in expectation. This is actually called Friendship paradox.&lt;/li&gt;
+  &lt;li&gt;He tells how statistics plays a main role in coverting data to decisions and the fact that a good statistician spends a lot of time at looking the data.&lt;/li&gt;
+  &lt;li&gt;There is a discussion about scatter plot, linearity, outliers and noise and describes how bar charts address the issue of noise by merging points into single bar.&lt;/li&gt;
+  &lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 14 Oct 2016 17:15:34 +0530</pubDate>
+        <link>http://hitchhiker.ma/notes/2016/10/14/notes-for-udacity-course-intro-to-stats.html</link>
+        <guid isPermaLink="true">http://hitchhiker.ma/notes/2016/10/14/notes-for-udacity-course-intro-to-stats.html</guid>
+        
+        
+        <category>notes</category>
+        
+      </item>
     
       <item>
         <title>Notes for Neural Networks!</title>
