@@ -12,7 +12,7 @@ permalink: /about/
 
 Interestingly, I am a geek. A coder by profession, an event manager by passion, a fun lover and a technology enthusiast who loves to explore new things. 
 
-Well, traveling is the first thing that comes to mind when one talks about exploring. Surprisingly, I haven't much but I have cherished the beauty of Himalayas since my birth. It is this nature that drove me to ***reading and writing***, making me believe that writing is an art which I must utilise for realising my inner self and true opinions. 
+Well, traveling is the first thing that comes to mind when one talks about exploring. Surprisingly, I haven't travelled much but I have cherished the beauty of Himalayas since my birth. It is this nature that drove me to ***reading and writing***, making me believe that writing is an art which I must utilise for realising my inner self and true opinions. 
 
 There is another part of my personality that I love the most - ***My food habits. I experiment, I cook and I eat***. The satisfaction of having great food is the best joy in life.
 
