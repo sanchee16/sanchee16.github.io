@@ -6,8 +6,8 @@
 </description>
     <link>http://hitchhiker.ma/</link>
     <atom:link href="http://hitchhiker.ma/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 02 Nov 2016 21:49:08 +0530</pubDate>
-    <lastBuildDate>Wed, 02 Nov 2016 21:49:08 +0530</lastBuildDate>
+    <pubDate>Thu, 08 Dec 2016 13:33:13 +0530</pubDate>
+    <lastBuildDate>Thu, 08 Dec 2016 13:33:13 +0530</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -68,10 +68,22 @@
 
 &lt;ul&gt;
   &lt;li&gt;Using statistics he shows how we are actually less popular than our friends in expectation. This is actually called Friendship paradox.&lt;/li&gt;
-  &lt;li&gt;He tells how statistics plays a main role in coverting data to decisions and the fact that a good statistician spends a lot of time at looking the data.&lt;/li&gt;
+  &lt;li&gt;He tells how statistics plays a main role in converting data to decisions and the fact that a good statistician spends a lot of time looking at the data.&lt;/li&gt;
   &lt;li&gt;There is a discussion about scatter plot, linearity, outliers and noise and describes how bar charts address the issue of noise by merging points into single bar.&lt;/li&gt;
-  &lt;li&gt;&lt;/li&gt;
+  &lt;li&gt;He introduced the concept of interpolation and random noise which is basically deviations from the linear graph.&lt;/li&gt;
+  &lt;li&gt;Moving on to bar charts, he talks about how bar charts pool together groups of data and understand global data trends.&lt;/li&gt;
+  &lt;li&gt;Histograms - special case of bar charts for 1-D data. They use frequency of 1 variable and depict the median.&lt;/li&gt;
+  &lt;li&gt;Relative data visualization in pie charts where he showed how pie charts are invariant to the number and depict just the ratio.&lt;/li&gt;
+  &lt;li&gt;Simpson’s paradox - Paradox which appears in different groups of data but disappears when the groups are combined.&lt;a href=&quot;http://www.unc.edu/~nielsen/soci708/cdocs/Berkeley_admissions_bias.pdf&quot;&gt;(Do read associated UC Berkley Incident)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;Lesson 2:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;He discusses that probability is moving from cause to data and stats is about moving from data to cause.&lt;/li&gt;
+  &lt;li&gt;There is a brief introduction to topic of independent and dependent events&lt;/li&gt;
+  &lt;li&gt;Conditional Probability&lt;/li&gt;
+&lt;/ul&gt;
+
 </description>
         <pubDate>Fri, 14 Oct 2016 17:15:34 +0530</pubDate>
         <link>http://hitchhiker.ma/notes/2016/10/14/notes-for-udacity-course-intro-to-stats.html</link>
