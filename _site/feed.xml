@@ -6,9 +6,50 @@
 </description>
     <link>http://hitchhiker.ma/</link>
     <atom:link href="http://hitchhiker.ma/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 08 Dec 2016 13:33:13 +0530</pubDate>
-    <lastBuildDate>Thu, 08 Dec 2016 13:33:13 +0530</lastBuildDate>
+    <pubDate>Tue, 27 Dec 2016 12:14:43 +0530</pubDate>
+    <lastBuildDate>Tue, 27 Dec 2016 12:14:43 +0530</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Notes for ML!</title>
+        <description>&lt;p&gt;Lesson 1:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ML is algorithms for inferring unknowns from knowns. eg. Filtering out spam, Detect Handwriting, Face Detection, Speech Recognition etc.&lt;/li&gt;
+  &lt;li&gt;Supervised Learning is given data (x1, y1), (x2, y2), (x3, y3), ………….  (xn, yn) , choose a function f(x) = y where xi = data point and yi = class/value and then generalise for new values of x.&lt;/li&gt;
+  &lt;li&gt;Two types of Supervised Learning problems
+    &lt;ul&gt;
+      &lt;li&gt;Classification - yi is from some finite set.&lt;/li&gt;
+      &lt;li&gt;Regression - yi are from Real values.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Unsupervised Learning is given data (x1, x2, x3,……..xn)
+    &lt;ul&gt;
+      &lt;li&gt;Custering&lt;/li&gt;
+      &lt;li&gt;Density Estimation&lt;/li&gt;
+      &lt;li&gt;Dimensionality Reduction should project it down preserving the structure of data.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Variations on supervised and unsupervised learning
+    &lt;ul&gt;
+      &lt;li&gt;Semi Supervised Learning - (x1, y1), (x2, y2), (x3, y3), ………….  (xk, yk), xk+1, xk+2 ….xn,
+  predict yk+1, yk+2 ….. yn. eg.&lt;/li&gt;
+      &lt;li&gt;Active Learning&lt;/li&gt;
+      &lt;li&gt;Decision Theory&lt;/li&gt;
+      &lt;li&gt;Reinforcement Learning - maximize overall reward and minimize overall losses.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Generative vs Discriminative Models&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 19 Dec 2016 17:15:34 +0530</pubDate>
+        <link>http://hitchhiker.ma/notes/2016/12/19/notes-for-youtube-ml-mathematicalmonk.html</link>
+        <guid isPermaLink="true">http://hitchhiker.ma/notes/2016/12/19/notes-for-youtube-ml-mathematicalmonk.html</guid>
+        
+        
+        <category>notes</category>
+        
+      </item>
     
       <item>
         <title>Notes for Artificial Neural Networks!</title>
