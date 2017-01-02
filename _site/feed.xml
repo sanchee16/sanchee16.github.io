@@ -6,9 +6,46 @@
 </description>
     <link>http://hitchhiker.ma/</link>
     <atom:link href="http://hitchhiker.ma/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 27 Dec 2016 12:14:43 +0530</pubDate>
-    <lastBuildDate>Tue, 27 Dec 2016 12:14:43 +0530</lastBuildDate>
+    <pubDate>Mon, 02 Jan 2017 15:10:57 +0530</pubDate>
+    <lastBuildDate>Mon, 02 Jan 2017 15:10:57 +0530</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Notes for CNN for Visual Recognition!</title>
+        <description>&lt;p&gt;Lesson 2:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Image Classification&lt;/li&gt;
+  &lt;li&gt;Semantic Gap - Representation of image on computer as numbers&lt;/li&gt;
+  &lt;li&gt;Challenges are:
+    &lt;ul&gt;
+      &lt;li&gt;Viewpoint Variation - Camera roatations lead to changes in brightness.&lt;/li&gt;
+      &lt;li&gt;Illumination issues&lt;/li&gt;
+      &lt;li&gt;Deformation&lt;/li&gt;
+      &lt;li&gt;Occlusion&lt;/li&gt;
+      &lt;li&gt;Background Clutter&lt;/li&gt;
+      &lt;li&gt;Intraclass Variation&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Follow a data driven approach i.e. Collect dataset of images and labels, use ML algos to train an image 
+classifier and evaluate classifier on test images.&lt;/li&gt;
+  &lt;li&gt;Nearest Neighbour Classifier - Use Manhattan distance&lt;/li&gt;
+  &lt;li&gt;Do more compute at train time but prediction should be constant time computation.&lt;/li&gt;
+  &lt;li&gt;Aside - Approximate Nearest Neighbour (FLANN)&lt;/li&gt;
+  &lt;li&gt;Hyper-parameter - Distance, and the value of k for kNN&lt;/li&gt;
+  &lt;li&gt;Training data, validation data and training data set or Cross Validation&lt;/li&gt;
+  &lt;li&gt;Linear Classification&lt;/li&gt;
+  &lt;li&gt;NN can see, hear, translate, control and think.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 27 Dec 2016 17:30:12 +0530</pubDate>
+        <link>http://hitchhiker.ma/notes/2016/12/27/notes-for-CNN-for-visual-recognition.html</link>
+        <guid isPermaLink="true">http://hitchhiker.ma/notes/2016/12/27/notes-for-CNN-for-visual-recognition.html</guid>
+        
+        
+        <category>notes</category>
+        
+      </item>
     
       <item>
         <title>Notes for ML!</title>
