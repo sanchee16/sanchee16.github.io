@@ -6,9 +6,44 @@
 </description>
     <link>http://hitchhiker.ma/</link>
     <atom:link href="http://hitchhiker.ma/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 17 Jan 2017 18:25:49 +0530</pubDate>
-    <lastBuildDate>Tue, 17 Jan 2017 18:25:49 +0530</lastBuildDate>
+    <pubDate>Tue, 17 Jan 2017 18:28:58 +0530</pubDate>
+    <lastBuildDate>Tue, 17 Jan 2017 18:28:58 +0530</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Notes for Model Building And Validation!</title>
+        <description>&lt;p&gt;Lesson 1:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Example of model building
+    &lt;ul&gt;
+      &lt;li&gt;Toxic and non toxic classification&lt;/li&gt;
+      &lt;li&gt;Advertising - collaborative filtering&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;QMV iterative process of analysis
+    &lt;ul&gt;
+      &lt;li&gt;Questioning&lt;/li&gt;
+      &lt;li&gt;Modeling&lt;/li&gt;
+      &lt;li&gt;Validating&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Must choose a metric capturing the phenomenon&lt;/li&gt;
+  &lt;li&gt;Classification vs Regression in a scenario&lt;/li&gt;
+  &lt;li&gt;Classification - Naive Bayes, Perceptron, Logistic Regression&lt;/li&gt;
+  &lt;li&gt;Check if data has locality or spatial properties - kNN&lt;/li&gt;
+  &lt;li&gt;Consumer Choice Modeling&lt;/li&gt;
+  &lt;li&gt;Inter selection time&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 17 Jan 2017 17:15:34 +0530</pubDate>
+        <link>http://hitchhiker.ma/notes/2017/01/17/notes-for-model-building-and-validation.html</link>
+        <guid isPermaLink="true">http://hitchhiker.ma/notes/2017/01/17/notes-for-model-building-and-validation.html</guid>
+        
+        
+        <category>notes</category>
+        
+      </item>
     
       <item>
         <title>Notes for Intro to Inferential Statistics!</title>
