@@ -6,8 +6,8 @@
 </description>
     <link>http://hitchhiker.ma/</link>
     <atom:link href="http://hitchhiker.ma/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 17 Jan 2017 18:17:09 +0530</pubDate>
-    <lastBuildDate>Tue, 17 Jan 2017 18:17:09 +0530</lastBuildDate>
+    <pubDate>Tue, 17 Jan 2017 18:28:58 +0530</pubDate>
+    <lastBuildDate>Tue, 17 Jan 2017 18:28:58 +0530</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -137,7 +137,40 @@ classifier and evaluate classifier on test images.&lt;/li&gt;
       &lt;li&gt;Reinforcement Learning - maximize overall reward and minimize overall losses.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;Generative vs Discriminative Models&lt;/li&gt;
+  &lt;li&gt;Generative vs Discriminative Models
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;table&gt;
+          &lt;tbody&gt;
+            &lt;tr&gt;
+              &lt;td&gt;Discriminative = P(y&lt;/td&gt;
+              &lt;td&gt;x) - Conditional Probability&lt;/td&gt;
+            &lt;/tr&gt;
+          &lt;/tbody&gt;
+        &lt;/table&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;table&gt;
+          &lt;tbody&gt;
+            &lt;tr&gt;
+              &lt;td&gt;Generative = P(x,y) = f(x&lt;/td&gt;
+              &lt;td&gt;y) p(y) = p(y&lt;/td&gt;
+              &lt;td&gt;x) f(x) - models joint distribution - more powerful than Discriminative since using more parameters&lt;/td&gt;
+            &lt;/tr&gt;
+          &lt;/tbody&gt;
+        &lt;/table&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Estimating a density is difficult and need a lot of data leading to high variance and hence Generative model will have bad performance than Discriminative.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;kNN
+    &lt;ul&gt;
+      &lt;li&gt;circle concept that is used to decide the class of the test point&lt;/li&gt;
+      &lt;li&gt;Probabilistic interpretation - (y) =&lt;/li&gt;
+      &lt;li&gt;Discriminative model&lt;/li&gt;
+      &lt;li&gt;Bias - variance tradeoff&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 19 Dec 2016 17:15:34 +0530</pubDate>

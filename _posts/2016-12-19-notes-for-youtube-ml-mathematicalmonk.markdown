@@ -24,3 +24,11 @@ Lesson 1:
 	- Decision Theory
 	- Reinforcement Learning - maximize overall reward and minimize overall losses.
 - Generative vs Discriminative Models 
+	- Discriminative = P(y|x) - Conditional Probability
+	- Generative = P(x,y) = f(x|y) p(y) = p(y|x) f(x) - models joint distribution - more powerful than Discriminative since using more parameters
+	- Estimating a density is difficult and need a lot of data leading to high variance and hence Generative model will have bad performance than Discriminative.
+- kNN 
+	- circle concept that is used to decide the class of the test point
+	- Probabilistic interpretation - (y) = 
+	- Discriminative model
+	- Bias - variance tradeoff  
