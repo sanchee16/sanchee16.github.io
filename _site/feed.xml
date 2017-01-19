@@ -6,9 +6,36 @@
 </description>
     <link>http://hitchhiker.ma/</link>
     <atom:link href="http://hitchhiker.ma/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 17 Jan 2017 18:31:55 +0530</pubDate>
-    <lastBuildDate>Tue, 17 Jan 2017 18:31:55 +0530</lastBuildDate>
+    <pubDate>Thu, 19 Jan 2017 18:27:49 +0530</pubDate>
+    <lastBuildDate>Thu, 19 Jan 2017 18:27:49 +0530</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Notes for Segmentation and Clsutering!</title>
+        <description>&lt;p&gt;Lesson 1:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Segmentation&lt;/li&gt;
+  &lt;li&gt;Standardization where we treat a group as a whole&lt;/li&gt;
+  &lt;li&gt;Localization where we treat them as individuals&lt;/li&gt;
+  &lt;li&gt;Grouping or binning&lt;/li&gt;
+  &lt;li&gt;It becomes difficult to group as the number of variables increase&lt;/li&gt;
+  &lt;li&gt;Clustering is a mathematical procedure for multidimensional analysis&lt;/li&gt;
+  &lt;li&gt;For a given set of objects, this procedure groups similar objects into clusters&lt;/li&gt;
+  &lt;li&gt;Distance is way to measure similarity&lt;/li&gt;
+  &lt;li&gt;Intra cluster separation is minimized and inter cluster distance is maximized&lt;/li&gt;
+  &lt;li&gt;eg. Fradulant insurance Claim, User Segmentation, Bioinformatics Study, Education&lt;/li&gt;
+  &lt;li&gt;Supervised and Unsupervised Learning&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 19 Jan 2017 17:15:34 +0530</pubDate>
+        <link>http://hitchhiker.ma/notes/2017/01/19/notes-for-segmentation-and-clustering.html</link>
+        <guid isPermaLink="true">http://hitchhiker.ma/notes/2017/01/19/notes-for-segmentation-and-clustering.html</guid>
+        
+        
+        <category>notes</category>
+        
+      </item>
     
       <item>
         <title>Notes for Model Building And Validation!</title>
