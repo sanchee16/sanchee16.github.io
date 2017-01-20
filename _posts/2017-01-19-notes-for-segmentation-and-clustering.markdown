@@ -21,6 +21,7 @@ Lesson 1:
 - Supervised and Unsupervised Learning 
 
 Lesson 2:
+
 - Selecting data based on objectives
 - Use demographic and social data in first phases and remove historical data. 
 - Predetermined Bias in Transactional Data - A/B testing
@@ -33,6 +34,7 @@ Lesson 2:
 - Transforming Variables and visualising the data
 
 Lesson 3:
+
 - Variable Reduction Procedures help in accounting for most of the variables 
  in all of the observed variables 
 - Principle variables or artificial variables explain most of the variance

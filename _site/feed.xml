@@ -6,8 +6,8 @@
 </description>
     <link>http://hitchhiker.ma/</link>
     <atom:link href="http://hitchhiker.ma/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 20 Jan 2017 17:15:33 +0530</pubDate>
-    <lastBuildDate>Fri, 20 Jan 2017 17:15:33 +0530</lastBuildDate>
+    <pubDate>Fri, 20 Jan 2017 17:18:01 +0530</pubDate>
+    <lastBuildDate>Fri, 20 Jan 2017 17:18:01 +0530</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -29,6 +29,7 @@
 &lt;/ul&gt;
 
 &lt;p&gt;Lesson 2:&lt;/p&gt;
+
 &lt;ul&gt;
   &lt;li&gt;Selecting data based on objectives&lt;/li&gt;
   &lt;li&gt;Use demographic and social data in first phases and remove historical data.&lt;/li&gt;
@@ -49,6 +50,7 @@
 &lt;/ul&gt;
 
 &lt;p&gt;Lesson 3:&lt;/p&gt;
+
 &lt;ul&gt;
   &lt;li&gt;Variable Reduction Procedures help in accounting for most of the variables 
  in all of the observed variables&lt;/li&gt;
