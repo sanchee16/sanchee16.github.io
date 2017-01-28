@@ -144,6 +144,8 @@ Want to suggest something? Please [Send me a request](https://github.com/kronik3
 
         <script src="/assets/vendor/highlight/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
+<script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
         
     </body>
 </html>
