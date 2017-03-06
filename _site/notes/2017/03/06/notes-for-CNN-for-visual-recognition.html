@@ -8,7 +8,7 @@
 <meta name="description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 ">
 <meta name="keywords" content="">
-<link rel="canonical" href="http://hitchhiker.ma/notes/2016/12/27/notes-for-CNN-for-visual-recognition.html">
+<link rel="canonical" href="http://hitchhiker.ma/notes/2017/03/06/notes-for-CNN-for-visual-recognition.html">
         
 
 
@@ -31,7 +31,7 @@
 <meta property="og:title" content="Notes for CNN for Visual Recognition!">
 <meta property="og:description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 ">
-<meta property="og:url" content="http://hitchhiker.ma/notes/2016/12/27/notes-for-CNN-for-visual-recognition.html">
+<meta property="og:url" content="http://hitchhiker.ma/notes/2017/03/06/notes-for-CNN-for-visual-recognition.html">
 <meta property="og:site_name" content="Sancheeta Kaushal">
 
         <link href='http://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'>
@@ -84,7 +84,7 @@
   <li>Semantic Gap - Representation of image on computer as numbers</li>
   <li>Challenges are:
     <ul>
-      <li>Viewpoint Variation - Camera roatations lead to changes in brightness.</li>
+      <li>Viewpoint Variation - Camera rotations lead to changes in brightness.</li>
       <li>Illumination issues</li>
       <li>Deformation</li>
       <li>Occlusion</li>
@@ -92,7 +92,7 @@
       <li>Intraclass Variation</li>
     </ul>
   </li>
-  <li>Follow a data driven approach i.e. Collect dataset of images and labels, use ML algos to train an image 
+  <li>Follow a data-driven approach i.e. Collect dataset of images and labels, use ML algos to train an image 
 classifier and evaluate classifier on test images.</li>
   <li>Nearest Neighbour Classifier - Use Manhattan distance</li>
   <li>Do more compute at train time but prediction should be constant time computation.</li>
@@ -103,13 +103,58 @@ classifier and evaluate classifier on test images.</li>
   <li>NN can see, hear, translate, control and think.</li>
 </ul>
 
+<p>Lecture 4:</p>
+
+<ul>
+  <li>Forward pass gives loss and backward pass gives gradients</li>
+  <li>Gradient Descent
+    <ul>
+      <li>Numerical which is slow and approx but easy to write</li>
+      <li>Analytical which is fast and exact but error prone</li>
+    </ul>
+  </li>
+  <li>Computational Graph is huge for Neural Turing Machine</li>
+  <li>Chain rule for backprop</li>
+  <li>Local gradients are computed at the time of forward pass and can be chained to global gradient later at the time of backprop.</li>
+  <li>For plus gate, during back prop, the value for the next gate is 1 * the previous value.</li>
+  <li>For multiplicative gate, during back prop, the value for the next gate is the value of other input * the previous value.</li>
+  <li>Hence, add gate is gradient distributor, the max gate is gradient router and mul gate can be the gradient switcher.</li>
+  <li>At branches, gradients are added according to multivariate chain rule.</li>
+  <li>Graph class with nodes topologically sorted and forward and backward function</li>
+  <li>Lot of memory required to store intermediate results that will be used during back prop</li>
+  <li>For vectors, we have jacobian matrix which stores derivative of each element of output wrt input</li>
+  <li>Vectorized Operations</li>
+  <li>Jacobian matrix is not always a full matrix and is a sparse matrix because there are values only on the diagonal and even not all those values are be used.</li>
+  <li>Backpropagation is recursive application of chain rule along computational graph to computer gradients  of all inputs/params/intermediates</li>
+  <li>Biological description of neurons
+    <ul>
+      <li>Soma: cell body</li>
+      <li>Dendrites: listeners/input</li>
+      <li>Axon: terminals/output</li>
+    </ul>
+  </li>
+  <li>Activation functions
+    <ul>
+      <li>Sigmoid</li>
+      <li>tanh</li>
+      <li>ReLU</li>
+      <li>Maxout</li>
+      <li>Leaky ReLU</li>
+      <li>ELU</li>
+    </ul>
+  </li>
+  <li>Fully connected layer and hidden layers</li>
+  <li>Kernel trick changes data representation to a space where it’s linearly separable</li>
+</ul>
+
+
 </div>
 
 <div class="about">
     <div class="about__devider">*****</div>
     <div class="about__text">
         Written by <strong>  Sancheeta Kaushal </strong>
-        on <strong>27 December 2016</strong>
+        on <strong>06 March 2017</strong>
     </div>
 </div>
 

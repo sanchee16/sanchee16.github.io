@@ -6,9 +6,91 @@
 </description>
     <link>http://hitchhiker.ma/</link>
     <atom:link href="http://hitchhiker.ma/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 19 Feb 2017 18:49:39 +0530</pubDate>
-    <lastBuildDate>Sun, 19 Feb 2017 18:49:39 +0530</lastBuildDate>
+    <pubDate>Mon, 06 Mar 2017 16:24:20 +0530</pubDate>
+    <lastBuildDate>Mon, 06 Mar 2017 16:24:20 +0530</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Notes for CNN for Visual Recognition!</title>
+        <description>&lt;p&gt;Lesson 2:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Image Classification&lt;/li&gt;
+  &lt;li&gt;Semantic Gap - Representation of image on computer as numbers&lt;/li&gt;
+  &lt;li&gt;Challenges are:
+    &lt;ul&gt;
+      &lt;li&gt;Viewpoint Variation - Camera rotations lead to changes in brightness.&lt;/li&gt;
+      &lt;li&gt;Illumination issues&lt;/li&gt;
+      &lt;li&gt;Deformation&lt;/li&gt;
+      &lt;li&gt;Occlusion&lt;/li&gt;
+      &lt;li&gt;Background Clutter&lt;/li&gt;
+      &lt;li&gt;Intraclass Variation&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Follow a data-driven approach i.e. Collect dataset of images and labels, use ML algos to train an image 
+classifier and evaluate classifier on test images.&lt;/li&gt;
+  &lt;li&gt;Nearest Neighbour Classifier - Use Manhattan distance&lt;/li&gt;
+  &lt;li&gt;Do more compute at train time but prediction should be constant time computation.&lt;/li&gt;
+  &lt;li&gt;Aside - Approximate Nearest Neighbour (FLANN)&lt;/li&gt;
+  &lt;li&gt;Hyper-parameter - Distance, and the value of k for kNN&lt;/li&gt;
+  &lt;li&gt;Training data, validation data and training data set or Cross Validation&lt;/li&gt;
+  &lt;li&gt;Linear Classification&lt;/li&gt;
+  &lt;li&gt;NN can see, hear, translate, control and think.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Lecture 4:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Forward pass gives loss and backward pass gives gradients&lt;/li&gt;
+  &lt;li&gt;Gradient Descent
+    &lt;ul&gt;
+      &lt;li&gt;Numerical which is slow and approx but easy to write&lt;/li&gt;
+      &lt;li&gt;Analytical which is fast and exact but error prone&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Computational Graph is huge for Neural Turing Machine&lt;/li&gt;
+  &lt;li&gt;Chain rule for backprop&lt;/li&gt;
+  &lt;li&gt;Local gradients are computed at the time of forward pass and can be chained to global gradient later at the time of backprop.&lt;/li&gt;
+  &lt;li&gt;For plus gate, during back prop, the value for the next gate is 1 * the previous value.&lt;/li&gt;
+  &lt;li&gt;For multiplicative gate, during back prop, the value for the next gate is the value of other input * the previous value.&lt;/li&gt;
+  &lt;li&gt;Hence, add gate is gradient distributor, the max gate is gradient router and mul gate can be the gradient switcher.&lt;/li&gt;
+  &lt;li&gt;At branches, gradients are added according to multivariate chain rule.&lt;/li&gt;
+  &lt;li&gt;Graph class with nodes topologically sorted and forward and backward function&lt;/li&gt;
+  &lt;li&gt;Lot of memory required to store intermediate results that will be used during back prop&lt;/li&gt;
+  &lt;li&gt;For vectors, we have jacobian matrix which stores derivative of each element of output wrt input&lt;/li&gt;
+  &lt;li&gt;Vectorized Operations&lt;/li&gt;
+  &lt;li&gt;Jacobian matrix is not always a full matrix and is a sparse matrix because there are values only on the diagonal and even not all those values are be used.&lt;/li&gt;
+  &lt;li&gt;Backpropagation is recursive application of chain rule along computational graph to computer gradients  of all inputs/params/intermediates&lt;/li&gt;
+  &lt;li&gt;Biological description of neurons
+    &lt;ul&gt;
+      &lt;li&gt;Soma: cell body&lt;/li&gt;
+      &lt;li&gt;Dendrites: listeners/input&lt;/li&gt;
+      &lt;li&gt;Axon: terminals/output&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Activation functions
+    &lt;ul&gt;
+      &lt;li&gt;Sigmoid&lt;/li&gt;
+      &lt;li&gt;tanh&lt;/li&gt;
+      &lt;li&gt;ReLU&lt;/li&gt;
+      &lt;li&gt;Maxout&lt;/li&gt;
+      &lt;li&gt;Leaky ReLU&lt;/li&gt;
+      &lt;li&gt;ELU&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Fully connected layer and hidden layers&lt;/li&gt;
+  &lt;li&gt;Kernel trick changes data representation to a space where it’s linearly separable&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Mon, 06 Mar 2017 17:30:12 +0530</pubDate>
+        <link>http://hitchhiker.ma/notes/2017/03/06/notes-for-CNN-for-visual-recognition.html</link>
+        <guid isPermaLink="true">http://hitchhiker.ma/notes/2017/03/06/notes-for-CNN-for-visual-recognition.html</guid>
+        
+        
+        <category>notes</category>
+        
+      </item>
     
       <item>
         <title>Notes for Segmentation and Clustering!</title>
@@ -138,43 +220,6 @@
         <pubDate>Sun, 08 Jan 2017 17:15:34 +0530</pubDate>
         <link>http://hitchhiker.ma/notes/2017/01/08/notes-for-udacity-course-inferential-stats.html</link>
         <guid isPermaLink="true">http://hitchhiker.ma/notes/2017/01/08/notes-for-udacity-course-inferential-stats.html</guid>
-        
-        
-        <category>notes</category>
-        
-      </item>
-    
-      <item>
-        <title>Notes for CNN for Visual Recognition!</title>
-        <description>&lt;p&gt;Lesson 2:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Image Classification&lt;/li&gt;
-  &lt;li&gt;Semantic Gap - Representation of image on computer as numbers&lt;/li&gt;
-  &lt;li&gt;Challenges are:
-    &lt;ul&gt;
-      &lt;li&gt;Viewpoint Variation - Camera roatations lead to changes in brightness.&lt;/li&gt;
-      &lt;li&gt;Illumination issues&lt;/li&gt;
-      &lt;li&gt;Deformation&lt;/li&gt;
-      &lt;li&gt;Occlusion&lt;/li&gt;
-      &lt;li&gt;Background Clutter&lt;/li&gt;
-      &lt;li&gt;Intraclass Variation&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Follow a data driven approach i.e. Collect dataset of images and labels, use ML algos to train an image 
-classifier and evaluate classifier on test images.&lt;/li&gt;
-  &lt;li&gt;Nearest Neighbour Classifier - Use Manhattan distance&lt;/li&gt;
-  &lt;li&gt;Do more compute at train time but prediction should be constant time computation.&lt;/li&gt;
-  &lt;li&gt;Aside - Approximate Nearest Neighbour (FLANN)&lt;/li&gt;
-  &lt;li&gt;Hyper-parameter - Distance, and the value of k for kNN&lt;/li&gt;
-  &lt;li&gt;Training data, validation data and training data set or Cross Validation&lt;/li&gt;
-  &lt;li&gt;Linear Classification&lt;/li&gt;
-  &lt;li&gt;NN can see, hear, translate, control and think.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 27 Dec 2016 17:30:12 +0530</pubDate>
-        <link>http://hitchhiker.ma/notes/2016/12/27/notes-for-CNN-for-visual-recognition.html</link>
-        <guid isPermaLink="true">http://hitchhiker.ma/notes/2016/12/27/notes-for-CNN-for-visual-recognition.html</guid>
         
         
         <category>notes</category>
