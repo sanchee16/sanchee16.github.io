@@ -6,9 +6,46 @@
 </description>
     <link>http://hitchhiker.ma/</link>
     <atom:link href="http://hitchhiker.ma/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 06 Mar 2017 16:24:20 +0530</pubDate>
-    <lastBuildDate>Mon, 06 Mar 2017 16:24:20 +0530</lastBuildDate>
+    <pubDate>Mon, 27 Mar 2017 11:24:05 +0530</pubDate>
+    <lastBuildDate>Mon, 27 Mar 2017 11:24:05 +0530</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Notes for Intro to Data Analysis!</title>
+        <description>&lt;p&gt;Lesson 1:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Data Analysis Process
+    &lt;ul&gt;
+      &lt;li&gt;Question&lt;/li&gt;
+      &lt;li&gt;Wrangle
+        &lt;ul&gt;
+          &lt;li&gt;Acquiring Data&lt;/li&gt;
+          &lt;li&gt;Cleaning Data&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Explore&lt;/li&gt;
+      &lt;li&gt;Draw conclusions&lt;/li&gt;
+      &lt;li&gt;Communicate&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The process is iterative and need to go back and forth.&lt;/li&gt;
+  &lt;li&gt;Each row of csv can be represented in two ways in python
+    &lt;ul&gt;
+      &lt;li&gt;As a list&lt;/li&gt;
+      &lt;li&gt;As a dictionary&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 24 Mar 2017 06:53:34 +0530</pubDate>
+        <link>http://hitchhiker.ma/notes/2017/03/24/notes-for-udacity-intro-to-data-analysis.html</link>
+        <guid isPermaLink="true">http://hitchhiker.ma/notes/2017/03/24/notes-for-udacity-intro-to-data-analysis.html</guid>
+        
+        
+        <category>notes</category>
+        
+      </item>
     
       <item>
         <title>Notes for CNN for Visual Recognition!</title>
@@ -436,30 +473,6 @@ classifier and evaluate classifier on test images.&lt;/li&gt;
         
         
         <category>notes</category>
-        
-      </item>
-    
-      <item>
-        <title>Welcome to my blog!</title>
-        <description>&lt;p&gt;First of all, thanks for visiting my blog.&lt;/p&gt;
-
-&lt;p&gt;I think of this blog as my scratch book. A place where I can write about my experiences in personal and professional life. Remember the days we used to write diaries in the childhood as &lt;br /&gt;
-Dear Diary, &lt;br /&gt;
-  Today I did ……… &lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;This blog is the same dear diary - the only difference being this diary is open to all.&lt;/p&gt;
-
-&lt;p&gt;Earlier I thought that I will confine this blog to just tech related learnings and then I saw &lt;a href=&quot;http://hintjens.com/&quot;&gt;this blog&lt;/a&gt; and it gave me something I can never forget. Every time he mentioned about his last days he taught something important to me. All I can feel - he is so bold and he is making me learn something through his personal experiences of last days and so, I decided to eventually write my own personal experiences and make it open to all. May be someday; someone; reading my experiences will get the strength I got due to Pieter Hintjens.&lt;/p&gt;
-
-&lt;p&gt;But to start, I am coming up with personal notes about a book I am currently reading these days. So, stay tuned since something interesting is coming up really soon.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 06 Oct 2016 06:53:34 +0530</pubDate>
-        <link>http://hitchhiker.ma/random/2016/10/06/welcome-to-my-blog.html</link>
-        <guid isPermaLink="true">http://hitchhiker.ma/random/2016/10/06/welcome-to-my-blog.html</guid>
-        
-        
-        <category>random</category>
         
       </item>
     
