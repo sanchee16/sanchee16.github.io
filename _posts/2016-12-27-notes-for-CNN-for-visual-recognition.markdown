@@ -61,3 +61,30 @@ Lecture 4:
 - Fully connected layer and hidden layers
 - Kernel trick changes data representation to a space where it's linearly separable
 
+
+Lecture 5:
+
+- People hardly train CNN from scratch. Pretraining and fine tuning is used.
+- Transfer Learning 
+    - Train network on Imagenet
+    - If small dataset, fix all weights retrain only the classifier on your data. Here CNN is treated as fixed feature extractor.
+    - If medium sized dataset, use old weights as initialization, train the full network or only some of the higher layers. eg. Caffe Model Zoo
+- History 
+    - Perceptron 
+    - Multilayer Perceptron 
+    - Back Propagation Rules 
+    - Reinvigorated Research in Deep Learning 
+    - Imagenet Classification With Deep CNN
+        - Better ways of Initialization
+        - GPUs
+        - More data
+- Activation Function
+    - Sigmoid 
+        - Squashing Function to [0, 1]
+
+
+
+
+
+
+

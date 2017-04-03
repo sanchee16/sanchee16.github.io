@@ -6,8 +6,8 @@
 </description>
     <link>http://hitchhiker.ma/</link>
     <atom:link href="http://hitchhiker.ma/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 27 Mar 2017 11:24:05 +0530</pubDate>
-    <lastBuildDate>Mon, 27 Mar 2017 11:24:05 +0530</lastBuildDate>
+    <pubDate>Mon, 03 Apr 2017 18:34:51 +0530</pubDate>
+    <lastBuildDate>Mon, 03 Apr 2017 18:34:51 +0530</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -117,6 +117,43 @@ classifier and evaluate classifier on test images.&lt;/li&gt;
   &lt;/li&gt;
   &lt;li&gt;Fully connected layer and hidden layers&lt;/li&gt;
   &lt;li&gt;Kernel trick changes data representation to a space where it’s linearly separable&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Lecture 5:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;People hardly train CNN from scratch. Pretraining and fine tuning is used.&lt;/li&gt;
+  &lt;li&gt;Transfer Learning
+    &lt;ul&gt;
+      &lt;li&gt;Train network on Imagenet&lt;/li&gt;
+      &lt;li&gt;If small dataset, fix all weights retrain only the classifier on your data. Here CNN is treated as fixed feature extractor.&lt;/li&gt;
+      &lt;li&gt;If medium sized dataset, use old weights as initialization, train the full network or only some of the higher layers. eg. Caffe Model Zoo&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;History
+    &lt;ul&gt;
+      &lt;li&gt;Perceptron&lt;/li&gt;
+      &lt;li&gt;Multilayer Perceptron&lt;/li&gt;
+      &lt;li&gt;Back Propagation Rules&lt;/li&gt;
+      &lt;li&gt;Reinvigorated Research in Deep Learning&lt;/li&gt;
+      &lt;li&gt;Imagenet Classification With Deep CNN
+        &lt;ul&gt;
+          &lt;li&gt;Better ways of Initialization&lt;/li&gt;
+          &lt;li&gt;GPUs&lt;/li&gt;
+          &lt;li&gt;More data&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Activation Function
+    &lt;ul&gt;
+      &lt;li&gt;Sigmoid
+        &lt;ul&gt;
+          &lt;li&gt;Squashing Function to [0, 1]&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
 </description>
