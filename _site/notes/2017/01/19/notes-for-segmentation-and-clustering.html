@@ -4,11 +4,11 @@
         <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title> Notes for Intro to Inferential Statistics! — A Course by Udacity &raquo;  Sancheeta Kaushal</title>
+<title> Notes for Segmentation and Clustering! — A Course by Udacity &raquo;  Sancheeta Kaushal</title>
 <meta name="description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 ">
 <meta name="keywords" content="">
-<link rel="canonical" href="http://hitchhiker.ma/notes/2017/01/08/notes-for-udacity-course-inferential-stats.html">
+<link rel="canonical" href="http://hitchhiker.ma/notes/2017/01/19/notes-for-segmentation-and-clustering.html">
         
 
 
@@ -16,7 +16,7 @@
 
 <!-- Twitter Cards -->
 <meta name="twitter:card" content="summary" />
-<meta name="twitter:title" content="Notes for Intro to Inferential Statistics!" />
+<meta name="twitter:title" content="Notes for Segmentation and Clustering!" />
 <meta name="twitter:description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 " />
 <meta name="twitter:image" content="http://hitchhiker.ma" />
@@ -28,10 +28,10 @@
 <!-- Open Graph -->
 <meta property="og:locale" content="">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Notes for Intro to Inferential Statistics!">
+<meta property="og:title" content="Notes for Segmentation and Clustering!">
 <meta property="og:description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 ">
-<meta property="og:url" content="http://hitchhiker.ma/notes/2017/01/08/notes-for-udacity-course-inferential-stats.html">
+<meta property="og:url" content="http://hitchhiker.ma/notes/2017/01/19/notes-for-segmentation-and-clustering.html">
 <meta property="og:site_name" content="Sancheeta Kaushal">
 
         <link href='http://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'>
@@ -72,7 +72,7 @@
 </header>
 
             <h1 class="page-title post-title">
-    <div class="page-title__text post-title__text">Notes for Intro to Inferential Statistics!</div>
+    <div class="page-title__text post-title__text">Notes for Segmentation and Clustering!</div>
     <div class="page-title__subtitle post-title__subtitle">A Course by Udacity</div>
 </h1>
 
@@ -80,16 +80,63 @@
     <p>Lesson 1:</p>
 
 <ul>
-  <li>Sample mean = Population Mean</li>
-  <li>Sample Standard Deviation = Population Standard Deviation/sqrt(number of samples) = Standard Error</li>
-  <li>z score indicates how many standard deviation is an element from the mean</li>
-  <li>Distribution of sample means is sampling distribution</li>
-  <li>Point Estimate</li>
-  <li>Mean of Treated Population vs Sample Mean</li>
-  <li>In a normal distribution, 68% of sample falls in one Sample SD and 95% SD fall in two Sample SD</li>
-  <li>2 * Sample SD is margin of error</li>
-  <li>95% Confidence Interval is mean +/- margin of error</li>
-  <li>95% of sample means are within 1.96 Standard Errors from the population mean in a sampling distribution</li>
+  <li>Process of Segmentation</li>
+  <li>Standardisation where we treat a group as a whole</li>
+  <li>Localisation where we treat them as individuals</li>
+  <li>Grouping or binning</li>
+  <li>It becomes difficult to group as the number of variables increase</li>
+  <li>Clustering is a mathematical procedure for multidimensional analysis</li>
+  <li>For a given set of objects, this procedure groups similar objects into clusters</li>
+  <li>Distance is way to measure similarity</li>
+  <li>Intra-cluster separation is minimised and inter-cluster distance is maximised</li>
+  <li>eg. Fraudulent insurance Claim, User Segmentation, Bioinformatics Study, Education</li>
+  <li>Supervised and Unsupervised Learning</li>
+</ul>
+
+<p>Lesson 2:</p>
+
+<ul>
+  <li>Selecting data based on objectives</li>
+  <li>Use demographic and social data in first phases and remove historical data.</li>
+  <li>Predetermined Bias in Transactional Data - A/B testing</li>
+  <li>Data types in clustering
+    <ul>
+      <li>Continuous or Ordinal Variables</li>
+      <li>Outliers</li>
+    </ul>
+  </li>
+  <li>Scaling data because distance is important in cluster analysis
+    <ul>
+      <li>Z score or standard score i.e. no. of SD away from the mean</li>
+      <li>Unit interval compressing all values between 0 and 1</li>
+    </ul>
+  </li>
+  <li>Transforming Variables and visualising the data</li>
+</ul>
+
+<p>Lesson 3:</p>
+
+<ul>
+  <li>Variable Reduction Procedures help in accounting for most of the variables 
+ in all of the observed variables</li>
+  <li>Principle variables or artificial variables explain most of the variance</li>
+  <li>Try to use variable reduction when variables are somewhat related</li>
+  <li>Need to weight benefits one can get from reducing the no. of variables used in 
+ clustering analysis, with the all important aspect of needing to be able to explain
+ the basis for clusters</li>
+  <li>Types of Variable Reduction Procedures
+    <ul>
+      <li>Factor Analysis - Correlation between variables, trying to figure out causes</li>
+      <li>Principal Component Analysis - accounts for total variation, trying to summarise</li>
+    </ul>
+  </li>
+  <li>Factor Analysis makes assumptions for underlying causal model while PCA doesn’t</li>
+  <li>In PCA, combine variables that are related to a common story</li>
+  <li>Loadings and Values
+    <ul>
+      <li>Close to zero loading has less value on components</li>
+    </ul>
+  </li>
 </ul>
 
 </div>
@@ -98,7 +145,7 @@
     <div class="about__devider">*****</div>
     <div class="about__text">
         Written by <strong>  Sancheeta Kaushal </strong>
-        on <strong>08 January 2017</strong>
+        on <strong>19 January 2017</strong>
     </div>
 </div>
 

@@ -6,9 +6,46 @@
 </description>
     <link>http://hitchhiker.ma/</link>
     <atom:link href="http://hitchhiker.ma/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 03 Apr 2017 18:45:38 +0530</pubDate>
-    <lastBuildDate>Mon, 03 Apr 2017 18:45:38 +0530</lastBuildDate>
+    <pubDate>Mon, 03 Apr 2017 18:49:30 +0530</pubDate>
+    <lastBuildDate>Mon, 03 Apr 2017 18:49:30 +0530</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Notes for Intro to Data Analysis!</title>
+        <description>&lt;p&gt;Lesson 1:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Data Analysis Process
+    &lt;ul&gt;
+      &lt;li&gt;Question&lt;/li&gt;
+      &lt;li&gt;Wrangle
+        &lt;ul&gt;
+          &lt;li&gt;Acquiring Data&lt;/li&gt;
+          &lt;li&gt;Cleaning Data&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Explore&lt;/li&gt;
+      &lt;li&gt;Draw conclusions&lt;/li&gt;
+      &lt;li&gt;Communicate&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The process is iterative and need to go back and forth.&lt;/li&gt;
+  &lt;li&gt;Each row of csv can be represented in two ways in python
+    &lt;ul&gt;
+      &lt;li&gt;As a list&lt;/li&gt;
+      &lt;li&gt;As a dictionary&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 24 Mar 2017 06:53:34 +0530</pubDate>
+        <link>http://hitchhiker.ma/notes/2017/03/24/notes-for-udacity-intro-to-data-analysis.html</link>
+        <guid isPermaLink="true">http://hitchhiker.ma/notes/2017/03/24/notes-for-udacity-intro-to-data-analysis.html</guid>
+        
+        
+        <category>notes</category>
+        
+      </item>
     
       <item>
         <title>Notes for ML!</title>
@@ -72,6 +109,161 @@
       </item>
     
       <item>
+        <title>Notes for CNN for Visual Recognition!</title>
+        <description>&lt;p&gt;Lesson 2:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Image Classification&lt;/li&gt;
+  &lt;li&gt;Semantic Gap - Representation of image on computer as numbers&lt;/li&gt;
+  &lt;li&gt;Challenges are:
+    &lt;ul&gt;
+      &lt;li&gt;Viewpoint Variation - Camera rotations lead to changes in brightness.&lt;/li&gt;
+      &lt;li&gt;Illumination issues&lt;/li&gt;
+      &lt;li&gt;Deformation&lt;/li&gt;
+      &lt;li&gt;Occlusion&lt;/li&gt;
+      &lt;li&gt;Background Clutter&lt;/li&gt;
+      &lt;li&gt;Intraclass Variation&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Follow a data-driven approach i.e. Collect dataset of images and labels, use ML algos to train an image 
+classifier and evaluate classifier on test images.&lt;/li&gt;
+  &lt;li&gt;Nearest Neighbour Classifier - Use Manhattan distance&lt;/li&gt;
+  &lt;li&gt;Do more compute at train time but prediction should be constant time computation.&lt;/li&gt;
+  &lt;li&gt;Aside - Approximate Nearest Neighbour (FLANN)&lt;/li&gt;
+  &lt;li&gt;Hyper-parameter - Distance, and the value of k for kNN&lt;/li&gt;
+  &lt;li&gt;Training data, validation data and training data set or Cross Validation&lt;/li&gt;
+  &lt;li&gt;Linear Classification&lt;/li&gt;
+  &lt;li&gt;NN can see, hear, translate, control and think.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Lecture 4:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Forward pass gives loss and backward pass gives gradients&lt;/li&gt;
+  &lt;li&gt;Gradient Descent
+    &lt;ul&gt;
+      &lt;li&gt;Numerical which is slow and approx but easy to write&lt;/li&gt;
+      &lt;li&gt;Analytical which is fast and exact but error prone&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Computational Graph is huge for Neural Turing Machine&lt;/li&gt;
+  &lt;li&gt;Chain rule for backprop&lt;/li&gt;
+  &lt;li&gt;Local gradients are computed at the time of forward pass and can be chained to global gradient later at the time of backprop.&lt;/li&gt;
+  &lt;li&gt;For plus gate, during back prop, the value for the next gate is 1 * the previous value.&lt;/li&gt;
+  &lt;li&gt;For multiplicative gate, during back prop, the value for the next gate is the value of other input * the previous value.&lt;/li&gt;
+  &lt;li&gt;Hence, add gate is gradient distributor, the max gate is gradient router and mul gate can be the gradient switcher.&lt;/li&gt;
+  &lt;li&gt;At branches, gradients are added according to multivariate chain rule.&lt;/li&gt;
+  &lt;li&gt;Graph class with nodes topologically sorted and forward and backward function&lt;/li&gt;
+  &lt;li&gt;Lot of memory required to store intermediate results that will be used during back prop&lt;/li&gt;
+  &lt;li&gt;For vectors, we have jacobian matrix which stores derivative of each element of output wrt input&lt;/li&gt;
+  &lt;li&gt;Vectorized Operations&lt;/li&gt;
+  &lt;li&gt;Jacobian matrix is not always a full matrix and is a sparse matrix because there are values only on the diagonal and even not all those values are be used.&lt;/li&gt;
+  &lt;li&gt;Backpropagation is recursive application of chain rule along computational graph to computer gradients  of all inputs/params/intermediates&lt;/li&gt;
+  &lt;li&gt;Biological description of neurons
+    &lt;ul&gt;
+      &lt;li&gt;Soma: cell body&lt;/li&gt;
+      &lt;li&gt;Dendrites: listeners/input&lt;/li&gt;
+      &lt;li&gt;Axon: terminals/output&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Activation functions
+    &lt;ul&gt;
+      &lt;li&gt;Sigmoid&lt;/li&gt;
+      &lt;li&gt;tanh&lt;/li&gt;
+      &lt;li&gt;ReLU&lt;/li&gt;
+      &lt;li&gt;Maxout&lt;/li&gt;
+      &lt;li&gt;Leaky ReLU&lt;/li&gt;
+      &lt;li&gt;ELU&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Fully connected layer and hidden layers&lt;/li&gt;
+  &lt;li&gt;Kernel trick changes data representation to a space where it’s linearly separable&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Mon, 06 Mar 2017 17:30:12 +0530</pubDate>
+        <link>http://hitchhiker.ma/notes/2017/03/06/notes-for-CNN-for-visual-recognition.html</link>
+        <guid isPermaLink="true">http://hitchhiker.ma/notes/2017/03/06/notes-for-CNN-for-visual-recognition.html</guid>
+        
+        
+        <category>notes</category>
+        
+      </item>
+    
+      <item>
+        <title>Notes for Segmentation and Clustering!</title>
+        <description>&lt;p&gt;Lesson 1:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Process of Segmentation&lt;/li&gt;
+  &lt;li&gt;Standardisation where we treat a group as a whole&lt;/li&gt;
+  &lt;li&gt;Localisation where we treat them as individuals&lt;/li&gt;
+  &lt;li&gt;Grouping or binning&lt;/li&gt;
+  &lt;li&gt;It becomes difficult to group as the number of variables increase&lt;/li&gt;
+  &lt;li&gt;Clustering is a mathematical procedure for multidimensional analysis&lt;/li&gt;
+  &lt;li&gt;For a given set of objects, this procedure groups similar objects into clusters&lt;/li&gt;
+  &lt;li&gt;Distance is way to measure similarity&lt;/li&gt;
+  &lt;li&gt;Intra-cluster separation is minimised and inter-cluster distance is maximised&lt;/li&gt;
+  &lt;li&gt;eg. Fraudulent insurance Claim, User Segmentation, Bioinformatics Study, Education&lt;/li&gt;
+  &lt;li&gt;Supervised and Unsupervised Learning&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Lesson 2:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Selecting data based on objectives&lt;/li&gt;
+  &lt;li&gt;Use demographic and social data in first phases and remove historical data.&lt;/li&gt;
+  &lt;li&gt;Predetermined Bias in Transactional Data - A/B testing&lt;/li&gt;
+  &lt;li&gt;Data types in clustering
+    &lt;ul&gt;
+      &lt;li&gt;Continuous or Ordinal Variables&lt;/li&gt;
+      &lt;li&gt;Outliers&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Scaling data because distance is important in cluster analysis
+    &lt;ul&gt;
+      &lt;li&gt;Z score or standard score i.e. no. of SD away from the mean&lt;/li&gt;
+      &lt;li&gt;Unit interval compressing all values between 0 and 1&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Transforming Variables and visualising the data&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Lesson 3:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Variable Reduction Procedures help in accounting for most of the variables 
+ in all of the observed variables&lt;/li&gt;
+  &lt;li&gt;Principle variables or artificial variables explain most of the variance&lt;/li&gt;
+  &lt;li&gt;Try to use variable reduction when variables are somewhat related&lt;/li&gt;
+  &lt;li&gt;Need to weight benefits one can get from reducing the no. of variables used in 
+ clustering analysis, with the all important aspect of needing to be able to explain
+ the basis for clusters&lt;/li&gt;
+  &lt;li&gt;Types of Variable Reduction Procedures
+    &lt;ul&gt;
+      &lt;li&gt;Factor Analysis - Correlation between variables, trying to figure out causes&lt;/li&gt;
+      &lt;li&gt;Principal Component Analysis - accounts for total variation, trying to summarise&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Factor Analysis makes assumptions for underlying causal model while PCA doesn’t&lt;/li&gt;
+  &lt;li&gt;In PCA, combine variables that are related to a common story&lt;/li&gt;
+  &lt;li&gt;Loadings and Values
+    &lt;ul&gt;
+      &lt;li&gt;Close to zero loading has less value on components&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 19 Jan 2017 17:15:34 +0530</pubDate>
+        <link>http://hitchhiker.ma/notes/2017/01/19/notes-for-segmentation-and-clustering.html</link>
+        <guid isPermaLink="true">http://hitchhiker.ma/notes/2017/01/19/notes-for-segmentation-and-clustering.html</guid>
+        
+        
+        <category>notes</category>
+        
+      </item>
+    
+      <item>
         <title>Notes for Model Building And Validation!</title>
         <description>&lt;p&gt;Lesson 1:&lt;/p&gt;
 
@@ -126,43 +318,6 @@
         <pubDate>Sun, 08 Jan 2017 17:15:34 +0530</pubDate>
         <link>http://hitchhiker.ma/notes/2017/01/08/notes-for-udacity-course-inferential-stats.html</link>
         <guid isPermaLink="true">http://hitchhiker.ma/notes/2017/01/08/notes-for-udacity-course-inferential-stats.html</guid>
-        
-        
-        <category>notes</category>
-        
-      </item>
-    
-      <item>
-        <title>Notes for CNN for Visual Recognition!</title>
-        <description>&lt;p&gt;Lesson 2:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Image Classification&lt;/li&gt;
-  &lt;li&gt;Semantic Gap - Representation of image on computer as numbers&lt;/li&gt;
-  &lt;li&gt;Challenges are:
-    &lt;ul&gt;
-      &lt;li&gt;Viewpoint Variation - Camera roatations lead to changes in brightness.&lt;/li&gt;
-      &lt;li&gt;Illumination issues&lt;/li&gt;
-      &lt;li&gt;Deformation&lt;/li&gt;
-      &lt;li&gt;Occlusion&lt;/li&gt;
-      &lt;li&gt;Background Clutter&lt;/li&gt;
-      &lt;li&gt;Intraclass Variation&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Follow a data driven approach i.e. Collect dataset of images and labels, use ML algos to train an image 
-classifier and evaluate classifier on test images.&lt;/li&gt;
-  &lt;li&gt;Nearest Neighbour Classifier - Use Manhattan distance&lt;/li&gt;
-  &lt;li&gt;Do more compute at train time but prediction should be constant time computation.&lt;/li&gt;
-  &lt;li&gt;Aside - Approximate Nearest Neighbour (FLANN)&lt;/li&gt;
-  &lt;li&gt;Hyper-parameter - Distance, and the value of k for kNN&lt;/li&gt;
-  &lt;li&gt;Training data, validation data and training data set or Cross Validation&lt;/li&gt;
-  &lt;li&gt;Linear Classification&lt;/li&gt;
-  &lt;li&gt;NN can see, hear, translate, control and think.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 27 Dec 2016 17:30:12 +0530</pubDate>
-        <link>http://hitchhiker.ma/notes/2016/12/27/notes-for-CNN-for-visual-recognition.html</link>
-        <guid isPermaLink="true">http://hitchhiker.ma/notes/2016/12/27/notes-for-CNN-for-visual-recognition.html</guid>
         
         
         <category>notes</category>
@@ -324,30 +479,6 @@ classifier and evaluate classifier on test images.&lt;/li&gt;
         
         
         <category>notes</category>
-        
-      </item>
-    
-      <item>
-        <title>Welcome to my blog!</title>
-        <description>&lt;p&gt;First of all, thanks for visiting my blog.&lt;/p&gt;
-
-&lt;p&gt;I think of this blog as my scratch book. A place where I can write about my experiences in personal and professional life. Remember the days we used to write diaries in the childhood as &lt;br /&gt;
-Dear Diary, &lt;br /&gt;
-  Today I did ……… &lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;This blog is the same dear diary - the only difference being this diary is open to all.&lt;/p&gt;
-
-&lt;p&gt;Earlier I thought that I will confine this blog to just tech related learnings and then I saw &lt;a href=&quot;http://hintjens.com/&quot;&gt;this blog&lt;/a&gt; and it gave me something I can never forget. Every time he mentioned about his last days he taught something important to me. All I can feel - he is so bold and he is making me learn something through his personal experiences of last days and so, I decided to eventually write my own personal experiences and make it open to all. May be someday; someone; reading my experiences will get the strength I got due to Pieter Hintjens.&lt;/p&gt;
-
-&lt;p&gt;But to start, I am coming up with personal notes about a book I am currently reading these days. So, stay tuned since something interesting is coming up really soon.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 06 Oct 2016 06:53:34 +0530</pubDate>
-        <link>http://hitchhiker.ma/random/2016/10/06/welcome-to-my-blog.html</link>
-        <guid isPermaLink="true">http://hitchhiker.ma/random/2016/10/06/welcome-to-my-blog.html</guid>
-        
-        
-        <category>random</category>
         
       </item>
     
