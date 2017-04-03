@@ -6,8 +6,8 @@
 </description>
     <link>http://hitchhiker.ma/</link>
     <atom:link href="http://hitchhiker.ma/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 27 Mar 2017 11:24:05 +0530</pubDate>
-    <lastBuildDate>Mon, 27 Mar 2017 11:24:05 +0530</lastBuildDate>
+    <pubDate>Mon, 03 Apr 2017 18:49:30 +0530</pubDate>
+    <lastBuildDate>Mon, 03 Apr 2017 18:49:30 +0530</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -41,6 +41,67 @@
         <pubDate>Fri, 24 Mar 2017 06:53:34 +0530</pubDate>
         <link>http://hitchhiker.ma/notes/2017/03/24/notes-for-udacity-intro-to-data-analysis.html</link>
         <guid isPermaLink="true">http://hitchhiker.ma/notes/2017/03/24/notes-for-udacity-intro-to-data-analysis.html</guid>
+        
+        
+        <category>notes</category>
+        
+      </item>
+    
+      <item>
+        <title>Notes for ML!</title>
+        <description>&lt;p&gt;Lesson 1:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ML is algorithms for inferring unknowns from knowns. eg. Filtering out spam, Detect Handwriting, Face Detection, Speech Recognition, Netflix ranking, Navigation, Climate Modelling&lt;/li&gt;
+  &lt;li&gt;Classes of ML
+    &lt;ul&gt;
+      &lt;li&gt;Supervised vs unsupervised Learning&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Supervised Learning is given data &lt;script type=&quot;math/tex&quot;&gt;(x_1, y_1), (x_2, y_2), (x_3, y_3), .............  (x_n, y_n)&lt;/script&gt;, choose a function f(x) = y where &lt;script type=&quot;math/tex&quot;&gt;x_i&lt;/script&gt; = data point and &lt;script type=&quot;math/tex&quot;&gt;y_i = class/value&lt;/script&gt; and then generalise for new values of x. i.e f(x) &lt;script type=&quot;math/tex&quot;&gt;\to&lt;/script&gt; y&lt;/li&gt;
+  &lt;li&gt;Two types of Supervised Learning problems
+    &lt;ul&gt;
+      &lt;li&gt;Classification - &lt;script type=&quot;math/tex&quot;&gt;y_i \in \{\text{finite set}\}&lt;/script&gt;.&lt;/li&gt;
+      &lt;li&gt;Regression -  &lt;script type=&quot;math/tex&quot;&gt;y_i \in \{R\}&lt;/script&gt; or &lt;script type=&quot;math/tex&quot;&gt;y_i \in \{R^d\}&lt;/script&gt;.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Unsupervised Learning is given data &lt;script type=&quot;math/tex&quot;&gt;(x_1, x_2, x_3,........x_n)&lt;/script&gt; i.e. &lt;script type=&quot;math/tex&quot;&gt;x_i \in \{R^d\}&lt;/script&gt;
+ Find patterns in data
+    &lt;ul&gt;
+      &lt;li&gt;Clustering&lt;/li&gt;
+      &lt;li&gt;Density Estimation&lt;/li&gt;
+      &lt;li&gt;Dimensionality Reduction should project it down preserving the structure of data.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Variations on supervised and unsupervised learning
+    &lt;ul&gt;
+      &lt;li&gt;Semi Supervised Learning - (x1, y1), (x2, y2), (x3, y3), ………….  (xk, yk), xk+1, xk+2 ….xn,
+  predict yk+1, yk+2 ….. yn. eg.&lt;/li&gt;
+      &lt;li&gt;Active Learning&lt;/li&gt;
+      &lt;li&gt;Decision Theory&lt;/li&gt;
+      &lt;li&gt;Reinforcement Learning - maximize overall reward and minimize overall losses.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Generative vs Discriminative Models
+    &lt;ul&gt;
+      &lt;li&gt;Discriminative = P(y given x) which is Conditional Probability&lt;/li&gt;
+      &lt;li&gt;Generative = P(x and y) = f(x given y) p(y) = p(y given x) f(x) - models joint distribution - more powerful than Discriminative since using more parameters&lt;/li&gt;
+      &lt;li&gt;Estimating a density is difficult and need a lot of data leading to high variance and hence Generative model will have bad performance than Discriminative.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;kNN
+    &lt;ul&gt;
+      &lt;li&gt;circle concept that is used to decide the class of the test point&lt;/li&gt;
+      &lt;li&gt;Probabilistic interpretation - (y)&lt;/li&gt;
+      &lt;li&gt;Discriminative model&lt;/li&gt;
+      &lt;li&gt;Bias - variance tradeoff&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 19 Mar 2017 17:15:34 +0530</pubDate>
+        <link>http://hitchhiker.ma/notes/2017/03/19/notes-for-youtube-ml-mathematicalmonk.html</link>
+        <guid isPermaLink="true">http://hitchhiker.ma/notes/2017/03/19/notes-for-youtube-ml-mathematicalmonk.html</guid>
         
         
         <category>notes</category>
@@ -257,61 +318,6 @@ classifier and evaluate classifier on test images.&lt;/li&gt;
         <pubDate>Sun, 08 Jan 2017 17:15:34 +0530</pubDate>
         <link>http://hitchhiker.ma/notes/2017/01/08/notes-for-udacity-course-inferential-stats.html</link>
         <guid isPermaLink="true">http://hitchhiker.ma/notes/2017/01/08/notes-for-udacity-course-inferential-stats.html</guid>
-        
-        
-        <category>notes</category>
-        
-      </item>
-    
-      <item>
-        <title>Notes for ML!</title>
-        <description>&lt;p&gt;Lesson 1:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;ML is algorithms for inferring unknowns from knowns. eg. Filtering out spam, Detect Handwriting, Face Detection, Speech Recognition etc.&lt;/li&gt;
-  &lt;li&gt;Supervised Learning is given data (x1, y1), (x2, y2), (x3, y3), ………….  (xn, yn) , choose a function f(x) = y where xi = data point and yi = class/value and then generalise for new values of x.&lt;/li&gt;
-  &lt;li&gt;Two types of Supervised Learning problems
-    &lt;ul&gt;
-      &lt;li&gt;Classification - yi is from some finite set.&lt;/li&gt;
-      &lt;li&gt;Regression - yi are from Real values.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Unsupervised Learning is given data (x1, x2, x3,……..xn)
-    &lt;ul&gt;
-      &lt;li&gt;Custering&lt;/li&gt;
-      &lt;li&gt;Density Estimation&lt;/li&gt;
-      &lt;li&gt;Dimensionality Reduction should project it down preserving the structure of data.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Variations on supervised and unsupervised learning
-    &lt;ul&gt;
-      &lt;li&gt;Semi Supervised Learning - (x1, y1), (x2, y2), (x3, y3), ………….  (xk, yk), xk+1, xk+2 ….xn,
-  predict yk+1, yk+2 ….. yn. eg.&lt;/li&gt;
-      &lt;li&gt;Active Learning&lt;/li&gt;
-      &lt;li&gt;Decision Theory&lt;/li&gt;
-      &lt;li&gt;Reinforcement Learning - maximize overall reward and minimize overall losses.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Generative vs Discriminative Models
-    &lt;ul&gt;
-      &lt;li&gt;Discriminative = P(y given x) which is Conditional Probability&lt;/li&gt;
-      &lt;li&gt;Generative = P(x and y) = f(x given y) p(y) = p(y given x) f(x) - models joint distribution - more powerful than Discriminative since using more parameters&lt;/li&gt;
-      &lt;li&gt;Estimating a density is difficult and need a lot of data leading to high variance and hence Generative model will have bad performance than Discriminative.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;kNN
-    &lt;ul&gt;
-      &lt;li&gt;circle concept that is used to decide the class of the test point&lt;/li&gt;
-      &lt;li&gt;Probabilistic interpretation - (y)&lt;/li&gt;
-      &lt;li&gt;Discriminative model&lt;/li&gt;
-      &lt;li&gt;Bias - variance tradeoff&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 19 Dec 2016 17:15:34 +0530</pubDate>
-        <link>http://hitchhiker.ma/notes/2016/12/19/notes-for-youtube-ml-mathematicalmonk.html</link>
-        <guid isPermaLink="true">http://hitchhiker.ma/notes/2016/12/19/notes-for-youtube-ml-mathematicalmonk.html</guid>
         
         
         <category>notes</category>
