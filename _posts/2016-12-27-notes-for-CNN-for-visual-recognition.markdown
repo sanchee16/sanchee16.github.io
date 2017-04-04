@@ -81,10 +81,37 @@ Lecture 5:
 - Activation Function
     - Sigmoid 
         - Squashing Function to [0, 1]
-
-
-
-
-
-
-
+        - Problems 
+            - Saturated neurons kill the gradients i.e. Vanishing Gradient
+            - Sigmoid outputs are non zero centered then gradients are all positive or negative based on output
+            - Exponential function is compute intensive
+    - tanh
+        - Squashing function to [-1, 1]
+        - Zero Centred
+        - Problems
+            - Kills gradients when saturated
+    - ReLU
+        - $$\max$$(0, x)
+        - Does not staurate in +ve region
+        - Computationally Efficient
+        - Converges much faster in practice
+        - Problems 
+            - Non zero centered output
+            - Kills neurons below 0
+            - Dead ReLU's because of wrong initialization or high learning rate so usually when using ReLU's initialise with slightly positive biases
+    - Leaky ReLU
+        - $$\max$$(0.01x, x)
+        - Does not staurate in +ve region
+        - Computationally Efficient
+        - Converges much faster in practice
+        - Will not die
+    - Parametric Rectifier (PReLU)
+        - Instead of a constant of 0.01 use $$\alpha$$
+    - Exponential LU
+        - Closer to zero mean outputs
+    - Maxout Neuron
+        - Linear
+        - Doesn't saturate
+        - Doesn't die
+        - Problems
+            - Doubles the number of parameters per neuron

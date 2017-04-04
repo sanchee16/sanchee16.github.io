@@ -31,4 +31,4 @@ Lesson 1:
 	- circle concept that is used to decide the class of the test point
 	- Probabilistic interpretation - (y) 
 	- Discriminative model
-	- Bias - variance tradeoff  
+	- Bias - variance tradeoff

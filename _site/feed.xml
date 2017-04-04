@@ -6,8 +6,8 @@
 </description>
     <link>http://hitchhiker.ma/</link>
     <atom:link href="http://hitchhiker.ma/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 03 Apr 2017 18:35:15 +0530</pubDate>
-    <lastBuildDate>Mon, 03 Apr 2017 18:35:15 +0530</lastBuildDate>
+    <pubDate>Tue, 04 Apr 2017 23:17:20 +0530</pubDate>
+    <lastBuildDate>Tue, 04 Apr 2017 23:17:20 +0530</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -150,12 +150,75 @@ classifier and evaluate classifier on test images.&lt;/li&gt;
       &lt;li&gt;Sigmoid
         &lt;ul&gt;
           &lt;li&gt;Squashing Function to [0, 1]&lt;/li&gt;
+          &lt;li&gt;Problems
+            &lt;ul&gt;
+              &lt;li&gt;Saturated neurons kill the gradients i.e. Vanishing Gradient&lt;/li&gt;
+              &lt;li&gt;Sigmoid outputs are non zero centered then gradients are all positive or negative based on output&lt;/li&gt;
+              &lt;li&gt;Exponential function is compute intensive&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;tanh
+        &lt;ul&gt;
+          &lt;li&gt;Squashing function to [-1, 1]&lt;/li&gt;
+          &lt;li&gt;Zero Centred&lt;/li&gt;
+          &lt;li&gt;Problems
+            &lt;ul&gt;
+              &lt;li&gt;Kills gradients when saturated&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;ReLU
+        &lt;ul&gt;
+          &lt;li&gt;&lt;script type=&quot;math/tex&quot;&gt;\max&lt;/script&gt;(0, x)&lt;/li&gt;
+          &lt;li&gt;Does not staurate in +ve region&lt;/li&gt;
+          &lt;li&gt;Computationally Efficient&lt;/li&gt;
+          &lt;li&gt;Converges much faster in practice&lt;/li&gt;
+          &lt;li&gt;Problems
+            &lt;ul&gt;
+              &lt;li&gt;Non zero centered output&lt;/li&gt;
+              &lt;li&gt;Kills neurons below 0&lt;/li&gt;
+              &lt;li&gt;Dead ReLU’s because of wrong initialization or high learning rate so usually when using ReLU’s initialise with slightly positive biases&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Leaky ReLU
+        &lt;ul&gt;
+          &lt;li&gt;&lt;script type=&quot;math/tex&quot;&gt;\max&lt;/script&gt;(0.01x, x)&lt;/li&gt;
+          &lt;li&gt;Does not staurate in +ve region&lt;/li&gt;
+          &lt;li&gt;Computationally Efficient&lt;/li&gt;
+          &lt;li&gt;Converges much faster in practice&lt;/li&gt;
+          &lt;li&gt;Will not die&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Parametric Rectifier (PReLU)
+        &lt;ul&gt;
+          &lt;li&gt;Instead of a constant of 0.01 use &lt;script type=&quot;math/tex&quot;&gt;\alpha&lt;/script&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Exponential LU
+        &lt;ul&gt;
+          &lt;li&gt;Closer to zero mean outputs&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Maxout Neuron
+        &lt;ul&gt;
+          &lt;li&gt;Linear&lt;/li&gt;
+          &lt;li&gt;Doesn’t saturate&lt;/li&gt;
+          &lt;li&gt;Doesn’t die&lt;/li&gt;
+          &lt;li&gt;Problems
+            &lt;ul&gt;
+              &lt;li&gt;Doubles the number of parameters per neuron&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
         &lt;/ul&gt;
       &lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
-
 </description>
         <pubDate>Mon, 06 Mar 2017 17:30:12 +0530</pubDate>
         <link>http://hitchhiker.ma/notes/2017/03/06/notes-for-CNN-for-visual-recognition.html</link>

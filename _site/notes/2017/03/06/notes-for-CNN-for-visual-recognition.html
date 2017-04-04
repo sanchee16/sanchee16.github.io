@@ -178,12 +178,75 @@ classifier and evaluate classifier on test images.</li>
       <li>Sigmoid
         <ul>
           <li>Squashing Function to [0, 1]</li>
+          <li>Problems
+            <ul>
+              <li>Saturated neurons kill the gradients i.e. Vanishing Gradient</li>
+              <li>Sigmoid outputs are non zero centered then gradients are all positive or negative based on output</li>
+              <li>Exponential function is compute intensive</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>tanh
+        <ul>
+          <li>Squashing function to [-1, 1]</li>
+          <li>Zero Centred</li>
+          <li>Problems
+            <ul>
+              <li>Kills gradients when saturated</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>ReLU
+        <ul>
+          <li><script type="math/tex">\max</script>(0, x)</li>
+          <li>Does not staurate in +ve region</li>
+          <li>Computationally Efficient</li>
+          <li>Converges much faster in practice</li>
+          <li>Problems
+            <ul>
+              <li>Non zero centered output</li>
+              <li>Kills neurons below 0</li>
+              <li>Dead ReLU’s because of wrong initialization or high learning rate so usually when using ReLU’s initialise with slightly positive biases</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>Leaky ReLU
+        <ul>
+          <li><script type="math/tex">\max</script>(0.01x, x)</li>
+          <li>Does not staurate in +ve region</li>
+          <li>Computationally Efficient</li>
+          <li>Converges much faster in practice</li>
+          <li>Will not die</li>
+        </ul>
+      </li>
+      <li>Parametric Rectifier (PReLU)
+        <ul>
+          <li>Instead of a constant of 0.01 use <script type="math/tex">\alpha</script></li>
+        </ul>
+      </li>
+      <li>Exponential LU
+        <ul>
+          <li>Closer to zero mean outputs</li>
+        </ul>
+      </li>
+      <li>Maxout Neuron
+        <ul>
+          <li>Linear</li>
+          <li>Doesn’t saturate</li>
+          <li>Doesn’t die</li>
+          <li>Problems
+            <ul>
+              <li>Doubles the number of parameters per neuron</li>
+            </ul>
+          </li>
         </ul>
       </li>
     </ul>
   </li>
 </ul>
-
 
 </div>
 
