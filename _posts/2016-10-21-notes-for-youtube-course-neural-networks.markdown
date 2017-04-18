@@ -34,20 +34,20 @@ Lesson 1:
 
 Lesson 2:
 
-- He starts with discussion on empirical risk minimization or structural risk minimization 
+- He starts with discussion on empirical risk minimization also called structural risk minimization 
  when using regularization.
 - $$\arg\max_{\theta} \frac{1}{T} \sum_{t} l(f(x^t; \theta), y^t) + \lambda \Omega (\theta)$$
 	- $$\Omega (\theta)$$ is a regularizer 
 	- $$l(f(x^t; \theta), y^t)$$ is a loss function
 - Learning hence becomes an optimization problem 
-- Ideally should optimize classification error but it's not smooth so the above loss function is a surrogate for what we should truly optimise
+- Ideally should optimize classification error but it's not smooth as it's either 0 or 1 so the above loss function is a surrogate for what we should truly optimise
 - Stochastic Gradient Descent 
 	- Initialization of $$ \theta $$ i.e. weights and biases.
 	- for N interations 
 		- for each training example 
-			- figure put a direction for updating the parameters. Take the negative gradient of loss and regularizer
-			- Use the above gradient value along with $$ \alpha $$ to update the parameters
+			- figure out a direction for updating the parameters. Take the negative gradient of loss and regularizer
+			- Use the above gradient value along with $$ \alpha $$ ie learning rate to update the parameters
 - Training epoch is equal to iteration over all the examples
 - Neural network estimates $$f(x)_c = p(y = c \lvert x)$$ for classification task
-- Maximising probability of $$y^{(t)} \ given \ x^{(t)}$$ so we minimize - log likelihood 
- which is $$l(f(x), y) = - log \ f(x)_{y} $$ called as cross entropy
+- Aim is to Maximize probability of $$y^{(t)} \ given \ x^{(t)}$$ so we minimize - log likelihood 
+ which is $$l(f(x), y) = - log \ f(x)_{y} $$ also called as cross entropy
