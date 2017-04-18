@@ -20,3 +20,12 @@ Lesson 1:
 - Each row of csv can be represented in two ways in python 
 	- As a list 
 	- As a dictionary
+- Unicodecsv library 
+- DictReader an iterator so convert to list
+- Updating data types upfront to avoid bugs. Voluptous may be used instead
+- Questions Phase 
+- Investigation of missing data 
+	- Identify surprising data points 
+- Explore phase
+- Induldge Curiosity
+- Defaultdict in python
