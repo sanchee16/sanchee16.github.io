@@ -6,8 +6,8 @@
 </description>
     <link>http://hitchhiker.ma/</link>
     <atom:link href="http://hitchhiker.ma/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 03 Apr 2017 18:49:30 +0530</pubDate>
-    <lastBuildDate>Mon, 03 Apr 2017 18:49:30 +0530</lastBuildDate>
+    <pubDate>Tue, 18 Apr 2017 17:54:19 +0530</pubDate>
+    <lastBuildDate>Tue, 18 Apr 2017 17:54:19 +0530</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -348,7 +348,7 @@ classifier and evaluate classifier on test images.&lt;/li&gt;
   p(y = c|x) where c is the class and then using softmax activation function; A function which sums to 1 when all the probablities are added. Additionally, softmax is strictly positive.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;He discusses universal approximation throem i.e. a single layer hidden neural network with linear output unit which can approx. any continuous function arbitrarily well, given enough hidden units.&lt;/li&gt;
+  &lt;li&gt;He discusses universal approximation theorm i.e. a single layer hidden neural network with linear output unit which can approx. any continuous function arbitrarily well, given enough hidden units.&lt;/li&gt;
   &lt;li&gt;He discusses the inspiration that neural networks draw from biological neurons and talks about the idea of different layers and how they work in parallel with the visual cortex. He uses edges and points to introduce the idea of complex shapes formed using these simple structures and uses face detection as an example. He defines the following terms too.
     &lt;ul&gt;
       &lt;li&gt;Action potential is an electrical impulse that travels through the axon.&lt;/li&gt;
@@ -364,6 +364,42 @@ classifier and evaluate classifier on test images.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;Lesson 2:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;He starts with discussion on empirical risk minimization or structural risk minimization 
+ when using regularization.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;script type=&quot;math/tex; mode=display&quot;&gt;\arg\max_{\theta} \frac{1}{T} \sum_{t} l(f(x^t; \theta), y^t) + \lambda \Omega (\theta)&lt;/script&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;script type=&quot;math/tex&quot;&gt;\Omega (\theta)&lt;/script&gt; is a regularizer&lt;/li&gt;
+      &lt;li&gt;&lt;script type=&quot;math/tex&quot;&gt;l(f(x^t; \theta), y^t)&lt;/script&gt; is a loss function&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Learning hence becomes an optimization problem&lt;/li&gt;
+  &lt;li&gt;Ideally should optimize classification error but it’s not smooth so the above loss function is a surrogate for what we should truly optimise&lt;/li&gt;
+  &lt;li&gt;Stochastic Gradient Descent
+    &lt;ul&gt;
+      &lt;li&gt;Initialization of &lt;script type=&quot;math/tex&quot;&gt;\theta&lt;/script&gt; i.e. weights and biases.&lt;/li&gt;
+      &lt;li&gt;for N interations
+        &lt;ul&gt;
+          &lt;li&gt;for each training example
+            &lt;ul&gt;
+              &lt;li&gt;figure put a direction for updating the parameters. Take the negative gradient of loss and regularizer&lt;/li&gt;
+              &lt;li&gt;Use the above gradient value along with &lt;script type=&quot;math/tex&quot;&gt;\alpha&lt;/script&gt; to update the parameters&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Training epoch is equal to iteration over all the examples&lt;/li&gt;
+  &lt;li&gt;Neural network estimates &lt;script type=&quot;math/tex&quot;&gt;f(x)_c = p(y = c \lvert x)&lt;/script&gt; for classification task&lt;/li&gt;
+  &lt;li&gt;Maximising probability of &lt;script type=&quot;math/tex&quot;&gt;y^{(t)} \ given \ x^{(t)}&lt;/script&gt; so we minimize - log likelihood 
+ which is &lt;script type=&quot;math/tex&quot;&gt;l(f(x), y) = - log \ f(x)_{y}&lt;/script&gt; called as cross entropy&lt;/li&gt;
+&lt;/ul&gt;
+
 </description>
         <pubDate>Fri, 21 Oct 2016 17:15:34 +0530</pubDate>
         <link>http://hitchhiker.ma/notes/2016/10/21/notes-for-youtube-course-neural-networks.html</link>

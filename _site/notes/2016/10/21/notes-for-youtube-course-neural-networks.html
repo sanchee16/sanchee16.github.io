@@ -99,7 +99,7 @@
   p(y = c|x) where c is the class and then using softmax activation function; A function which sums to 1 when all the probablities are added. Additionally, softmax is strictly positive.</li>
     </ul>
   </li>
-  <li>He discusses universal approximation throem i.e. a single layer hidden neural network with linear output unit which can approx. any continuous function arbitrarily well, given enough hidden units.</li>
+  <li>He discusses universal approximation theorm i.e. a single layer hidden neural network with linear output unit which can approx. any continuous function arbitrarily well, given enough hidden units.</li>
   <li>He discusses the inspiration that neural networks draw from biological neurons and talks about the idea of different layers and how they work in parallel with the visual cortex. He uses edges and points to introduce the idea of complex shapes formed using these simple structures and uses face detection as an example. He defines the following terms too.
     <ul>
       <li>Action potential is an electrical impulse that travels through the axon.</li>
@@ -115,6 +115,42 @@
     </ul>
   </li>
 </ul>
+
+<p>Lesson 2:</p>
+
+<ul>
+  <li>He starts with discussion on empirical risk minimization or structural risk minimization 
+ when using regularization.</li>
+  <li>
+    <script type="math/tex; mode=display">\arg\max_{\theta} \frac{1}{T} \sum_{t} l(f(x^t; \theta), y^t) + \lambda \Omega (\theta)</script>
+    <ul>
+      <li><script type="math/tex">\Omega (\theta)</script> is a regularizer</li>
+      <li><script type="math/tex">l(f(x^t; \theta), y^t)</script> is a loss function</li>
+    </ul>
+  </li>
+  <li>Learning hence becomes an optimization problem</li>
+  <li>Ideally should optimize classification error but it’s not smooth so the above loss function is a surrogate for what we should truly optimise</li>
+  <li>Stochastic Gradient Descent
+    <ul>
+      <li>Initialization of <script type="math/tex">\theta</script> i.e. weights and biases.</li>
+      <li>for N interations
+        <ul>
+          <li>for each training example
+            <ul>
+              <li>figure put a direction for updating the parameters. Take the negative gradient of loss and regularizer</li>
+              <li>Use the above gradient value along with <script type="math/tex">\alpha</script> to update the parameters</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Training epoch is equal to iteration over all the examples</li>
+  <li>Neural network estimates <script type="math/tex">f(x)_c = p(y = c \lvert x)</script> for classification task</li>
+  <li>Maximising probability of <script type="math/tex">y^{(t)} \ given \ x^{(t)}</script> so we minimize - log likelihood 
+ which is <script type="math/tex">l(f(x), y) = - log \ f(x)_{y}</script> called as cross entropy</li>
+</ul>
+
 
 </div>
 
