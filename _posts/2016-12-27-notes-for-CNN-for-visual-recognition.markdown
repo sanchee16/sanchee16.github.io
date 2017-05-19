@@ -61,3 +61,19 @@ Lecture 4:
 - Fully connected layer and hidden layers
 - Kernel trick changes data representation to a space where it's linearly separable
 
+
+Lecture 7:
+
+- CNN operate over volumes. 
+- Filters are convolved over the image ie the filter is slid over the image spatially computing dot products which result in activation map.
+- $$ \text{output_size} = ((N-F+2*P)/S) + 1 $$ where N is width/height, F is filter size, P is padding and S is stride.
+- Input padding is a common practice since we want to preserve sizes spatially otherwise the size of the input decreases sharply.
+- To always achieve same output volume spatially for stride of 1, use $$ (F-1)/2 $$ zero padding
+- K, N, F and P are hyperparameters where K is the number of filters and is in powers of 2 as certains subroutines are efficient in computations with a power of 2.
+- The depth of the output of a convolution will the total number of filters.
+- With parameter sharing it introduces, $$F*F*D_1$$ weights per filter.
+- 1*1 convolutions are important since they return the same sized output since we do dot products over the full depth of the volume (depth columns or fibres).
+- The size of F is usually odd. 
+- Usually, images are preprocessed to squares.
+- The filter is also called kernel. Filters capture local information. 
+- Along the depth of the output volume, all the neurons have actually looked at the same patch but their weights will still be different.
