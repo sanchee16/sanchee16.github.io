@@ -6,8 +6,8 @@
 </description>
     <link>http://hitchhiker.ma/</link>
     <atom:link href="http://hitchhiker.ma/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 19 May 2017 12:22:24 +0530</pubDate>
-    <lastBuildDate>Fri, 19 May 2017 12:22:24 +0530</lastBuildDate>
+    <pubDate>Fri, 19 May 2017 13:15:16 +0530</pubDate>
+    <lastBuildDate>Fri, 19 May 2017 13:15:16 +0530</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -103,6 +103,91 @@ classifier and evaluate classifier on test images.&lt;/li&gt;
         <pubDate>Fri, 19 May 2017 17:30:12 +0530</pubDate>
         <link>http://hitchhiker.ma/notes/2017/05/19/notes-for-CNN-for-visual-recognition.html</link>
         <guid isPermaLink="true">http://hitchhiker.ma/notes/2017/05/19/notes-for-CNN-for-visual-recognition.html</guid>
+        
+        
+        <category>notes</category>
+        
+      </item>
+    
+      <item>
+        <title>Notes for Artificial Neural Networks!</title>
+        <description>&lt;p&gt;Lesson 1:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;He defines the terminologies as weights denoted by w, bias denoted by b, activation function denoted by g(.), neuron preactivation(I/P) denoted by x, neuron activation(O/P) denoted by h(x). Everything exept b is a vector.&lt;/li&gt;
+  &lt;li&gt;He starts a discussion about potential activation functions in ANN.
+    &lt;ul&gt;
+      &lt;li&gt;Linear Activation Function, g(a) = a, No squashing of I/P
+ 	- Sigmoid Function, g(a) = 1/(1+e^(-a)), Lies between 0 and 1, always +ve, bounded, strictly increasing.
+ 	- Tanh Function, g(a) = (e^(2a)-1)/(e^(2a)+1), Lies netween -1 and 1, bounded, strictly increasing
+ 	- ReLU Function, g(a) = max(0, a), Bounded below 0, Strictly increasing, tends to give neurons with sparse activities because it is 0 over a large range of -ve numbers.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;He further discusses the complexity of computations the neural network can perform.&lt;/li&gt;
+  &lt;li&gt;He talks about linearly separable problems(binary classification problems) which have a decision boundary and use single neuron to perform logistic regression. This can be achieved using sigmoid.&lt;/li&gt;
+  &lt;li&gt;He goes further and talks about alternate representations of input vector which can convert the non lineraly separable problem into a separable one. For eg. XOR can be represented by AND(X^, Y) on x axis and AND(X, Y^) on y axis. He tries to break the problem into pieces and check if single piece of problem can be represented by a neuron or a group of neurons and then combine all the representations to generate a representation for non linearly separable problem.&lt;/li&gt;
+  &lt;li&gt;He discusses the hidden layer pre-activation, hidden layer activation and output layer activation for a single layer neural network. Going ahead with multilayer neural network, the only difference is that multilayer neural network has multiple hidden layers.
+    &lt;ul&gt;
+      &lt;li&gt;To perform binary classification, one can use sigmoid as output activation function.&lt;/li&gt;
+      &lt;li&gt;For multiclass classification one needs multiple outputs, so one uses conditional probablity 
+  p(y = c|x) where c is the class and then using softmax activation function; A function which sums to 1 when all the probablities are added. Additionally, softmax is strictly positive.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;He discusses universal approximation theorm i.e. a single layer hidden neural network with linear output unit which can approx. any continuous function arbitrarily well, given enough hidden units.&lt;/li&gt;
+  &lt;li&gt;He discusses the inspiration that neural networks draw from biological neurons and talks about the idea of different layers and how they work in parallel with the visual cortex. He uses edges and points to introduce the idea of complex shapes formed using these simple structures and uses face detection as an example. He defines the following terms too.
+    &lt;ul&gt;
+      &lt;li&gt;Action potential is an electrical impulse that travels through the axon.&lt;/li&gt;
+      &lt;li&gt;Firing rate of a neuron is frequency with which a neuron can spike.&lt;/li&gt;
+      &lt;li&gt;Neurons tend to excite or inhibit other neurons.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Analogy between artificial NN and biological NN
+    &lt;ul&gt;
+      &lt;li&gt;Activation function is analogous to firing rate.&lt;/li&gt;
+      &lt;li&gt;Weights in ANN decide the excitation or inhibition of a neuron.&lt;/li&gt;
+      &lt;li&gt;Activation function and bias model the action potential of a neuron.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Lesson 2:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;He starts with discussion on empirical risk minimization also called structural risk minimization 
+ when using regularization.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;script type=&quot;math/tex; mode=display&quot;&gt;\arg\max_{\theta} \frac{1}{T} \sum_{t} l(f(x^t; \theta), y^t) + \lambda \Omega (\theta)&lt;/script&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;script type=&quot;math/tex&quot;&gt;\Omega (\theta)&lt;/script&gt; is a regularizer&lt;/li&gt;
+      &lt;li&gt;&lt;script type=&quot;math/tex&quot;&gt;l(f(x^t; \theta), y^t)&lt;/script&gt; is a loss function&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Learning hence becomes an optimization problem&lt;/li&gt;
+  &lt;li&gt;Ideally should optimize classification error but it’s not smooth as it’s either 0 or 1 so the above loss function is a surrogate for what we should truly optimise&lt;/li&gt;
+  &lt;li&gt;Stochastic Gradient Descent
+    &lt;ul&gt;
+      &lt;li&gt;Initialization of &lt;script type=&quot;math/tex&quot;&gt;\theta&lt;/script&gt; i.e. weights and biases.&lt;/li&gt;
+      &lt;li&gt;for N interations
+        &lt;ul&gt;
+          &lt;li&gt;for each training example
+            &lt;ul&gt;
+              &lt;li&gt;figure out a direction for updating the parameters. Take the negative gradient of loss and regularizer&lt;/li&gt;
+              &lt;li&gt;Use the above gradient value along with &lt;script type=&quot;math/tex&quot;&gt;\alpha&lt;/script&gt; ie learning rate to update the parameters&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Training epoch is equal to iteration over all the examples&lt;/li&gt;
+  &lt;li&gt;Neural network estimates &lt;script type=&quot;math/tex&quot;&gt;f(x)_c = p(y = c \lvert x)&lt;/script&gt; for classification task&lt;/li&gt;
+  &lt;li&gt;Aim is to Maximize probability of &lt;script type=&quot;math/tex&quot;&gt;y^{(t)} \ given \ x^{(t)}&lt;/script&gt; so we minimize - log likelihood 
+ which is &lt;script type=&quot;math/tex&quot;&gt;l(f(x), y) = - log \ f(x)_{y}&lt;/script&gt; also called as cross entropy&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 18 Apr 2017 17:15:34 +0530</pubDate>
+        <link>http://hitchhiker.ma/notes/2017/04/18/notes-for-youtube-course-neural-networks.html</link>
+        <guid isPermaLink="true">http://hitchhiker.ma/notes/2017/04/18/notes-for-youtube-course-neural-networks.html</guid>
         
         
         <category>notes</category>
@@ -446,30 +531,6 @@ classifier and evaluate classifier on test images.&lt;/li&gt;
         
         
         <category>notes</category>
-        
-      </item>
-    
-      <item>
-        <title>Welcome to my blog!</title>
-        <description>&lt;p&gt;First of all, thanks for visiting my blog.&lt;/p&gt;
-
-&lt;p&gt;I think of this blog as my scratch book. A place where I can write about my experiences in personal and professional life. Remember the days we used to write diaries in the childhood as &lt;br /&gt;
-Dear Diary, &lt;br /&gt;
-  Today I did ……… &lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;This blog is the same dear diary - the only difference being this diary is open to all.&lt;/p&gt;
-
-&lt;p&gt;Earlier I thought that I will confine this blog to just tech related learnings and then I saw &lt;a href=&quot;http://hintjens.com/&quot;&gt;this blog&lt;/a&gt; and it gave me something I can never forget. Every time he mentioned about his last days he taught something important to me. All I can feel - he is so bold and he is making me learn something through his personal experiences of last days and so, I decided to eventually write my own personal experiences and make it open to all. May be someday; someone; reading my experiences will get the strength I got due to Pieter Hintjens.&lt;/p&gt;
-
-&lt;p&gt;But to start, I am coming up with personal notes about a book I am currently reading these days. So, stay tuned since something interesting is coming up really soon.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 06 Oct 2016 06:53:34 +0530</pubDate>
-        <link>http://hitchhiker.ma/random/2016/10/06/welcome-to-my-blog.html</link>
-        <guid isPermaLink="true">http://hitchhiker.ma/random/2016/10/06/welcome-to-my-blog.html</guid>
-        
-        
-        <category>random</category>
         
       </item>
     
