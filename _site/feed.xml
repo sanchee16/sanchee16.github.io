@@ -6,8 +6,8 @@
 </description>
     <link>http://hitchhiker.ma/</link>
     <atom:link href="http://hitchhiker.ma/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 18 Apr 2017 18:03:37 +0530</pubDate>
-    <lastBuildDate>Tue, 18 Apr 2017 18:03:37 +0530</lastBuildDate>
+    <pubDate>Fri, 19 May 2017 12:17:58 +0530</pubDate>
+    <lastBuildDate>Fri, 19 May 2017 12:17:58 +0530</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -180,6 +180,23 @@ classifier and evaluate classifier on test images.&lt;/li&gt;
   &lt;li&gt;Kernel trick changes data representation to a space where it’s linearly separable&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;p&gt;Lecture 7:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;CNN operate over volumes.&lt;/li&gt;
+  &lt;li&gt;Filters are convolved over the image ie the filter is slid over the image spatially computing dot products which result in activation map.&lt;/li&gt;
+  &lt;li&gt;&lt;script type=&quot;math/tex&quot;&gt;\text{output_size} = ((N-F+2*P)/S) + 1&lt;/script&gt; where N is width/height, F is filter size, P is padding and S is stride.&lt;/li&gt;
+  &lt;li&gt;Input padding is a common practice since we want to preserve sizes spatially otherwise the size of the input decreases sharply.&lt;/li&gt;
+  &lt;li&gt;To always achieve same output volume spatially for stride of 1, use &lt;script type=&quot;math/tex&quot;&gt;(F-1)/2&lt;/script&gt; zero padding&lt;/li&gt;
+  &lt;li&gt;K, N, F and P are hyperparameters where K is the number of filters and is in powers of 2 as certains subroutines are efficient in computations with a power of 2.&lt;/li&gt;
+  &lt;li&gt;The depth of the output of a convolution will the total number of filters.&lt;/li&gt;
+  &lt;li&gt;With parameter sharing it introduces, &lt;script type=&quot;math/tex&quot;&gt;F*F*D_1&lt;/script&gt; weights per filter.&lt;/li&gt;
+  &lt;li&gt;1*1 convolutions are important since they return the same sized output since we do dot products over the full depth of the volume (depth columns or fibres).&lt;/li&gt;
+  &lt;li&gt;The size of F is usually odd.&lt;/li&gt;
+  &lt;li&gt;Usually, images are preprocessed to squares.&lt;/li&gt;
+  &lt;li&gt;The filter is also called kernel. Filters capture local information.&lt;/li&gt;
+  &lt;li&gt;Along the depth of the output volume, all the neurons have actually looked at the same patch but their weights will still be different.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         <pubDate>Mon, 06 Mar 2017 17:30:12 +0530</pubDate>
         <link>http://hitchhiker.ma/notes/2017/03/06/notes-for-CNN-for-visual-recognition.html</link>
