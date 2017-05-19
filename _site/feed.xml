@@ -6,9 +6,108 @@
 </description>
     <link>http://hitchhiker.ma/</link>
     <atom:link href="http://hitchhiker.ma/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 19 May 2017 12:12:44 +0530</pubDate>
-    <lastBuildDate>Fri, 19 May 2017 12:12:44 +0530</lastBuildDate>
+    <pubDate>Fri, 19 May 2017 12:18:44 +0530</pubDate>
+    <lastBuildDate>Fri, 19 May 2017 12:18:44 +0530</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Notes for CNN for Visual Recognition!</title>
+        <description>&lt;p&gt;Lesson 2:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Image Classification&lt;/li&gt;
+  &lt;li&gt;Semantic Gap - Representation of image on computer as numbers&lt;/li&gt;
+  &lt;li&gt;Challenges are:
+    &lt;ul&gt;
+      &lt;li&gt;Viewpoint Variation - Camera rotations lead to changes in brightness.&lt;/li&gt;
+      &lt;li&gt;Illumination issues&lt;/li&gt;
+      &lt;li&gt;Deformation&lt;/li&gt;
+      &lt;li&gt;Occlusion&lt;/li&gt;
+      &lt;li&gt;Background Clutter&lt;/li&gt;
+      &lt;li&gt;Intraclass Variation&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Follow a data-driven approach i.e. Collect dataset of images and labels, use ML algos to train an image 
+classifier and evaluate classifier on test images.&lt;/li&gt;
+  &lt;li&gt;Nearest Neighbour Classifier - Use Manhattan distance&lt;/li&gt;
+  &lt;li&gt;Do more compute at train time but prediction should be constant time computation.&lt;/li&gt;
+  &lt;li&gt;Aside - Approximate Nearest Neighbour (FLANN)&lt;/li&gt;
+  &lt;li&gt;Hyper-parameter - Distance, and the value of k for kNN&lt;/li&gt;
+  &lt;li&gt;Training data, validation data and training data set or Cross Validation&lt;/li&gt;
+  &lt;li&gt;Linear Classification&lt;/li&gt;
+  &lt;li&gt;NN can see, hear, translate, control and think.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Lecture 4:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Forward pass gives loss and backward pass gives gradients&lt;/li&gt;
+  &lt;li&gt;Gradient Descent
+    &lt;ul&gt;
+      &lt;li&gt;Numerical which is slow and approx but easy to write&lt;/li&gt;
+      &lt;li&gt;Analytical which is fast and exact but error prone&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Computational Graph is huge for Neural Turing Machine&lt;/li&gt;
+  &lt;li&gt;Chain rule for backprop&lt;/li&gt;
+  &lt;li&gt;Local gradients are computed at the time of forward pass and can be chained to global gradient later at the time of backprop.&lt;/li&gt;
+  &lt;li&gt;For plus gate, during back prop, the value for the next gate is 1 * the previous value.&lt;/li&gt;
+  &lt;li&gt;For multiplicative gate, during back prop, the value for the next gate is the value of other input * the previous value.&lt;/li&gt;
+  &lt;li&gt;Hence, add gate is gradient distributor, the max gate is gradient router and mul gate can be the gradient switcher.&lt;/li&gt;
+  &lt;li&gt;At branches, gradients are added according to multivariate chain rule.&lt;/li&gt;
+  &lt;li&gt;Graph class with nodes topologically sorted and forward and backward function&lt;/li&gt;
+  &lt;li&gt;Lot of memory required to store intermediate results that will be used during back prop&lt;/li&gt;
+  &lt;li&gt;For vectors, we have jacobian matrix which stores derivative of each element of output wrt input&lt;/li&gt;
+  &lt;li&gt;Vectorized Operations&lt;/li&gt;
+  &lt;li&gt;Jacobian matrix is not always a full matrix and is a sparse matrix because there are values only on the diagonal and even not all those values are be used.&lt;/li&gt;
+  &lt;li&gt;Backpropagation is recursive application of chain rule along computational graph to computer gradients  of all inputs/params/intermediates&lt;/li&gt;
+  &lt;li&gt;Biological description of neurons
+    &lt;ul&gt;
+      &lt;li&gt;Soma: cell body&lt;/li&gt;
+      &lt;li&gt;Dendrites: listeners/input&lt;/li&gt;
+      &lt;li&gt;Axon: terminals/output&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Activation functions
+    &lt;ul&gt;
+      &lt;li&gt;Sigmoid&lt;/li&gt;
+      &lt;li&gt;tanh&lt;/li&gt;
+      &lt;li&gt;ReLU&lt;/li&gt;
+      &lt;li&gt;Maxout&lt;/li&gt;
+      &lt;li&gt;Leaky ReLU&lt;/li&gt;
+      &lt;li&gt;ELU&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Fully connected layer and hidden layers&lt;/li&gt;
+  &lt;li&gt;Kernel trick changes data representation to a space where it’s linearly separable&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Lecture 7:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;CNN operate over volumes.&lt;/li&gt;
+  &lt;li&gt;Filters are convolved over the image ie the filter is slid over the image spatially computing dot products which result in activation map.&lt;/li&gt;
+  &lt;li&gt;&lt;script type=&quot;math/tex&quot;&gt;\text{output_size} = ((N-F+2*P)/S) + 1&lt;/script&gt; where N is width/height, F is filter size, P is padding and S is stride.&lt;/li&gt;
+  &lt;li&gt;Input padding is a common practice since we want to preserve sizes spatially otherwise the size of the input decreases sharply.&lt;/li&gt;
+  &lt;li&gt;To always achieve same output volume spatially for stride of 1, use &lt;script type=&quot;math/tex&quot;&gt;(F-1)/2&lt;/script&gt; zero padding&lt;/li&gt;
+  &lt;li&gt;K, N, F and P are hyperparameters where K is the number of filters and is in powers of 2 as certains subroutines are efficient in computations with a power of 2.&lt;/li&gt;
+  &lt;li&gt;The depth of the output of a convolution will the total number of filters.&lt;/li&gt;
+  &lt;li&gt;With parameter sharing it introduces, &lt;script type=&quot;math/tex&quot;&gt;F*F*D_1&lt;/script&gt; weights per filter.&lt;/li&gt;
+  &lt;li&gt;1*1 convolutions are important since they return the same sized output since we do dot products over the full depth of the volume (depth columns or fibres).&lt;/li&gt;
+  &lt;li&gt;The size of F is usually odd.&lt;/li&gt;
+  &lt;li&gt;Usually, images are preprocessed to squares.&lt;/li&gt;
+  &lt;li&gt;The filter is also called kernel. Filters capture local information.&lt;/li&gt;
+  &lt;li&gt;Along the depth of the output volume, all the neurons have actually looked at the same patch but their weights will still be different.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 19 May 2017 17:30:12 +0530</pubDate>
+        <link>http://hitchhiker.ma/notes/2017/05/19/notes-for-CNN-for-visual-recognition.html</link>
+        <guid isPermaLink="true">http://hitchhiker.ma/notes/2017/05/19/notes-for-CNN-for-visual-recognition.html</guid>
+        
+        
+        <category>notes</category>
+        
+      </item>
     
       <item>
         <title>Notes for Intro to Data Analysis!</title>
@@ -102,105 +201,6 @@
         <pubDate>Sun, 19 Mar 2017 17:15:34 +0530</pubDate>
         <link>http://hitchhiker.ma/notes/2017/03/19/notes-for-youtube-ml-mathematicalmonk.html</link>
         <guid isPermaLink="true">http://hitchhiker.ma/notes/2017/03/19/notes-for-youtube-ml-mathematicalmonk.html</guid>
-        
-        
-        <category>notes</category>
-        
-      </item>
-    
-      <item>
-        <title>Notes for CNN for Visual Recognition!</title>
-        <description>&lt;p&gt;Lesson 2:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Image Classification&lt;/li&gt;
-  &lt;li&gt;Semantic Gap - Representation of image on computer as numbers&lt;/li&gt;
-  &lt;li&gt;Challenges are:
-    &lt;ul&gt;
-      &lt;li&gt;Viewpoint Variation - Camera rotations lead to changes in brightness.&lt;/li&gt;
-      &lt;li&gt;Illumination issues&lt;/li&gt;
-      &lt;li&gt;Deformation&lt;/li&gt;
-      &lt;li&gt;Occlusion&lt;/li&gt;
-      &lt;li&gt;Background Clutter&lt;/li&gt;
-      &lt;li&gt;Intraclass Variation&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Follow a data-driven approach i.e. Collect dataset of images and labels, use ML algos to train an image 
-classifier and evaluate classifier on test images.&lt;/li&gt;
-  &lt;li&gt;Nearest Neighbour Classifier - Use Manhattan distance&lt;/li&gt;
-  &lt;li&gt;Do more compute at train time but prediction should be constant time computation.&lt;/li&gt;
-  &lt;li&gt;Aside - Approximate Nearest Neighbour (FLANN)&lt;/li&gt;
-  &lt;li&gt;Hyper-parameter - Distance, and the value of k for kNN&lt;/li&gt;
-  &lt;li&gt;Training data, validation data and training data set or Cross Validation&lt;/li&gt;
-  &lt;li&gt;Linear Classification&lt;/li&gt;
-  &lt;li&gt;NN can see, hear, translate, control and think.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Lecture 4:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Forward pass gives loss and backward pass gives gradients&lt;/li&gt;
-  &lt;li&gt;Gradient Descent
-    &lt;ul&gt;
-      &lt;li&gt;Numerical which is slow and approx but easy to write&lt;/li&gt;
-      &lt;li&gt;Analytical which is fast and exact but error prone&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Computational Graph is huge for Neural Turing Machine&lt;/li&gt;
-  &lt;li&gt;Chain rule for backprop&lt;/li&gt;
-  &lt;li&gt;Local gradients are computed at the time of forward pass and can be chained to global gradient later at the time of backprop.&lt;/li&gt;
-  &lt;li&gt;For plus gate, during back prop, the value for the next gate is 1 * the previous value.&lt;/li&gt;
-  &lt;li&gt;For multiplicative gate, during back prop, the value for the next gate is the value of other input * the previous value.&lt;/li&gt;
-  &lt;li&gt;Hence, add gate is gradient distributor, the max gate is gradient router and mul gate can be the gradient switcher.&lt;/li&gt;
-  &lt;li&gt;At branches, gradients are added according to multivariate chain rule.&lt;/li&gt;
-  &lt;li&gt;Graph class with nodes topologically sorted and forward and backward function&lt;/li&gt;
-  &lt;li&gt;Lot of memory required to store intermediate results that will be used during back prop&lt;/li&gt;
-  &lt;li&gt;For vectors, we have jacobian matrix which stores derivative of each element of output wrt input&lt;/li&gt;
-  &lt;li&gt;Vectorized Operations&lt;/li&gt;
-  &lt;li&gt;Jacobian matrix is not always a full matrix and is a sparse matrix because there are values only on the diagonal and even not all those values are be used.&lt;/li&gt;
-  &lt;li&gt;Backpropagation is recursive application of chain rule along computational graph to computer gradients  of all inputs/params/intermediates&lt;/li&gt;
-  &lt;li&gt;Biological description of neurons
-    &lt;ul&gt;
-      &lt;li&gt;Soma: cell body&lt;/li&gt;
-      &lt;li&gt;Dendrites: listeners/input&lt;/li&gt;
-      &lt;li&gt;Axon: terminals/output&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Activation functions
-    &lt;ul&gt;
-      &lt;li&gt;Sigmoid&lt;/li&gt;
-      &lt;li&gt;tanh&lt;/li&gt;
-      &lt;li&gt;ReLU&lt;/li&gt;
-      &lt;li&gt;Maxout&lt;/li&gt;
-      &lt;li&gt;Leaky ReLU&lt;/li&gt;
-      &lt;li&gt;ELU&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Fully connected layer and hidden layers&lt;/li&gt;
-  &lt;li&gt;Kernel trick changes data representation to a space where it’s linearly separable&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Lecture 7:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;CNN operate over volumes.&lt;/li&gt;
-  &lt;li&gt;Filters are convolved over the image ie the filter is slid over the image spatially computing dot products which result in activation map.&lt;/li&gt;
-  &lt;li&gt;&lt;script type=&quot;math/tex&quot;&gt;\text{output_size} = ((N-F+2*P)/S) + 1&lt;/script&gt; where N is width/height, F is filter size, P is padding and S is stride.&lt;/li&gt;
-  &lt;li&gt;Input padding is a common practice since we want to preserve sizes spatially otherwise the size of the input decreases sharply.&lt;/li&gt;
-  &lt;li&gt;To always achieve same output volume spatially for stride of 1, use &lt;script type=&quot;math/tex&quot;&gt;(F-1)/2&lt;/script&gt; zero padding&lt;/li&gt;
-  &lt;li&gt;K, N, F and P are hyperparameters where K is the number of filters and is in powers of 2 as certains subroutines are efficient in computations with a power of 2.&lt;/li&gt;
-  &lt;li&gt;The depth of the output of a convolution will the total number of filters.&lt;/li&gt;
-  &lt;li&gt;With parameter sharing it introduces, &lt;script type=&quot;math/tex&quot;&gt;F*F*D_1&lt;/script&gt; weights per filter.&lt;/li&gt;
-  &lt;li&gt;1*1 convolutions are important since they return the same sized output since we do dot products over the full depth of the volume (depth columns or fibres).&lt;/li&gt;
-  &lt;li&gt;The size of F is usually odd.&lt;/li&gt;
-  &lt;li&gt;Usually, images are preprocessed to squares.&lt;/li&gt;
-  &lt;li&gt;The filter is also called kernel. Filters capture local information.&lt;/li&gt;
-  &lt;li&gt;Along the depth of the output volume, all the neurons have actually looked at the same patch but their weights will still be different.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 06 Mar 2017 17:30:12 +0530</pubDate>
-        <link>http://hitchhiker.ma/notes/2017/03/06/notes-for-CNN-for-visual-recognition.html</link>
-        <guid isPermaLink="true">http://hitchhiker.ma/notes/2017/03/06/notes-for-CNN-for-visual-recognition.html</guid>
         
         
         <category>notes</category>
@@ -365,7 +365,7 @@ classifier and evaluate classifier on test images.&lt;/li&gt;
   p(y = c|x) where c is the class and then using softmax activation function; A function which sums to 1 when all the probablities are added. Additionally, softmax is strictly positive.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;He discusses universal approximation throem i.e. a single layer hidden neural network with linear output unit which can approx. any continuous function arbitrarily well, given enough hidden units.&lt;/li&gt;
+  &lt;li&gt;He discusses universal approximation theorm i.e. a single layer hidden neural network with linear output unit which can approx. any continuous function arbitrarily well, given enough hidden units.&lt;/li&gt;
   &lt;li&gt;He discusses the inspiration that neural networks draw from biological neurons and talks about the idea of different layers and how they work in parallel with the visual cortex. He uses edges and points to introduce the idea of complex shapes formed using these simple structures and uses face detection as an example. He defines the following terms too.
     &lt;ul&gt;
       &lt;li&gt;Action potential is an electrical impulse that travels through the axon.&lt;/li&gt;
@@ -380,6 +380,41 @@ classifier and evaluate classifier on test images.&lt;/li&gt;
       &lt;li&gt;Activation function and bias model the action potential of a neuron.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Lesson 2:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;He starts with discussion on empirical risk minimization also called structural risk minimization 
+ when using regularization.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;script type=&quot;math/tex; mode=display&quot;&gt;\arg\max_{\theta} \frac{1}{T} \sum_{t} l(f(x^t; \theta), y^t) + \lambda \Omega (\theta)&lt;/script&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;script type=&quot;math/tex&quot;&gt;\Omega (\theta)&lt;/script&gt; is a regularizer&lt;/li&gt;
+      &lt;li&gt;&lt;script type=&quot;math/tex&quot;&gt;l(f(x^t; \theta), y^t)&lt;/script&gt; is a loss function&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Learning hence becomes an optimization problem&lt;/li&gt;
+  &lt;li&gt;Ideally should optimize classification error but it’s not smooth as it’s either 0 or 1 so the above loss function is a surrogate for what we should truly optimise&lt;/li&gt;
+  &lt;li&gt;Stochastic Gradient Descent
+    &lt;ul&gt;
+      &lt;li&gt;Initialization of &lt;script type=&quot;math/tex&quot;&gt;\theta&lt;/script&gt; i.e. weights and biases.&lt;/li&gt;
+      &lt;li&gt;for N interations
+        &lt;ul&gt;
+          &lt;li&gt;for each training example
+            &lt;ul&gt;
+              &lt;li&gt;figure out a direction for updating the parameters. Take the negative gradient of loss and regularizer&lt;/li&gt;
+              &lt;li&gt;Use the above gradient value along with &lt;script type=&quot;math/tex&quot;&gt;\alpha&lt;/script&gt; ie learning rate to update the parameters&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Training epoch is equal to iteration over all the examples&lt;/li&gt;
+  &lt;li&gt;Neural network estimates &lt;script type=&quot;math/tex&quot;&gt;f(x)_c = p(y = c \lvert x)&lt;/script&gt; for classification task&lt;/li&gt;
+  &lt;li&gt;Aim is to Maximize probability of &lt;script type=&quot;math/tex&quot;&gt;y^{(t)} \ given \ x^{(t)}&lt;/script&gt; so we minimize - log likelihood 
+ which is &lt;script type=&quot;math/tex&quot;&gt;l(f(x), y) = - log \ f(x)_{y}&lt;/script&gt; also called as cross entropy&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 21 Oct 2016 17:15:34 +0530</pubDate>

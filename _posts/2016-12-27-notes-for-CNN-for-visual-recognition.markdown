@@ -2,7 +2,7 @@
 layout: post
 title:  "Notes for CNN for Visual Recognition!"
 subtitle: "A Course by Stanford"
-date:   2017-03-06 12:00:12
+date:   2017-05-19 12:00:12
 categories: [notes]
 ---
 

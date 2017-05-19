@@ -21,7 +21,7 @@ Lesson 1:
 	- To perform binary classification, one can use sigmoid as output activation function. 
 	- For multiclass classification one needs multiple outputs, so one uses conditional probablity 
 	p(y = c|x) where c is the class and then using softmax activation function; A function which sums to 1 when all the probablities are added. Additionally, softmax is strictly positive.
-- He discusses universal approximation throem i.e. a single layer hidden neural network with linear output unit which can approx. any continuous function arbitrarily well, given enough hidden units.
+- He discusses universal approximation theorm i.e. a single layer hidden neural network with linear output unit which can approx. any continuous function arbitrarily well, given enough hidden units.
 - He discusses the inspiration that neural networks draw from biological neurons and talks about the idea of different layers and how they work in parallel with the visual cortex. He uses edges and points to introduce the idea of complex shapes formed using these simple structures and uses face detection as an example. He defines the following terms too.
 	- Action potential is an electrical impulse that travels through the axon. 
 	- Firing rate of a neuron is frequency with which a neuron can spike.
@@ -30,3 +30,24 @@ Lesson 1:
 	- Activation function is analogous to firing rate.
 	- Weights in ANN decide the excitation or inhibition of a neuron.
 	- Activation function and bias model the action potential of a neuron. 
+
+
+Lesson 2:
+
+- He starts with discussion on empirical risk minimization also called structural risk minimization 
+ when using regularization.
+- $$\arg\max_{\theta} \frac{1}{T} \sum_{t} l(f(x^t; \theta), y^t) + \lambda \Omega (\theta)$$
+	- $$\Omega (\theta)$$ is a regularizer 
+	- $$l(f(x^t; \theta), y^t)$$ is a loss function
+- Learning hence becomes an optimization problem 
+- Ideally should optimize classification error but it's not smooth as it's either 0 or 1 so the above loss function is a surrogate for what we should truly optimise
+- Stochastic Gradient Descent 
+	- Initialization of $$ \theta $$ i.e. weights and biases.
+	- for N interations 
+		- for each training example 
+			- figure out a direction for updating the parameters. Take the negative gradient of loss and regularizer
+			- Use the above gradient value along with $$ \alpha $$ ie learning rate to update the parameters
+- Training epoch is equal to iteration over all the examples
+- Neural network estimates $$f(x)_c = p(y = c \lvert x)$$ for classification task
+- Aim is to Maximize probability of $$y^{(t)} \ given \ x^{(t)}$$ so we minimize - log likelihood 
+ which is $$l(f(x), y) = - log \ f(x)_{y} $$ also called as cross entropy
