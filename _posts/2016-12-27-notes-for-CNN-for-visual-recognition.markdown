@@ -2,7 +2,7 @@
 layout: post
 title:  "Notes for CNN for Visual Recognition!"
 subtitle: "A Course by Stanford"
-date:   2017-05-19 12:00:12
+date:   2017-05-27 12:00:12
 categories: [notes]
 ---
 
@@ -77,3 +77,27 @@ Lecture 7:
 - Usually, images are preprocessed to squares.
 - The filter is also called kernel. Filters capture local information. 
 - Along the depth of the output volume, all the neurons have actually looked at the same patch but their weights will still be different.
+- Pooling layer makes the representations smaller and managable 
+- Pooling operates over each activation map independently
+- LeNet - 5 
+- AlexnNet 
+    - Use of ReLU
+    - Used norm layers
+    - Heavy data augmentation 
+    - Dropout
+- ZFNet 
+- VGGNet
+- GoogleNet
+- ResNet
+    - Skip Step
+    - Batch normalization layer and hence can use a higher learning rate 
+    - No dropout
+    - Xavier/2 initialization 
+    - Faster than VGGNet(20 layers) inspite of having 152 layers 
+- Policy network
+- As we go ahead with the architectures, we find that the numbers of parameters are reduced but more conputation is required and the results are too promising.
+- Instead of fully connected layers, use average pooling layers in the end of a CNN.
+- Convnets stack - CONV, POOL, Fully Connected layers
+- Trend towards smaller filters and deeper networks and getting rid of POOL/FC layers
+
+
