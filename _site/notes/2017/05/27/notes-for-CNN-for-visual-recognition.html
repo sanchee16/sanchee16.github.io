@@ -8,7 +8,7 @@
 <meta name="description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 ">
 <meta name="keywords" content="">
-<link rel="canonical" href="http://hitchhiker.ma/notes/2017/05/19/notes-for-CNN-for-visual-recognition.html">
+<link rel="canonical" href="http://hitchhiker.ma/notes/2017/05/27/notes-for-CNN-for-visual-recognition.html">
         
 
 
@@ -31,7 +31,7 @@
 <meta property="og:title" content="Notes for CNN for Visual Recognition!">
 <meta property="og:description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 ">
-<meta property="og:url" content="http://hitchhiker.ma/notes/2017/05/19/notes-for-CNN-for-visual-recognition.html">
+<meta property="og:url" content="http://hitchhiker.ma/notes/2017/05/27/notes-for-CNN-for-visual-recognition.html">
 <meta property="og:site_name" content="Sancheeta Kaushal">
 
         <link href='http://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'>
@@ -163,7 +163,36 @@ classifier and evaluate classifier on test images.</li>
   <li>Usually, images are preprocessed to squares.</li>
   <li>The filter is also called kernel. Filters capture local information.</li>
   <li>Along the depth of the output volume, all the neurons have actually looked at the same patch but their weights will still be different.</li>
+  <li>Pooling layer makes the representations smaller and managable</li>
+  <li>Pooling operates over each activation map independently</li>
+  <li>LeNet - 5</li>
+  <li>AlexnNet
+    <ul>
+      <li>Use of ReLU</li>
+      <li>Used norm layers</li>
+      <li>Heavy data augmentation</li>
+      <li>Dropout</li>
+    </ul>
+  </li>
+  <li>ZFNet</li>
+  <li>VGGNet</li>
+  <li>GoogleNet</li>
+  <li>ResNet
+    <ul>
+      <li>Skip Step</li>
+      <li>Batch normalization layer and hence can use a higher learning rate</li>
+      <li>No dropout</li>
+      <li>Xavier/2 initialization</li>
+      <li>Faster than VGGNet(20 layers) inspite of having 152 layers</li>
+    </ul>
+  </li>
+  <li>Policy network</li>
+  <li>As we go ahead with the architectures, we find that the numbers of parameters are reduced but more conputation is required and the results are too promising.</li>
+  <li>Instead of fully connected layers, use average pooling layers in the end of a CNN.</li>
+  <li>Convnets stack - CONV, POOL, Fully Connected layers</li>
+  <li>Trend towards smaller filters and deeper networks and getting rid of POOL/FC layers</li>
 </ul>
+
 
 </div>
 
@@ -171,7 +200,7 @@ classifier and evaluate classifier on test images.</li>
     <div class="about__devider">*****</div>
     <div class="about__text">
         Written by <strong>  Sancheeta Kaushal </strong>
-        on <strong>19 May 2017</strong>
+        on <strong>27 May 2017</strong>
     </div>
 </div>
 
