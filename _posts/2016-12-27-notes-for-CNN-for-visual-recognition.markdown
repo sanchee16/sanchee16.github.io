@@ -2,9 +2,36 @@
 layout: post
 title:  "Notes for CNN for Visual Recognition!"
 subtitle: "A Course by Stanford"
-date:   2017-05-27 12:00:12
+date:   2017-10-09 10:00:12
 categories: [notes]
 ---
+
+Lesson 1:
+
+- Today is age of images/video but image/video data is hard to use
+- Computer Vision as an interdisciplinary field
+- Eye as an inspiration for big bang of species
+- Vision important for speciation in the early evolution of the species
+- Mechanical Vision i.e. Camera models - Camera Obscura
+- Hubel and Wiesel experiment
+- Primary visual cortex is very far away from eye
+- Simple structures excite neurons in human brain
+- Block World models - Visual world simplified into basic geometrical shapes
+- Book Vision by david marr
+- Hierarchical Representation
+- Generalized Cylinder and Pictorial Structure models
+- Normalized Cut - perceptual grouping problem - image segmentation
+- Real time Face Detection by Fuji Films Camera
+- Major focus is recognition
+- Engineered Features like SIFT, HOG
+- Spatial pyramid matching for scene recognition
+- Deformable Part Model
+- PASCAL visual object challenge
+- Imagenet
+- Image classification really useful for making progress in other image machine learning problems like image detection, segmentation, image captioning
+- Semantic Segmentation and Perceptual Grouping
+- Tell a story given a scene
+
 
 Lesson 2:
 

@@ -4,11 +4,11 @@
         <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title> Sancheeta Kaushal</title>
+<title> Notes for Deep Learning STAT 946 — A Course by University of Waterloo &raquo;  Sancheeta Kaushal</title>
 <meta name="description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 ">
-
-<link rel="canonical" href="http://localhost:4000/categories/random/">
+<meta name="keywords" content="">
+<link rel="canonical" href="http://localhost:4000/notes/2017/06/22/notes-for-deep-learning-waterloo.mdown">
         
 
 
@@ -16,7 +16,7 @@
 
 <!-- Twitter Cards -->
 <meta name="twitter:card" content="summary" />
-<meta name="twitter:title" content="Sancheeta Kaushal" />
+<meta name="twitter:title" content="Notes for Deep Learning STAT 946" />
 <meta name="twitter:description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 " />
 <meta name="twitter:image" content="http://localhost:4000" />
@@ -28,10 +28,10 @@
 <!-- Open Graph -->
 <meta property="og:locale" content="">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Sancheeta Kaushal">
+<meta property="og:title" content="Notes for Deep Learning STAT 946">
 <meta property="og:description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 ">
-<meta property="og:url" content="http://localhost:4000/categories/random/">
+<meta property="og:url" content="http://localhost:4000/notes/2017/06/22/notes-for-deep-learning-waterloo.mdown">
 <meta property="og:site_name" content="Sancheeta Kaushal">
 
         <link href='http://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'>
@@ -71,66 +71,34 @@
     </ul>
 </header>
 
-            
-
-<h1 class="page-title">
-    <div class="page-title__text">Random</div>
-    <div class="page-title__subtitle">Articles on the category <strong>‘Random’</strong></div>
+            <h1 class="page-title post-title">
+    <div class="page-title__text post-title__text">Notes for Deep Learning STAT 946</div>
+    <div class="page-title__subtitle post-title__subtitle">A Course by University of Waterloo</div>
 </h1>
 
-<ul class="list-posts">
-    
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            <li class="post-teaser">
-                <a href="/random/2016/10/06/welcome-to-my-blog.html">
-                    <span class="post-teaser__title">Welcome to my blog!</span>
-                    <span class="post-teaser__date">06 October 2016</span>
-                </a>
-            </li>
-            
-        
-    
+<div class="content">
+    Lesson 6:
 
-    
-</ul>
-
-<div class="explore">
-    <div class="explore__devider">*****</div>
-    <div class="explore__label">Explore the different categories</div>
-    <ul class="categories">
-        
-            <li class="categories__item"><a href="/categories/notes">Notes</a></li>
-        
-            <li class="categories__item"><a href="/categories/random">Random</a></li>
-        
-		<li class="categories__item"><a href="/">All</a></li>
-    </ul>
+- Network with atleast one convolutional layer 
+- Three stages 
+	- Convolution function (Discrete Convolution)  
+	- Detection Eg. ReLU
+	- Pooling
+- Convolution vs Cross Corelation (Replace + by - in convolution)
+- Convolved Feature or Feature Map - captures features in image similar to kernel 
+- Sharing parameters
+- Making the network sparse
+- 
 </div>
+
+<div class="about">
+    <div class="about__devider">*****</div>
+    <div class="about__text">
+        Written by <strong>  Sancheeta Kaushal </strong>
+        on <strong>22 June 2017</strong>
+    </div>
+</div>
+
 
         </div>
 

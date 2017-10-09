@@ -3,9 +3,9 @@
   
     
     <url>
-      <loc>http://hitchhiker.ma/notes/2017/05/27/notes-for-CNN-for-visual-recognition.html/</loc>
+      <loc>http://localhost:4000/notes/2017/10/09/notes-for-CNN-for-visual-recognition.html/</loc>
       
-        <lastmod>2017-05-27T17:30:12+05:30</lastmod>
+        <lastmod>2017-10-09T15:30:12+05:30</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -18,7 +18,22 @@
   
     
     <url>
-      <loc>http://hitchhiker.ma/notes/2017/04/18/notes-for-youtube-course-neural-networks.html/</loc>
+      <loc>http://localhost:4000/notes/2017/06/22/notes-for-deep-learning-waterloo.mdown/</loc>
+      
+        <lastmod>2017-06-22T06:53:34+05:30</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.7</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/notes/2017/04/18/notes-for-youtube-course-neural-networks.html/</loc>
       
         <lastmod>2017-04-18T17:15:34+05:30</lastmod>
       
@@ -33,7 +48,7 @@
   
     
     <url>
-      <loc>http://hitchhiker.ma/notes/2017/03/24/notes-for-fast-ai-course.html/</loc>
+      <loc>http://localhost:4000/notes/2017/03/24/notes-for-fast-ai-course.html/</loc>
       
         <lastmod>2017-03-24T06:53:34+05:30</lastmod>
       
@@ -48,7 +63,7 @@
   
     
     <url>
-      <loc>http://hitchhiker.ma/notes/2017/03/24/notes-for-udacity-intro-to-data-analysis.html/</loc>
+      <loc>http://localhost:4000/notes/2017/03/24/notes-for-udacity-intro-to-data-analysis.html/</loc>
       
         <lastmod>2017-03-24T06:53:34+05:30</lastmod>
       
@@ -63,7 +78,7 @@
   
     
     <url>
-      <loc>http://hitchhiker.ma/notes/2017/03/19/notes-for-youtube-ml-mathematicalmonk.html/</loc>
+      <loc>http://localhost:4000/notes/2017/03/19/notes-for-youtube-ml-mathematicalmonk.html/</loc>
       
         <lastmod>2017-03-19T17:15:34+05:30</lastmod>
       
@@ -78,7 +93,7 @@
   
     
     <url>
-      <loc>http://hitchhiker.ma/notes/2017/01/19/notes-for-segmentation-and-clustering.html/</loc>
+      <loc>http://localhost:4000/notes/2017/01/19/notes-for-segmentation-and-clustering.html/</loc>
       
         <lastmod>2017-01-19T17:15:34+05:30</lastmod>
       
@@ -93,7 +108,7 @@
   
     
     <url>
-      <loc>http://hitchhiker.ma/notes/2017/01/17/notes-for-model-building-and-validation.html/</loc>
+      <loc>http://localhost:4000/notes/2017/01/17/notes-for-model-building-and-validation.html/</loc>
       
         <lastmod>2017-01-17T17:15:34+05:30</lastmod>
       
@@ -108,7 +123,7 @@
   
     
     <url>
-      <loc>http://hitchhiker.ma/notes/2017/01/08/notes-for-udacity-course-inferential-stats.html/</loc>
+      <loc>http://localhost:4000/notes/2017/01/08/notes-for-udacity-course-inferential-stats.html/</loc>
       
         <lastmod>2017-01-08T17:15:34+05:30</lastmod>
       
@@ -123,7 +138,7 @@
   
     
     <url>
-      <loc>http://hitchhiker.ma/notes/2016/10/14/notes-for-udacity-course-intro-to-stats.html/</loc>
+      <loc>http://localhost:4000/notes/2016/10/14/notes-for-udacity-course-intro-to-stats.html/</loc>
       
         <lastmod>2016-10-14T17:15:34+05:30</lastmod>
       
@@ -138,7 +153,7 @@
   
     
     <url>
-      <loc>http://hitchhiker.ma/notes/2016/10/14/notes-for-coursera-course-neural-networks.html/</loc>
+      <loc>http://localhost:4000/notes/2016/10/14/notes-for-coursera-course-neural-networks.html/</loc>
       
         <lastmod>2016-10-14T17:15:34+05:30</lastmod>
       
@@ -153,7 +168,7 @@
   
     
     <url>
-      <loc>http://hitchhiker.ma/notes/2016/10/13/notes-for-udacity-course-classification-models.html/</loc>
+      <loc>http://localhost:4000/notes/2016/10/13/notes-for-udacity-course-classification-models.html/</loc>
       
         <lastmod>2016-10-13T06:53:34+05:30</lastmod>
       
@@ -168,7 +183,7 @@
   
     
     <url>
-      <loc>http://hitchhiker.ma/random/2016/10/06/welcome-to-my-blog.html/</loc>
+      <loc>http://localhost:4000/random/2016/10/06/welcome-to-my-blog.html/</loc>
       
         <lastmod>2016-10-06T06:53:34+05:30</lastmod>
       
@@ -186,9 +201,9 @@
   
     
     <url>
-      <loc>http://hitchhiker.ma/about/</loc>
+      <loc>http://localhost:4000/about/</loc>
       
-        <lastmod>2017-06-22T14:02:06+05:30</lastmod>
+        <lastmod>2017-10-09T12:04:56+05:30</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -203,9 +218,9 @@
   
     
     <url>
-      <loc>http://hitchhiker.ma/</loc>
+      <loc>http://localhost:4000/</loc>
       
-        <lastmod>2017-06-22T14:02:06+05:30</lastmod>
+        <lastmod>2017-10-09T12:04:56+05:30</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -220,7 +235,7 @@
   
     
     <url>
-      <loc>http://hitchhiker.ma/markdown_sample.txt</loc>
+      <loc>http://localhost:4000/markdown_sample.txt</loc>
       
         <lastmod>2014-08-20T05:26:45+05:30</lastmod>
       
@@ -235,9 +250,9 @@
   
     
     <url>
-      <loc>http://hitchhiker.ma/categories/notes/</loc>
+      <loc>http://localhost:4000/categories/notes/</loc>
       
-        <lastmod>2017-06-22T14:02:06+05:30</lastmod>
+        <lastmod>2017-10-09T12:04:56+05:30</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -250,9 +265,9 @@
   
     
     <url>
-      <loc>http://hitchhiker.ma/categories/random/</loc>
+      <loc>http://localhost:4000/categories/random/</loc>
       
-        <lastmod>2017-06-22T14:02:06+05:30</lastmod>
+        <lastmod>2017-10-09T12:04:56+05:30</lastmod>
       
       
         <changefreq>monthly</changefreq>
