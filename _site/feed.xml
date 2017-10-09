@@ -4,15 +4,43 @@
     <title>Sancheeta Kaushal</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://hitchhiker.ma/</link>
-    <atom:link href="http://hitchhiker.ma/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 22 Jun 2017 14:02:06 +0530</pubDate>
-    <lastBuildDate>Thu, 22 Jun 2017 14:02:06 +0530</lastBuildDate>
-    <generator>Jekyll v3.2.1</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 09 Oct 2017 12:04:56 +0530</pubDate>
+    <lastBuildDate>Mon, 09 Oct 2017 12:04:56 +0530</lastBuildDate>
+    <generator>Jekyll v3.6.0</generator>
     
       <item>
         <title>Notes for CNN for Visual Recognition!</title>
-        <description>&lt;p&gt;Lesson 2:&lt;/p&gt;
+        <description>&lt;p&gt;Lesson 1:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Today is age of images/video but image/video data is hard to use&lt;/li&gt;
+  &lt;li&gt;Computer Vision as an interdisciplinary field&lt;/li&gt;
+  &lt;li&gt;Eye as an inspiration for big bang of species&lt;/li&gt;
+  &lt;li&gt;Vision important for speciation in the early evolution of the species&lt;/li&gt;
+  &lt;li&gt;Mechanical Vision i.e. Camera models - Camera Obscura&lt;/li&gt;
+  &lt;li&gt;Hubel and Wiesel experiment&lt;/li&gt;
+  &lt;li&gt;Primary visual cortex is very far away from eye&lt;/li&gt;
+  &lt;li&gt;Simple structures excite neurons in human brain&lt;/li&gt;
+  &lt;li&gt;Block World models - Visual world simplified into basic geometrical shapes&lt;/li&gt;
+  &lt;li&gt;Book Vision by david marr&lt;/li&gt;
+  &lt;li&gt;Hierarchical Representation&lt;/li&gt;
+  &lt;li&gt;Generalized Cylinder and Pictorial Structure models&lt;/li&gt;
+  &lt;li&gt;Normalized Cut - perceptual grouping problem - image segmentation&lt;/li&gt;
+  &lt;li&gt;Real time Face Detection by Fuji Films Camera&lt;/li&gt;
+  &lt;li&gt;Major focus is recognition&lt;/li&gt;
+  &lt;li&gt;Engineered Features like SIFT, HOG&lt;/li&gt;
+  &lt;li&gt;Spatial pyramid matching for scene recognition&lt;/li&gt;
+  &lt;li&gt;Deformable Part Model&lt;/li&gt;
+  &lt;li&gt;PASCAL visual object challenge&lt;/li&gt;
+  &lt;li&gt;Imagenet&lt;/li&gt;
+  &lt;li&gt;Image classification really useful for making progress in other image machine learning problems like image detection, segmentation, image captioning&lt;/li&gt;
+  &lt;li&gt;Semantic Segmentation and Perceptual Grouping&lt;/li&gt;
+  &lt;li&gt;Tell a story given a scene&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Lesson 2:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Image Classification&lt;/li&gt;
@@ -129,9 +157,32 @@ classifier and evaluate classifier on test images.&lt;/li&gt;
 &lt;/ul&gt;
 
 </description>
-        <pubDate>Sat, 27 May 2017 17:30:12 +0530</pubDate>
-        <link>http://hitchhiker.ma/notes/2017/05/27/notes-for-CNN-for-visual-recognition.html</link>
-        <guid isPermaLink="true">http://hitchhiker.ma/notes/2017/05/27/notes-for-CNN-for-visual-recognition.html</guid>
+        <pubDate>Mon, 09 Oct 2017 15:30:12 +0530</pubDate>
+        <link>http://localhost:4000/notes/2017/10/09/notes-for-CNN-for-visual-recognition.html</link>
+        <guid isPermaLink="true">http://localhost:4000/notes/2017/10/09/notes-for-CNN-for-visual-recognition.html</guid>
+        
+        
+        <category>notes</category>
+        
+      </item>
+    
+      <item>
+        <title>Notes for Deep Learning STAT 946</title>
+        <description>Lesson 6:
+
+- Network with atleast one convolutional layer 
+- Three stages 
+	- Convolution function (Discrete Convolution)  
+	- Detection Eg. ReLU
+	- Pooling
+- Convolution vs Cross Corelation (Replace + by - in convolution)
+- Convolved Feature or Feature Map - captures features in image similar to kernel 
+- Sharing parameters
+- Making the network sparse
+- </description>
+        <pubDate>Thu, 22 Jun 2017 06:53:34 +0530</pubDate>
+        <link>http://localhost:4000/notes/2017/06/22/notes-for-deep-learning-waterloo.mdown</link>
+        <guid isPermaLink="true">http://localhost:4000/notes/2017/06/22/notes-for-deep-learning-waterloo.mdown</guid>
         
         
         <category>notes</category>
@@ -215,8 +266,8 @@ classifier and evaluate classifier on test images.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 18 Apr 2017 17:15:34 +0530</pubDate>
-        <link>http://hitchhiker.ma/notes/2017/04/18/notes-for-youtube-course-neural-networks.html</link>
-        <guid isPermaLink="true">http://hitchhiker.ma/notes/2017/04/18/notes-for-youtube-course-neural-networks.html</guid>
+        <link>http://localhost:4000/notes/2017/04/18/notes-for-youtube-course-neural-networks.html</link>
+        <guid isPermaLink="true">http://localhost:4000/notes/2017/04/18/notes-for-youtube-course-neural-networks.html</guid>
         
         
         <category>notes</category>
@@ -242,8 +293,8 @@ classifier and evaluate classifier on test images.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 24 Mar 2017 06:53:34 +0530</pubDate>
-        <link>http://hitchhiker.ma/notes/2017/03/24/notes-for-fast-ai-course.html</link>
-        <guid isPermaLink="true">http://hitchhiker.ma/notes/2017/03/24/notes-for-fast-ai-course.html</guid>
+        <link>http://localhost:4000/notes/2017/03/24/notes-for-fast-ai-course.html</link>
+        <guid isPermaLink="true">http://localhost:4000/notes/2017/03/24/notes-for-fast-ai-course.html</guid>
         
         
         <category>notes</category>
@@ -279,8 +330,8 @@ classifier and evaluate classifier on test images.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 24 Mar 2017 06:53:34 +0530</pubDate>
-        <link>http://hitchhiker.ma/notes/2017/03/24/notes-for-udacity-intro-to-data-analysis.html</link>
-        <guid isPermaLink="true">http://hitchhiker.ma/notes/2017/03/24/notes-for-udacity-intro-to-data-analysis.html</guid>
+        <link>http://localhost:4000/notes/2017/03/24/notes-for-udacity-intro-to-data-analysis.html</link>
+        <guid isPermaLink="true">http://localhost:4000/notes/2017/03/24/notes-for-udacity-intro-to-data-analysis.html</guid>
         
         
         <category>notes</category>
@@ -340,8 +391,8 @@ classifier and evaluate classifier on test images.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 19 Mar 2017 17:15:34 +0530</pubDate>
-        <link>http://hitchhiker.ma/notes/2017/03/19/notes-for-youtube-ml-mathematicalmonk.html</link>
-        <guid isPermaLink="true">http://hitchhiker.ma/notes/2017/03/19/notes-for-youtube-ml-mathematicalmonk.html</guid>
+        <link>http://localhost:4000/notes/2017/03/19/notes-for-youtube-ml-mathematicalmonk.html</link>
+        <guid isPermaLink="true">http://localhost:4000/notes/2017/03/19/notes-for-youtube-ml-mathematicalmonk.html</guid>
         
         
         <category>notes</category>
@@ -413,8 +464,8 @@ classifier and evaluate classifier on test images.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 19 Jan 2017 17:15:34 +0530</pubDate>
-        <link>http://hitchhiker.ma/notes/2017/01/19/notes-for-segmentation-and-clustering.html</link>
-        <guid isPermaLink="true">http://hitchhiker.ma/notes/2017/01/19/notes-for-segmentation-and-clustering.html</guid>
+        <link>http://localhost:4000/notes/2017/01/19/notes-for-segmentation-and-clustering.html</link>
+        <guid isPermaLink="true">http://localhost:4000/notes/2017/01/19/notes-for-segmentation-and-clustering.html</guid>
         
         
         <category>notes</category>
@@ -448,8 +499,8 @@ classifier and evaluate classifier on test images.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 17 Jan 2017 17:15:34 +0530</pubDate>
-        <link>http://hitchhiker.ma/notes/2017/01/17/notes-for-model-building-and-validation.html</link>
-        <guid isPermaLink="true">http://hitchhiker.ma/notes/2017/01/17/notes-for-model-building-and-validation.html</guid>
+        <link>http://localhost:4000/notes/2017/01/17/notes-for-model-building-and-validation.html</link>
+        <guid isPermaLink="true">http://localhost:4000/notes/2017/01/17/notes-for-model-building-and-validation.html</guid>
         
         
         <category>notes</category>
@@ -474,8 +525,8 @@ classifier and evaluate classifier on test images.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 08 Jan 2017 17:15:34 +0530</pubDate>
-        <link>http://hitchhiker.ma/notes/2017/01/08/notes-for-udacity-course-inferential-stats.html</link>
-        <guid isPermaLink="true">http://hitchhiker.ma/notes/2017/01/08/notes-for-udacity-course-inferential-stats.html</guid>
+        <link>http://localhost:4000/notes/2017/01/08/notes-for-udacity-course-inferential-stats.html</link>
+        <guid isPermaLink="true">http://localhost:4000/notes/2017/01/08/notes-for-udacity-course-inferential-stats.html</guid>
         
         
         <category>notes</category>
@@ -508,38 +559,8 @@ classifier and evaluate classifier on test images.&lt;/li&gt;
 
 </description>
         <pubDate>Fri, 14 Oct 2016 17:15:34 +0530</pubDate>
-        <link>http://hitchhiker.ma/notes/2016/10/14/notes-for-udacity-course-intro-to-stats.html</link>
-        <guid isPermaLink="true">http://hitchhiker.ma/notes/2016/10/14/notes-for-udacity-course-intro-to-stats.html</guid>
-        
-        
-        <category>notes</category>
-        
-      </item>
-    
-      <item>
-        <title>Notes for Neural Networks!</title>
-        <description>&lt;p&gt;This is the course offered by Jeffery Hilton.&lt;/p&gt;
-
-&lt;p&gt;Week 1:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;He starts with a dicussion about the need for machine learning models and talks about the situations where it is really hard to write programs and form rule based solutions since there is no single answer. Additionally, rules need to change and outsmart the ones who try to break the system.&lt;/li&gt;
-  &lt;li&gt;Approach is to take examples and train the system using these inputs and outputs. Machine Learning algorithms take care of generalisation.&lt;/li&gt;
-  &lt;li&gt;Learning algorithms are really good solutions for
-    &lt;ul&gt;
-      &lt;li&gt;Recognising Patterns - Recognising facial expressions and identities.&lt;/li&gt;
-      &lt;li&gt;Recognising Anomalies - Unusual Sequence of Credit Card Transactions.&lt;/li&gt;
-      &lt;li&gt;Prediction - Future Stock Prices.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Discussion about MNIST databased of Handwritten Digits, ImageNet competition and Speech Recognition Task.&lt;/li&gt;
-  &lt;li&gt;For speech recognition task, we have pre-processing, the acoustic model and decoding as various steps.&lt;/li&gt;
-  &lt;li&gt;Talked about real neurons and how they insipred the development of neural networks as a field of machine learning.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 14 Oct 2016 17:15:34 +0530</pubDate>
-        <link>http://hitchhiker.ma/notes/2016/10/14/notes-for-coursera-course-neural-networks.html</link>
-        <guid isPermaLink="true">http://hitchhiker.ma/notes/2016/10/14/notes-for-coursera-course-neural-networks.html</guid>
+        <link>http://localhost:4000/notes/2016/10/14/notes-for-udacity-course-intro-to-stats.html</link>
+        <guid isPermaLink="true">http://localhost:4000/notes/2016/10/14/notes-for-udacity-course-intro-to-stats.html</guid>
         
         
         <category>notes</category>
