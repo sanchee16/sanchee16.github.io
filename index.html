@@ -1,18 +1,29 @@
 ---
-layout: page
-title: Blog
-subtitle: Strong convictions precede great actions.
-sitemap:
-  priority: 0.9
+layout: default
 ---
 
-<ul class="list-posts">
-    {% for post in site.posts %}
-        <li class="post-teaser">
-            <a href="{{ post.url | prepend: site.baseurl }}">
-                <span class="post-teaser__title">{{ post.title }}</span>
-                <span class="post-teaser__date">{{ post.date | date: "%d %B %Y" }}</span>
-            </a>
-        </li>
+<div class="main-post-list hidden">
+
+  <ol class="post-list">
+    {% for post in paginator.posts %}
+    <li>
+      <h2 class="post-list__post-title post-title"><a href="{{ post.url }}" title=" {{ post.title }}">{{ post.title }}</a></h2>
+      <p class="excerpt">{{ post.content | strip_html | strip_newlines | truncate: 250 }}&hellip;</p>
+      <div class="post-list__meta">        
+        <time datetime="{{post.date | date: date_to_xmlschema}}" class="post-list__meta--date date">
+          {{ post.date | date: "%F"}}</time> 
+        <div class = "tag-img-icon">
+          <img src="/images/tag-icon.svg" width="20px" /> 
+        </div>
+        <a href="/tags">
+          <div class = "post-list-icon-mate">
+            <span class="post-list__meta--tags-right">{{ post.tags }}</span>
+          </div>
+      </div>
+    </li>
     {% endfor %}
-</ul>
+  </ol>
+
+  {% include pagination.html %}
+
+</div>

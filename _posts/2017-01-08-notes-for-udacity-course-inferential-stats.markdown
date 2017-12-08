@@ -3,7 +3,7 @@ layout: post
 title:  "Notes for Intro to Inferential Statistics!"
 subtitle: "A Course by Udacity"
 date:   2017-01-08 11:45:34
-categories: [notes]
+tag: [Notes]
 ---
 
 Lesson 1:

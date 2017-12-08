@@ -3,7 +3,7 @@ layout: post
 title:  "Notes for Intro to Data Analysis!"
 subtitle: "A Course by Udacity"
 date:   2017-03-24 01:23:34
-categories: [notes]
+tag: [Notes]
 ---
 
 Lesson 1:

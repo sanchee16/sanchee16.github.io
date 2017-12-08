@@ -1,14 +1,25 @@
 ---
-layout: page
-title: 404
-sitemap:
-  exclude: 'yes'
+layout: default
+description: "Sorry! I can't find what you are looking for. :("
+header-img: "images/404-bg.jpg"
+permalink: /404.html
 ---
 
-<h2 class="go-home">
-    I suggest you <a href="/">going home</a>, it's 404 and it's getting dark!
-</h2>
 
+<!-- Page Header -->
+<header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% endif %}')">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+				<div class="site-heading" id="tag-heading">
+					<h1>404</h1>
+					<span class="subheading">{{ page.description }}</span>
+				</div>
+			</div>
+		</div>
+	</div>
+</header>
 
-<!-- Adding the glitch effect -->
-<script> document.getElementsByTagName('body')[0].classList.add('glitch'); </script>
+<script>
+	document.body.classList.add('page-fullscreen');
+</script>
