@@ -3,7 +3,7 @@ layout: post
 title:  "Notes for Deep Learning fast.ai MOOC!"
 subtitle: "A Course by fast.ai"
 date:   2017-03-24 01:23:34
-tag: [notes]
+tag: [Notes]
 ---
 
 Lesson 0:
