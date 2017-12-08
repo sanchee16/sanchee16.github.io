@@ -3,7 +3,7 @@ layout: post
 title:  "Notes for CNN for Visual Recognition!"
 subtitle: "A Course by Stanford"
 date:   2017-10-09 10:00:12
-categories: [notes]
+tag: [notes]
 ---
 
 Lesson 1:

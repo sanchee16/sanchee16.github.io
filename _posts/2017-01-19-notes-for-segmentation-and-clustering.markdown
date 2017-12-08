@@ -3,7 +3,7 @@ layout: post
 title:  "Notes for Segmentation and Clustering!"
 subtitle: "A Course by Udacity"
 date:   2017-01-19 11:45:34
-categories: [notes]
+tag: [notes]
 ---
 
 Lesson 1:

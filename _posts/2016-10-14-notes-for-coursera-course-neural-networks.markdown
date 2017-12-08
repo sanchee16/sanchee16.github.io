@@ -3,7 +3,7 @@ layout: post
 title:  "Notes for Neural Networks!"
 subtitle: "A Course by Coursera"
 date:   2016-10-14 11:45:34
-categories: [notes]
+tag: [notes]
 ---
 
 This is the course offered by Jeffery Hilton. 

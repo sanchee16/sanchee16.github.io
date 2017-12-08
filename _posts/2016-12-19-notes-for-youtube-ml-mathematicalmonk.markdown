@@ -3,7 +3,7 @@ layout: post
 title:  "Notes for ML!"
 subtitle: "A Course by Mathematical Monk's Channel(Youtube)"
 date:   2017-03-19 11:45:34
-categories: [notes]
+tag: [notes]
 ---
 
 Lesson 1:

@@ -3,7 +3,7 @@ layout: post
 title:  "Notes for Intro to Statistics!"
 subtitle: "A Course by Udacity"
 date:   2016-10-14 11:45:34
-categories: [notes]
+tag: [notes]
 ---
 
 This is the course offered by Sabestian Thrun.

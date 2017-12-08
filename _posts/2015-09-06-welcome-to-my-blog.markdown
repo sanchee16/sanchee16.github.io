@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Welcome to my blog!"
-subtitle: "Feel home!"
+description: "Feel home!"
 date:   2016-10-06 01:23:34
-categories: [random]
+tag: [Random]
 ---
 
 First of all, thanks for visiting my blog. 
