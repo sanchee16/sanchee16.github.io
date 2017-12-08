@@ -5,8 +5,8 @@
     <description>Strong convictions precede great actions.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 08 Dec 2017 15:47:14 +0530</pubDate>
-    <lastBuildDate>Fri, 08 Dec 2017 15:47:14 +0530</lastBuildDate>
+    <pubDate>Fri, 08 Dec 2017 16:24:25 +0530</pubDate>
+    <lastBuildDate>Fri, 08 Dec 2017 16:24:25 +0530</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
@@ -160,7 +160,7 @@ classifier and evaluate classifier on test images.&lt;/li&gt;
         <link>http://localhost:4000/2017/10/notes-for-CNN-for-visual-recognition/</link>
         <guid isPermaLink="true">http://localhost:4000/2017/10/notes-for-CNN-for-visual-recognition/</guid>
         
-        <category>notes</category>
+        <category>Notes</category>
         
         
       </item>
@@ -183,7 +183,7 @@ classifier and evaluate classifier on test images.&lt;/li&gt;
         <link>http://localhost:4000/2017/06/notes-for-deep-learning-waterloo/</link>
         <guid isPermaLink="true">http://localhost:4000/2017/06/notes-for-deep-learning-waterloo/</guid>
         
-        <category>notes</category>
+        <category>Notes</category>
         
         
       </item>
@@ -268,7 +268,7 @@ classifier and evaluate classifier on test images.&lt;/li&gt;
         <link>http://localhost:4000/2017/04/notes-for-youtube-course-neural-networks/</link>
         <guid isPermaLink="true">http://localhost:4000/2017/04/notes-for-youtube-course-neural-networks/</guid>
         
-        <category>notes</category>
+        <category>Notes</category>
         
         
       </item>
@@ -305,7 +305,7 @@ classifier and evaluate classifier on test images.&lt;/li&gt;
         <link>http://localhost:4000/2017/03/notes-for-udacity-intro-to-data-analysis/</link>
         <guid isPermaLink="true">http://localhost:4000/2017/03/notes-for-udacity-intro-to-data-analysis/</guid>
         
-        <category>notes</category>
+        <category>Notes</category>
         
         
       </item>
@@ -333,7 +333,7 @@ classifier and evaluate classifier on test images.&lt;/li&gt;
         <link>http://localhost:4000/2017/03/notes-for-deep-learning-fast-ai/</link>
         <guid isPermaLink="true">http://localhost:4000/2017/03/notes-for-deep-learning-fast-ai/</guid>
         
-        <category>notes</category>
+        <category>Notes</category>
         
         
       </item>
@@ -394,7 +394,7 @@ classifier and evaluate classifier on test images.&lt;/li&gt;
         <link>http://localhost:4000/2017/03/notes-for-youtube-ml-mathematicalmonk/</link>
         <guid isPermaLink="true">http://localhost:4000/2017/03/notes-for-youtube-ml-mathematicalmonk/</guid>
         
-        <category>notes</category>
+        <category>Notes</category>
         
         
       </item>
@@ -467,7 +467,7 @@ classifier and evaluate classifier on test images.&lt;/li&gt;
         <link>http://localhost:4000/2017/01/notes-for-segmentation-and-clustering/</link>
         <guid isPermaLink="true">http://localhost:4000/2017/01/notes-for-segmentation-and-clustering/</guid>
         
-        <category>notes</category>
+        <category>Notes</category>
         
         
       </item>
@@ -502,7 +502,7 @@ classifier and evaluate classifier on test images.&lt;/li&gt;
         <link>http://localhost:4000/2017/01/notes-for-model-building-and-validation/</link>
         <guid isPermaLink="true">http://localhost:4000/2017/01/notes-for-model-building-and-validation/</guid>
         
-        <category>notes</category>
+        <category>Notes</category>
         
         
       </item>
@@ -528,7 +528,7 @@ classifier and evaluate classifier on test images.&lt;/li&gt;
         <link>http://localhost:4000/2017/01/notes-for-udacity-course-inferential-stats/</link>
         <guid isPermaLink="true">http://localhost:4000/2017/01/notes-for-udacity-course-inferential-stats/</guid>
         
-        <category>notes</category>
+        <category>Notes</category>
         
         
       </item>
@@ -562,7 +562,7 @@ classifier and evaluate classifier on test images.&lt;/li&gt;
         <link>http://localhost:4000/2016/10/notes-for-udacity-course-intro-to-stats/</link>
         <guid isPermaLink="true">http://localhost:4000/2016/10/notes-for-udacity-course-intro-to-stats/</guid>
         
-        <category>notes</category>
+        <category>Notes</category>
         
         
       </item>

@@ -3,7 +3,7 @@ layout: post
 title:  "Notes for Deep Learning STAT 946"
 subtitle: "A Course by University of Waterloo"
 date:   2017-06-22 01:23:34
-tag: [notes]
+tag: [Notes]
 ---
 
 Lesson 6:

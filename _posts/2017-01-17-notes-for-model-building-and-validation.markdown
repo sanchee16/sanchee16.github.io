@@ -3,7 +3,7 @@ layout: post
 title:  "Notes for Model Building And Validation!"
 subtitle: "A Course by Udacity"
 date:   2017-01-17 11:45:34
-tag: [notes]
+tag: [Notes]
 ---
 
 Lesson 1:

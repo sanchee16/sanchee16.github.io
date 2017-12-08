@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Notes for Classification Model!"
-description: "A Course by Udacity"
+subtitle: "A Course by Udacity"
 date:   2016-10-13 01:23:34
-tag: [notes]
+tag: [Notes]
 ---
 
 This is first in the series of notes that I plan to put online which I take during my online courses. This one specifically is from the Udacity Course Classification Models. 

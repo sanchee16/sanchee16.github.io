@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to my blog!"
-description: "Feel home!"
+subtitle: "Feel home!"
 date:   2016-10-06 01:23:34
 tag: [Random]
 ---

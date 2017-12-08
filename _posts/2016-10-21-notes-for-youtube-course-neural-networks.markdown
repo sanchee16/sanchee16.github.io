@@ -3,7 +3,7 @@ layout: post
 title:  "Notes for Artificial Neural Networks!"
 subtitle: "A Course by Hugo Larochelle"
 date:   2017-04-18 11:45:34
-tag: [notes]
+tag: [Notes]
 ---
 
 Lesson 1:
