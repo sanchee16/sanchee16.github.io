@@ -5,9 +5,39 @@
     <description>Strong convictions precede great actions.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 08 Dec 2017 16:40:02 +0530</pubDate>
-    <lastBuildDate>Fri, 08 Dec 2017 16:40:02 +0530</lastBuildDate>
+    <pubDate>Mon, 18 Dec 2017 10:15:25 +0530</pubDate>
+    <lastBuildDate>Mon, 18 Dec 2017 10:15:25 +0530</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Design Patterns</title>
+        <description>Lesson 0:
+
+- Experience Reuse
+- Obeserver Pattern
+- Decorator Pattern
+- Factory Pattern
+- Singleton Pattern
+- Command Pattern
+- Adapter and Facade Pattern
+- Template Method Pattern
+- Iterator and Composite Pattern
+- State Pattern
+- Proxy Pattern
+- Compound Pattern
+- Design Pattern
+- Leftover Pattern
+</description>
+        <pubDate>Fri, 15 Dec 2017 06:53:34 +0530</pubDate>
+        <link>http://localhost:4000/2017/12/notes-for-head-first-design-patterns/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/12/notes-for-head-first-design-patterns/</guid>
+        
+        <category>Book</category>
+        
+        <category>Notes</category>
+        
+        
+      </item>
     
       <item>
         <title>Notes for CNN for Visual Recognition!</title>
@@ -527,40 +557,6 @@ classifier and evaluate classifier on test images.&lt;/li&gt;
         <pubDate>Sun, 08 Jan 2017 17:15:34 +0530</pubDate>
         <link>http://localhost:4000/2017/01/notes-for-udacity-course-inferential-stats/</link>
         <guid isPermaLink="true">http://localhost:4000/2017/01/notes-for-udacity-course-inferential-stats/</guid>
-        
-        <category>Notes</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Notes for Intro to Statistics!</title>
-        <description>&lt;p&gt;This is the course offered by Sabestian Thrun.&lt;/p&gt;
-
-&lt;p&gt;Lesson 1:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Using statistics he shows how we are actually less popular than our friends in expectation. This is actually called Friendship paradox.&lt;/li&gt;
-  &lt;li&gt;He tells how statistics plays a main role in converting data to decisions and the fact that a good statistician spends a lot of time looking at the data.&lt;/li&gt;
-  &lt;li&gt;There is a discussion about scatter plot, linearity, outliers and noise and describes how bar charts address the issue of noise by merging points into single bar.&lt;/li&gt;
-  &lt;li&gt;He introduced the concept of interpolation and random noise which is basically deviations from the linear graph.&lt;/li&gt;
-  &lt;li&gt;Moving on to bar charts, he talks about how bar charts pool together groups of data and understand global data trends.&lt;/li&gt;
-  &lt;li&gt;Histograms - special case of bar charts for 1-D data. They use frequency of 1 variable and depict the median.&lt;/li&gt;
-  &lt;li&gt;Relative data visualization in pie charts where he showed how pie charts are invariant to the number and depict just the ratio.&lt;/li&gt;
-  &lt;li&gt;Simpson’s paradox - Paradox which appears in different groups of data but disappears when the groups are combined.&lt;a href=&quot;http://www.unc.edu/~nielsen/soci708/cdocs/Berkeley_admissions_bias.pdf&quot;&gt;(Do read associated UC Berkley Incident)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Lesson 2:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;He discusses that probability is moving from cause to data and stats is about moving from data to cause.&lt;/li&gt;
-  &lt;li&gt;There is a brief introduction to topic of independent and dependent events&lt;/li&gt;
-  &lt;li&gt;Conditional Probability&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Fri, 14 Oct 2016 17:15:34 +0530</pubDate>
-        <link>http://localhost:4000/2016/10/notes-for-udacity-course-intro-to-stats/</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/10/notes-for-udacity-course-intro-to-stats/</guid>
         
         <category>Notes</category>
         

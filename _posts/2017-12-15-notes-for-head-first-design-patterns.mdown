@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Design Patterns"
+subtitle: "A book by Head First"
+date: 2017-12-15 01:23:34
+tag: [Book, Notes]
+---
+
+Lesson 0:
+
+- Experience Reuse
+- Obeserver Pattern
+- Decorator Pattern
+- Factory Pattern
+- Singleton Pattern
+- Command Pattern
+- Adapter and Facade Pattern
+- Template Method Pattern
+- Iterator and Composite Pattern
+- State Pattern
+- Proxy Pattern
+- Compound Pattern
+- Design Pattern
+- Leftover Pattern
