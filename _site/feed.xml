@@ -5,8 +5,8 @@
     <description>Strong convictions precede great actions.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 18 Dec 2017 10:15:25 +0530</pubDate>
-    <lastBuildDate>Mon, 18 Dec 2017 10:15:25 +0530</lastBuildDate>
+    <pubDate>Mon, 18 Dec 2017 10:30:14 +0530</pubDate>
+    <lastBuildDate>Mon, 18 Dec 2017 10:30:14 +0530</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
@@ -27,6 +27,10 @@
 - Compound Pattern
 - Design Pattern
 - Leftover Pattern
+
+
+Lesson 1:
+- Experience reuse
 </description>
         <pubDate>Fri, 15 Dec 2017 06:53:34 +0530</pubDate>
         <link>http://localhost:4000/2017/12/notes-for-head-first-design-patterns/</link>
