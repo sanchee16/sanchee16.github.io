@@ -5,34 +5,103 @@
     <description>Strong convictions precede great actions.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 18 Dec 2017 10:30:14 +0530</pubDate>
-    <lastBuildDate>Mon, 18 Dec 2017 10:30:14 +0530</lastBuildDate>
+    <pubDate>Thu, 21 Dec 2017 13:37:27 +0530</pubDate>
+    <lastBuildDate>Thu, 21 Dec 2017 13:37:27 +0530</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
-        <title>Design Patterns</title>
-        <description>Lesson 0:
+        <title>Notes for Functional Programming in Scala!</title>
+        <description>&lt;p&gt;Lesson 1:&lt;/p&gt;
 
-- Experience Reuse
-- Obeserver Pattern
-- Decorator Pattern
-- Factory Pattern
-- Singleton Pattern
-- Command Pattern
-- Adapter and Facade Pattern
-- Template Method Pattern
-- Iterator and Composite Pattern
-- State Pattern
-- Proxy Pattern
-- Compound Pattern
-- Design Pattern
-- Leftover Pattern
-
-
-Lesson 1:
-- Experience reuse
+&lt;ul&gt;
+  &lt;li&gt;Programming Paradigms
+    &lt;ul&gt;
+      &lt;li&gt;Imperative&lt;/li&gt;
+      &lt;li&gt;Functional&lt;/li&gt;
+      &lt;li&gt;Logic&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Object Oriented (Orthogonal to above three)&lt;/li&gt;
+  &lt;li&gt;Imperative Programming
+    &lt;ul&gt;
+      &lt;li&gt;Modifying mutable variables&lt;/li&gt;
+      &lt;li&gt;Using assignments&lt;/li&gt;
+      &lt;li&gt;Control Structures&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Theory
+    &lt;ul&gt;
+      &lt;li&gt;One or more data types&lt;/li&gt;
+      &lt;li&gt;Operation on these data types&lt;/li&gt;
+      &lt;li&gt;Laws that describe the relationships between values and operations&lt;/li&gt;
+      &lt;li&gt;Doesn’t describe the mutations&lt;/li&gt;
+      &lt;li&gt;Polynomial and Strings&lt;/li&gt;
+      &lt;li&gt;Consequences
+        &lt;ul&gt;
+          &lt;li&gt;No place for mutation&lt;/li&gt;
+          &lt;li&gt;Mutation can destroy other useful laws&lt;/li&gt;
+          &lt;li&gt;Define theories for operators defined as functions&lt;/li&gt;
+          &lt;li&gt;Powerful ways to abstract and compose functions&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 </description>
-        <pubDate>Fri, 15 Dec 2017 06:53:34 +0530</pubDate>
+        <pubDate>Tue, 19 Dec 2017 15:30:12 +0530</pubDate>
+        <link>http://localhost:4000/2017/12/notes-for-functional-programming-scala/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/12/notes-for-functional-programming-scala/</guid>
+        
+        <category>Notes</category>
+        
+        <category>Coursera</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Design Patterns</title>
+        <description>&lt;p&gt;Lesson 0:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Experience Reuse&lt;/li&gt;
+  &lt;li&gt;Obeserver Pattern&lt;/li&gt;
+  &lt;li&gt;Decorator Pattern&lt;/li&gt;
+  &lt;li&gt;Factory Pattern&lt;/li&gt;
+  &lt;li&gt;Singleton Pattern&lt;/li&gt;
+  &lt;li&gt;Command Pattern&lt;/li&gt;
+  &lt;li&gt;Adapter and Facade Pattern&lt;/li&gt;
+  &lt;li&gt;Template Method Pattern&lt;/li&gt;
+  &lt;li&gt;Iterator and Composite Pattern&lt;/li&gt;
+  &lt;li&gt;State Pattern&lt;/li&gt;
+  &lt;li&gt;Proxy Pattern&lt;/li&gt;
+  &lt;li&gt;Compound Pattern&lt;/li&gt;
+  &lt;li&gt;Design Pattern&lt;/li&gt;
+  &lt;li&gt;Leftover Pattern&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Lesson 1:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Experience reuse&lt;/li&gt;
+  &lt;li&gt;Change is the only constant&lt;/li&gt;
+  &lt;li&gt;Exercise answers
+    &lt;ul&gt;
+      &lt;li&gt;Need to improve code for scalabitlity&lt;/li&gt;
+      &lt;li&gt;Prototyping for experiments and then building products if the prototype is successful&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Design Principles
+    &lt;ul&gt;
+      &lt;li&gt;Identify aspects of app which vary and encapsulate them&lt;/li&gt;
+      &lt;li&gt;Program to an interface not an implementation&lt;/li&gt;
+      &lt;li&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Behavious Class&lt;/li&gt;
+  &lt;li&gt;Interface&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 18 Dec 2017 06:53:34 +0530</pubDate>
         <link>http://localhost:4000/2017/12/notes-for-head-first-design-patterns/</link>
         <guid isPermaLink="true">http://localhost:4000/2017/12/notes-for-head-first-design-patterns/</guid>
         
@@ -201,18 +270,24 @@ classifier and evaluate classifier on test images.&lt;/li&gt;
     
       <item>
         <title>Notes for Deep Learning STAT 946</title>
-        <description>Lesson 6:
+        <description>&lt;p&gt;Lesson 6:&lt;/p&gt;
 
-- Network with atleast one convolutional layer 
-- Three stages 
-	- Convolution function (Discrete Convolution)  
-	- Detection Eg. ReLU
-	- Pooling
-- Convolution vs Cross Corelation (Replace + by - in convolution)
-- Convolved Feature or Feature Map - captures features in image similar to kernel 
-- Sharing parameters
-- Making the network sparse
-- </description>
+&lt;ul&gt;
+  &lt;li&gt;Network with atleast one convolutional layer&lt;/li&gt;
+  &lt;li&gt;Three stages
+    &lt;ul&gt;
+      &lt;li&gt;Convolution function (Discrete Convolution)&lt;/li&gt;
+      &lt;li&gt;Detection Eg. ReLU&lt;/li&gt;
+      &lt;li&gt;Pooling&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Convolution vs Cross Corelation (Replace + by - in convolution)&lt;/li&gt;
+  &lt;li&gt;Convolved Feature or Feature Map - captures features in image similar to kernel&lt;/li&gt;
+  &lt;li&gt;Sharing parameters&lt;/li&gt;
+  &lt;li&gt;Making the network sparse&lt;/li&gt;
+  &lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
         <pubDate>Thu, 22 Jun 2017 06:53:34 +0530</pubDate>
         <link>http://localhost:4000/2017/06/notes-for-deep-learning-waterloo/</link>
         <guid isPermaLink="true">http://localhost:4000/2017/06/notes-for-deep-learning-waterloo/</guid>
@@ -535,32 +610,6 @@ classifier and evaluate classifier on test images.&lt;/li&gt;
         <pubDate>Tue, 17 Jan 2017 17:15:34 +0530</pubDate>
         <link>http://localhost:4000/2017/01/notes-for-model-building-and-validation/</link>
         <guid isPermaLink="true">http://localhost:4000/2017/01/notes-for-model-building-and-validation/</guid>
-        
-        <category>Notes</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Notes for Intro to Inferential Statistics!</title>
-        <description>&lt;p&gt;Lesson 1:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Sample mean = Population Mean&lt;/li&gt;
-  &lt;li&gt;Sample Standard Deviation = Population Standard Deviation/sqrt(number of samples) = Standard Error&lt;/li&gt;
-  &lt;li&gt;z score indicates how many standard deviation is an element from the mean&lt;/li&gt;
-  &lt;li&gt;Distribution of sample means is sampling distribution&lt;/li&gt;
-  &lt;li&gt;Point Estimate&lt;/li&gt;
-  &lt;li&gt;Mean of Treated Population vs Sample Mean&lt;/li&gt;
-  &lt;li&gt;In a normal distribution, 68% of sample falls in one Sample SD and 95% SD fall in two Sample SD&lt;/li&gt;
-  &lt;li&gt;2 * Sample SD is margin of error&lt;/li&gt;
-  &lt;li&gt;95% Confidence Interval is mean +/- margin of error&lt;/li&gt;
-  &lt;li&gt;95% of sample means are within 1.96 Standard Errors from the population mean in a sampling distribution&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sun, 08 Jan 2017 17:15:34 +0530</pubDate>
-        <link>http://localhost:4000/2017/01/notes-for-udacity-course-inferential-stats/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/01/notes-for-udacity-course-inferential-stats/</guid>
         
         <category>Notes</category>
         
