@@ -5,34 +5,96 @@
     <description>Strong convictions precede great actions.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 18 Dec 2017 10:30:14 +0530</pubDate>
-    <lastBuildDate>Mon, 18 Dec 2017 10:30:14 +0530</lastBuildDate>
+    <pubDate>Thu, 28 Dec 2017 16:15:01 +0530</pubDate>
+    <lastBuildDate>Thu, 28 Dec 2017 16:15:01 +0530</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
-        <title>Design Patterns</title>
-        <description>Lesson 0:
+        <title>Notes for Deep Learning fast.ai MOOC!</title>
+        <description>&lt;p&gt;Lesson 0:&lt;/p&gt;
 
-- Experience Reuse
-- Obeserver Pattern
-- Decorator Pattern
-- Factory Pattern
-- Singleton Pattern
-- Command Pattern
-- Adapter and Facade Pattern
-- Template Method Pattern
-- Iterator and Composite Pattern
-- State Pattern
-- Proxy Pattern
-- Compound Pattern
-- Design Pattern
-- Leftover Pattern
+&lt;ul&gt;
+  &lt;li&gt;Incredibly flexible function (NN), all-purpose parameter fitting(Backprop), fast and scalable(GPU) made DL possible&lt;/li&gt;
+  &lt;li&gt;?? before any function describes the function in Ipynb&lt;/li&gt;
+  &lt;li&gt;Shift + Enter in Ipynb&lt;/li&gt;
+  &lt;li&gt;Try things with your own data&lt;/li&gt;
+&lt;/ul&gt;
 
+&lt;p&gt;Lesson 1:&lt;/p&gt;
 
-Lesson 1:
-- Experience reuse
+&lt;ul&gt;
+  &lt;li&gt;Infinitely flexible function, all purpose parameter fitting and tuning which is fast and scalable.&lt;/li&gt;
+  &lt;li&gt;Neural network is the universal approximation function.&lt;/li&gt;
+  &lt;li&gt;Gradient Descent &amp;amp; Backpropagation is the tuning part.&lt;/li&gt;
+  &lt;li&gt;NVIDIA GPU supports CUDA which is efficient in running deep learning computations.&lt;/li&gt;
+  &lt;li&gt;P2 and t2.micro&lt;/li&gt;
+  &lt;li&gt;AWS Setup&lt;/li&gt;
+  &lt;li&gt;AMI: Amazon Machine Images: Snapshot of instance at a given point in time&lt;/li&gt;
+  &lt;li&gt;Literate programming&lt;/li&gt;
+  &lt;li&gt;Cmd + Shift + P for keyboard shortcuts on jupyter notebook&lt;/li&gt;
+  &lt;li&gt;tmux&lt;/li&gt;
+  &lt;li&gt;Test, Train and Validation Datasets. Also, introduced to sample data.&lt;/li&gt;
+  &lt;li&gt;Magic function&lt;/li&gt;
+  &lt;li&gt;Pretrained Model - Model with Learned Parameters&lt;/li&gt;
+  &lt;li&gt;VGG 16 model&lt;/li&gt;
+  &lt;li&gt;Keras.json &amp;amp; theanorc file for configuration&lt;/li&gt;
+  &lt;li&gt;Concept of Batch and Mini Batch&lt;/li&gt;
+  &lt;li&gt;GPU has limited memory and the data transfer is a costly operation&lt;/li&gt;
+  &lt;li&gt;Finetuning replaces the last layer of a pretrained network with the current classes&lt;/li&gt;
+&lt;/ul&gt;
 </description>
-        <pubDate>Fri, 15 Dec 2017 06:53:34 +0530</pubDate>
+        <pubDate>Thu, 28 Dec 2017 06:53:34 +0530</pubDate>
+        <link>http://localhost:4000/2017/12/notes-for-deep-learning-fast-ai/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/12/notes-for-deep-learning-fast-ai/</guid>
+        
+        <category>Notes</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Design Patterns</title>
+        <description>&lt;p&gt;Lesson 0:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Experience Reuse&lt;/li&gt;
+  &lt;li&gt;Obeserver Pattern&lt;/li&gt;
+  &lt;li&gt;Decorator Pattern&lt;/li&gt;
+  &lt;li&gt;Factory Pattern&lt;/li&gt;
+  &lt;li&gt;Singleton Pattern&lt;/li&gt;
+  &lt;li&gt;Command Pattern&lt;/li&gt;
+  &lt;li&gt;Adapter and Facade Pattern&lt;/li&gt;
+  &lt;li&gt;Template Method Pattern&lt;/li&gt;
+  &lt;li&gt;Iterator and Composite Pattern&lt;/li&gt;
+  &lt;li&gt;State Pattern&lt;/li&gt;
+  &lt;li&gt;Proxy Pattern&lt;/li&gt;
+  &lt;li&gt;Compound Pattern&lt;/li&gt;
+  &lt;li&gt;Design Pattern&lt;/li&gt;
+  &lt;li&gt;Leftover Pattern&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Lesson 1:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Experience reuse&lt;/li&gt;
+  &lt;li&gt;Change is the only constant&lt;/li&gt;
+  &lt;li&gt;Exercise answers
+    &lt;ul&gt;
+      &lt;li&gt;Need to improve code for scalabitlity&lt;/li&gt;
+      &lt;li&gt;Prototyping for experiments and then building products if the prototype is successful&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Design Principles
+    &lt;ul&gt;
+      &lt;li&gt;Identify aspects of app which vary and encapsulate them&lt;/li&gt;
+      &lt;li&gt;Program to an interface not an implementation&lt;/li&gt;
+      &lt;li&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Behavious Class&lt;/li&gt;
+  &lt;li&gt;Interface&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 18 Dec 2017 06:53:34 +0530</pubDate>
         <link>http://localhost:4000/2017/12/notes-for-head-first-design-patterns/</link>
         <guid isPermaLink="true">http://localhost:4000/2017/12/notes-for-head-first-design-patterns/</guid>
         
@@ -201,18 +263,24 @@ classifier and evaluate classifier on test images.&lt;/li&gt;
     
       <item>
         <title>Notes for Deep Learning STAT 946</title>
-        <description>Lesson 6:
+        <description>&lt;p&gt;Lesson 6:&lt;/p&gt;
 
-- Network with atleast one convolutional layer 
-- Three stages 
-	- Convolution function (Discrete Convolution)  
-	- Detection Eg. ReLU
-	- Pooling
-- Convolution vs Cross Corelation (Replace + by - in convolution)
-- Convolved Feature or Feature Map - captures features in image similar to kernel 
-- Sharing parameters
-- Making the network sparse
-- </description>
+&lt;ul&gt;
+  &lt;li&gt;Network with atleast one convolutional layer&lt;/li&gt;
+  &lt;li&gt;Three stages
+    &lt;ul&gt;
+      &lt;li&gt;Convolution function (Discrete Convolution)&lt;/li&gt;
+      &lt;li&gt;Detection Eg. ReLU&lt;/li&gt;
+      &lt;li&gt;Pooling&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Convolution vs Cross Corelation (Replace + by - in convolution)&lt;/li&gt;
+  &lt;li&gt;Convolved Feature or Feature Map - captures features in image similar to kernel&lt;/li&gt;
+  &lt;li&gt;Sharing parameters&lt;/li&gt;
+  &lt;li&gt;Making the network sparse&lt;/li&gt;
+  &lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
         <pubDate>Thu, 22 Jun 2017 06:53:34 +0530</pubDate>
         <link>http://localhost:4000/2017/06/notes-for-deep-learning-waterloo/</link>
         <guid isPermaLink="true">http://localhost:4000/2017/06/notes-for-deep-learning-waterloo/</guid>
@@ -338,34 +406,6 @@ classifier and evaluate classifier on test images.&lt;/li&gt;
         <pubDate>Fri, 24 Mar 2017 06:53:34 +0530</pubDate>
         <link>http://localhost:4000/2017/03/notes-for-udacity-intro-to-data-analysis/</link>
         <guid isPermaLink="true">http://localhost:4000/2017/03/notes-for-udacity-intro-to-data-analysis/</guid>
-        
-        <category>Notes</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Notes for Deep Learning fast.ai MOOC!</title>
-        <description>&lt;p&gt;Lesson 0:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Incredibly flexible function (NN), all-purpose parameter fitting(Backprop), fast and scalable(GPU) made DL possible&lt;/li&gt;
-  &lt;li&gt;?? before any function describes the function in Ipynb&lt;/li&gt;
-  &lt;li&gt;Shift + Enter in Ipynb&lt;/li&gt;
-  &lt;li&gt;Try things with your own data&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Lesson 1:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Infinitely flexible function, all purpose parameter tuning which is fast and scalable.&lt;/li&gt;
-  &lt;li&gt;NVIDIA GPU supports CUDA which is efficient in running deep learning computations.&lt;/li&gt;
-  &lt;li&gt;P2 and t2.micro&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 24 Mar 2017 06:53:34 +0530</pubDate>
-        <link>http://localhost:4000/2017/03/notes-for-deep-learning-fast-ai/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/03/notes-for-deep-learning-fast-ai/</guid>
         
         <category>Notes</category>
         
