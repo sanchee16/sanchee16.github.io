@@ -5,9 +5,71 @@
     <description>Strong convictions precede great actions.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 28 Dec 2017 16:15:01 +0530</pubDate>
-    <lastBuildDate>Thu, 28 Dec 2017 16:15:01 +0530</lastBuildDate>
+    <pubDate>Tue, 23 Jan 2018 19:56:14 +0530</pubDate>
+    <lastBuildDate>Tue, 23 Jan 2018 19:56:14 +0530</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Understanding the Brain - The Neurobiology of Everyday Life!</title>
+        <description>&lt;p&gt;Week 1:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Locked-in Syndrome&lt;/li&gt;
+  &lt;li&gt;Diving Bell and the Butterfly&lt;/li&gt;
+  &lt;li&gt;Four functions
+    &lt;ul&gt;
+      &lt;li&gt;Voluntary Movement
+        &lt;ul&gt;
+          &lt;li&gt;MotorNeurons&lt;/li&gt;
+          &lt;li&gt;Brain Stem or Spinal Cord&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Perception
+        &lt;ul&gt;
+          &lt;li&gt;Awareness of a Sensation&lt;/li&gt;
+          &lt;li&gt;Forebrain -&amp;gt; Cerebral Cortex&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Homeostasis
+        &lt;ul&gt;
+          &lt;li&gt;Process of maintaining of healthy internal conditions&lt;/li&gt;
+          &lt;li&gt;Forebrain(Hormonal Changes), Brain Stem and Spinal Cord&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Abstract Functions
+        &lt;ul&gt;
+          &lt;li&gt;Emotions, Thinking, Language, Memory&lt;/li&gt;
+          &lt;li&gt;Forebrain&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Brain Stem (Hind and Mid Brain) -&amp;gt; Cerebellum&lt;/li&gt;
+  &lt;li&gt;Foramen Magnum hole in the base of Skull from which Spinal Cord passes&lt;/li&gt;
+  &lt;li&gt;Neurons
+    &lt;ul&gt;
+      &lt;li&gt;Unique as they are longest cells in the body&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Parts of Neurons
+    &lt;ul&gt;
+      &lt;li&gt;Cell body/Soma contains Neucleous&lt;/li&gt;
+      &lt;li&gt;Dendrites (Dendritic Tree/Dendritic Arbor)&lt;/li&gt;
+      &lt;li&gt;Axon (Synaptic Terminal at the end)&lt;/li&gt;
+      &lt;li&gt;Synapse&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 23 Jan 2018 06:53:34 +0530</pubDate>
+        <link>http://localhost:4000/2018/01/notes-for-understanding-the-brain/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/01/notes-for-understanding-the-brain/</guid>
+        
+        <category>Notes</category>
+        
+        
+      </item>
     
       <item>
         <title>Notes for Deep Learning fast.ai MOOC!</title>
@@ -575,32 +637,6 @@ classifier and evaluate classifier on test images.&lt;/li&gt;
         <pubDate>Tue, 17 Jan 2017 17:15:34 +0530</pubDate>
         <link>http://localhost:4000/2017/01/notes-for-model-building-and-validation/</link>
         <guid isPermaLink="true">http://localhost:4000/2017/01/notes-for-model-building-and-validation/</guid>
-        
-        <category>Notes</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Notes for Intro to Inferential Statistics!</title>
-        <description>&lt;p&gt;Lesson 1:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Sample mean = Population Mean&lt;/li&gt;
-  &lt;li&gt;Sample Standard Deviation = Population Standard Deviation/sqrt(number of samples) = Standard Error&lt;/li&gt;
-  &lt;li&gt;z score indicates how many standard deviation is an element from the mean&lt;/li&gt;
-  &lt;li&gt;Distribution of sample means is sampling distribution&lt;/li&gt;
-  &lt;li&gt;Point Estimate&lt;/li&gt;
-  &lt;li&gt;Mean of Treated Population vs Sample Mean&lt;/li&gt;
-  &lt;li&gt;In a normal distribution, 68% of sample falls in one Sample SD and 95% SD fall in two Sample SD&lt;/li&gt;
-  &lt;li&gt;2 * Sample SD is margin of error&lt;/li&gt;
-  &lt;li&gt;95% Confidence Interval is mean +/- margin of error&lt;/li&gt;
-  &lt;li&gt;95% of sample means are within 1.96 Standard Errors from the population mean in a sampling distribution&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sun, 08 Jan 2017 17:15:34 +0530</pubDate>
-        <link>http://localhost:4000/2017/01/notes-for-udacity-course-inferential-stats/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/01/notes-for-udacity-course-inferential-stats/</guid>
         
         <category>Notes</category>
         
