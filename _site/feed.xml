@@ -5,8 +5,8 @@
     <description>Strong convictions precede great actions.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 06 Feb 2018 09:43:36 +0530</pubDate>
-    <lastBuildDate>Tue, 06 Feb 2018 09:43:36 +0530</lastBuildDate>
+    <pubDate>Thu, 15 Feb 2018 09:56:07 +0530</pubDate>
+    <lastBuildDate>Thu, 15 Feb 2018 09:56:07 +0530</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
@@ -113,7 +113,6 @@
       &lt;li&gt;Synapse&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 23 Jan 2018 06:53:34 +0530</pubDate>
