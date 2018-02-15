@@ -32,4 +32,3 @@ Week 1:
 	- Dendrites (Dendritic Tree/Dendritic Arbor)
 	- Axon (Synaptic Terminal at the end)
 	- Synapse
-- 
