@@ -5,9 +5,119 @@
     <description>Strong convictions precede great actions.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 15 Feb 2018 09:56:07 +0530</pubDate>
-    <lastBuildDate>Thu, 15 Feb 2018 09:56:07 +0530</lastBuildDate>
+    <pubDate>Fri, 16 Feb 2018 13:17:59 +0530</pubDate>
+    <lastBuildDate>Fri, 16 Feb 2018 13:17:59 +0530</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Good Brain Bad Brain!</title>
+        <description>&lt;p&gt;Week 1:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Gyrus are the parts of the brain visible on the surface between the grooves&lt;/li&gt;
+  &lt;li&gt;The bag that keeps the chemicals together is known as the cell membrane and the chemicals themselves are all that is necessary for that cell to be alive.&lt;/li&gt;
+  &lt;li&gt;According to estimates, humans contain 3.72 × 10^13 cells.&lt;/li&gt;
+  &lt;li&gt;Endocrine system releases harmones.&lt;/li&gt;
+  &lt;li&gt;Cell control = Endocrine + Nervous System&lt;/li&gt;
+  &lt;li&gt;Anatomical division of Nervous System
+    &lt;ul&gt;
+      &lt;li&gt;CNS (Central)
+        &lt;ul&gt;
+          &lt;li&gt;Brain&lt;/li&gt;
+          &lt;li&gt;Spinal Cord&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;PNS (Peripheral)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Brain
+    &lt;ul&gt;
+      &lt;li&gt;Lateral Sulcus&lt;/li&gt;
+      &lt;li&gt;Cental Sulcus&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Based on Sulcuses, we have four parts
+    &lt;ul&gt;
+      &lt;li&gt;Frontal Lobe&lt;/li&gt;
+      &lt;li&gt;Temporal Lobe&lt;/li&gt;
+      &lt;li&gt;Parietal Lobe&lt;/li&gt;
+      &lt;li&gt;Occipital Lobe&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Two types of brain cells
+    &lt;ul&gt;
+      &lt;li&gt;Neurons are information processors and transmitters&lt;/li&gt;
+      &lt;li&gt;Glia cells provide physical support for neurons and may have specific functions too.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Neurons
+    &lt;ul&gt;
+      &lt;li&gt;Usually Colourless&lt;/li&gt;
+      &lt;li&gt;Smaller than most cells&lt;/li&gt;
+      &lt;li&gt;Different structure than most cells
+        &lt;ul&gt;
+          &lt;li&gt;Dendrites&lt;/li&gt;
+          &lt;li&gt;Axon&lt;/li&gt;
+          &lt;li&gt;Ternimals/Synaptic ends&lt;/li&gt;
+          &lt;li&gt;Myelin - type of glia cells which aid the process in axon&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Types of neurons
+    &lt;ul&gt;
+      &lt;li&gt;Sensory&lt;/li&gt;
+      &lt;li&gt;Motor&lt;/li&gt;
+      &lt;li&gt;Interneurons&lt;/li&gt;
+      &lt;li&gt;Neurons in the brain&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Maximum number of neurons as toddlers&lt;/li&gt;
+  &lt;li&gt;Limited areas have neurogenesis properties in adulthood&lt;/li&gt;
+  &lt;li&gt;Darker Areas
+    &lt;ul&gt;
+      &lt;li&gt;Cell bodies and dendrites&lt;/li&gt;
+      &lt;li&gt;Gray Matter&lt;/li&gt;
+      &lt;li&gt;Found on outer surface and center of brain&lt;/li&gt;
+      &lt;li&gt;Folds on the cortical surface are also lined with grey matter and therefore the folds simply act to increase the surface area&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Lighter Areas
+    &lt;ul&gt;
+      &lt;li&gt;Axons&lt;/li&gt;
+      &lt;li&gt;White Matter&lt;/li&gt;
+      &lt;li&gt;Found beneath the gray matter and form bridge between two halves of brain&lt;/li&gt;
+      &lt;li&gt;The myelin produced by the oligodendrocytes is a type of lipid (fat) and has a pale appearance so the color of white matter&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Glial Cell Type
+    &lt;ul&gt;
+      &lt;li&gt;Oligodendrocyte type in CNS&lt;/li&gt;
+      &lt;li&gt;Schwann cell type in PNS&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Why the folded structure
+    &lt;ul&gt;
+      &lt;li&gt;As brain evolved to grow bigger and contain more cells there were two options&lt;/li&gt;
+      &lt;li&gt;Increase surface area or folded structure&lt;/li&gt;
+      &lt;li&gt;Rodents have smooth brains&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Brain function is localised&lt;/li&gt;
+  &lt;li&gt;Similar looking neurons are grouped together and have same functions&lt;/li&gt;
+  &lt;li&gt;Penfield’s maps&lt;/li&gt;
+  &lt;li&gt;Homunculus is neurological map of human body for motor functions&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Thu, 15 Feb 2018 15:53:34 +0530</pubDate>
+        <link>http://localhost:4000/2018/02/notes-for-good-brain-bad-brain/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/02/notes-for-good-brain-bad-brain/</guid>
+        
+        <category>Notes</category>
+        
+        
+      </item>
     
       <item>
         <title>Fundamentals of Neuroscience!</title>
@@ -54,9 +164,9 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Tue, 23 Jan 2018 06:53:34 +0530</pubDate>
-        <link>http://localhost:4000/2018/01/notes-for-fundamentals-of-neuroscience/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/01/notes-for-fundamentals-of-neuroscience/</guid>
+        <pubDate>Fri, 02 Feb 2018 06:53:34 +0530</pubDate>
+        <link>http://localhost:4000/2018/02/notes-for-fundamentals-of-neuroscience/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/02/notes-for-fundamentals-of-neuroscience/</guid>
         
         <category>Notes</category>
         
@@ -582,79 +692,6 @@ classifier and evaluate classifier on test images.&lt;/li&gt;
         <pubDate>Sun, 19 Mar 2017 17:15:34 +0530</pubDate>
         <link>http://localhost:4000/2017/03/notes-for-youtube-ml-mathematicalmonk/</link>
         <guid isPermaLink="true">http://localhost:4000/2017/03/notes-for-youtube-ml-mathematicalmonk/</guid>
-        
-        <category>Notes</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Notes for Segmentation and Clustering!</title>
-        <description>&lt;p&gt;Lesson 1:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Process of Segmentation&lt;/li&gt;
-  &lt;li&gt;Standardisation where we treat a group as a whole&lt;/li&gt;
-  &lt;li&gt;Localisation where we treat them as individuals&lt;/li&gt;
-  &lt;li&gt;Grouping or binning&lt;/li&gt;
-  &lt;li&gt;It becomes difficult to group as the number of variables increase&lt;/li&gt;
-  &lt;li&gt;Clustering is a mathematical procedure for multidimensional analysis&lt;/li&gt;
-  &lt;li&gt;For a given set of objects, this procedure groups similar objects into clusters&lt;/li&gt;
-  &lt;li&gt;Distance is way to measure similarity&lt;/li&gt;
-  &lt;li&gt;Intra-cluster separation is minimised and inter-cluster distance is maximised&lt;/li&gt;
-  &lt;li&gt;eg. Fraudulent insurance Claim, User Segmentation, Bioinformatics Study, Education&lt;/li&gt;
-  &lt;li&gt;Supervised and Unsupervised Learning&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Lesson 2:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Selecting data based on objectives&lt;/li&gt;
-  &lt;li&gt;Use demographic and social data in first phases and remove historical data.&lt;/li&gt;
-  &lt;li&gt;Predetermined Bias in Transactional Data - A/B testing&lt;/li&gt;
-  &lt;li&gt;Data types in clustering
-    &lt;ul&gt;
-      &lt;li&gt;Continuous or Ordinal Variables&lt;/li&gt;
-      &lt;li&gt;Outliers&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Scaling data because distance is important in cluster analysis
-    &lt;ul&gt;
-      &lt;li&gt;Z score or standard score i.e. no. of SD away from the mean&lt;/li&gt;
-      &lt;li&gt;Unit interval compressing all values between 0 and 1&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Transforming Variables and visualising the data&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Lesson 3:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Variable Reduction Procedures help in accounting for most of the variables 
- in all of the observed variables&lt;/li&gt;
-  &lt;li&gt;Principle variables or artificial variables explain most of the variance&lt;/li&gt;
-  &lt;li&gt;Try to use variable reduction when variables are somewhat related&lt;/li&gt;
-  &lt;li&gt;Need to weight benefits one can get from reducing the no. of variables used in 
- clustering analysis, with the all important aspect of needing to be able to explain
- the basis for clusters&lt;/li&gt;
-  &lt;li&gt;Types of Variable Reduction Procedures
-    &lt;ul&gt;
-      &lt;li&gt;Factor Analysis - Correlation between variables, trying to figure out causes&lt;/li&gt;
-      &lt;li&gt;Principal Component Analysis - accounts for total variation, trying to summarise&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Factor Analysis makes assumptions for underlying causal model while PCA doesn’t&lt;/li&gt;
-  &lt;li&gt;In PCA, combine variables that are related to a common story&lt;/li&gt;
-  &lt;li&gt;Loadings and Values
-    &lt;ul&gt;
-      &lt;li&gt;Close to zero loading has less value on components&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 19 Jan 2017 17:15:34 +0530</pubDate>
-        <link>http://localhost:4000/2017/01/notes-for-segmentation-and-clustering/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/01/notes-for-segmentation-and-clustering/</guid>
         
         <category>Notes</category>
         

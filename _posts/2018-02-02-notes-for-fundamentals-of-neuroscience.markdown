@@ -2,7 +2,7 @@
 layout: post
 title:  "Fundamentals of Neuroscience!"
 subtitle: "A course by Havard"
-date: 2018-01-23 01:23:34
+date: 2018-02-02 01:23:34
 tag: [Notes]
 ---
 
