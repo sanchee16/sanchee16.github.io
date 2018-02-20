@@ -5,8 +5,8 @@
     <description>Strong convictions precede great actions.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 16 Feb 2018 13:17:59 +0530</pubDate>
-    <lastBuildDate>Fri, 16 Feb 2018 13:17:59 +0530</lastBuildDate>
+    <pubDate>Tue, 20 Feb 2018 09:45:59 +0530</pubDate>
+    <lastBuildDate>Tue, 20 Feb 2018 09:45:59 +0530</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
@@ -113,6 +113,54 @@
         <pubDate>Thu, 15 Feb 2018 15:53:34 +0530</pubDate>
         <link>http://localhost:4000/2018/02/notes-for-good-brain-bad-brain/</link>
         <guid isPermaLink="true">http://localhost:4000/2018/02/notes-for-good-brain-bad-brain/</guid>
+        
+        <category>Notes</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Brain and behaviour - Regulating body weight!</title>
+        <description>&lt;p&gt;Week 1:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Energy in = Energy out&lt;/li&gt;
+  &lt;li&gt;Energy out
+    &lt;ul&gt;
+      &lt;li&gt;Physical Exercise&lt;/li&gt;
+      &lt;li&gt;Basal Matabolic Rate&lt;/li&gt;
+      &lt;li&gt;Diet-Induced Thermogenesis&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;5 meals a day&lt;/li&gt;
+  &lt;li&gt;Food triggers
+    &lt;ul&gt;
+      &lt;li&gt;People with you&lt;/li&gt;
+      &lt;li&gt;Visual Cues&lt;/li&gt;
+      &lt;li&gt;Time of the day&lt;/li&gt;
+      &lt;li&gt;Comfort foods&lt;/li&gt;
+      &lt;li&gt;Learned Cues&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Homestasis refers to biological processes that keep certain body variables within a fixed range.
+    &lt;ul&gt;
+      &lt;li&gt;System variable is the variable that is controlled by a regulatory mechanism.&lt;/li&gt;
+      &lt;li&gt;Set point is the optimal value of the system variable in the regulatory system.&lt;/li&gt;
+      &lt;li&gt;Detector monitors the value of the system variable.&lt;/li&gt;
+      &lt;li&gt;Correctional mechanism is required to restore the system to the set point.&lt;/li&gt;
+      &lt;li&gt;Negative feedback is a process to diminish or terminate the action set in place to return the system variable to set point once set point is achieved. This is essential to regulatory systems.&lt;/li&gt;
+      &lt;li&gt;Satiety mechanisms are produced by adequate and available supplies of the variable in question.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Pavlov Dog Saliva Study&lt;/li&gt;
+  &lt;li&gt;Classical or Pavlovian Conditioning&lt;/li&gt;
+  &lt;li&gt;Unconditioned and Conditioned Response and Stimulus&lt;/li&gt;
+  &lt;li&gt;Insulin increases in anticipation of food called cephalic phase insulin release&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 02 Feb 2018 06:53:34 +0530</pubDate>
+        <link>http://localhost:4000/2018/02/notes-for-brain-and-behaviour-regulating-body-weight/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/02/notes-for-brain-and-behaviour-regulating-body-weight/</guid>
         
         <category>Notes</category>
         
@@ -631,67 +679,6 @@ classifier and evaluate classifier on test images.&lt;/li&gt;
         <pubDate>Fri, 24 Mar 2017 06:53:34 +0530</pubDate>
         <link>http://localhost:4000/2017/03/notes-for-udacity-intro-to-data-analysis/</link>
         <guid isPermaLink="true">http://localhost:4000/2017/03/notes-for-udacity-intro-to-data-analysis/</guid>
-        
-        <category>Notes</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Notes for ML!</title>
-        <description>&lt;p&gt;Lesson 1:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;ML is algorithms for inferring unknowns from knowns. eg. Filtering out spam, Detect Handwriting, Face Detection, Speech Recognition, Netflix ranking, Navigation, Climate Modelling&lt;/li&gt;
-  &lt;li&gt;Classes of ML
-    &lt;ul&gt;
-      &lt;li&gt;Supervised vs unsupervised Learning&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Supervised Learning is given data &lt;script type=&quot;math/tex&quot;&gt;(x_1, y_1), (x_2, y_2), (x_3, y_3), .............  (x_n, y_n)&lt;/script&gt;, choose a function f(x) = y where &lt;script type=&quot;math/tex&quot;&gt;x_i&lt;/script&gt; = data point and &lt;script type=&quot;math/tex&quot;&gt;y_i = class/value&lt;/script&gt; and then generalise for new values of x. i.e f(x) &lt;script type=&quot;math/tex&quot;&gt;\to&lt;/script&gt; y&lt;/li&gt;
-  &lt;li&gt;Two types of Supervised Learning problems
-    &lt;ul&gt;
-      &lt;li&gt;Classification - &lt;script type=&quot;math/tex&quot;&gt;y_i \in \{\text{finite set}\}&lt;/script&gt;.&lt;/li&gt;
-      &lt;li&gt;Regression -  &lt;script type=&quot;math/tex&quot;&gt;y_i \in \{R\}&lt;/script&gt; or &lt;script type=&quot;math/tex&quot;&gt;y_i \in \{R^d\}&lt;/script&gt;.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Unsupervised Learning is given data &lt;script type=&quot;math/tex&quot;&gt;(x_1, x_2, x_3,........x_n)&lt;/script&gt; i.e. &lt;script type=&quot;math/tex&quot;&gt;x_i \in \{R^d\}&lt;/script&gt;
- Find patterns in data
-    &lt;ul&gt;
-      &lt;li&gt;Clustering&lt;/li&gt;
-      &lt;li&gt;Density Estimation&lt;/li&gt;
-      &lt;li&gt;Dimensionality Reduction should project it down preserving the structure of data.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Variations on supervised and unsupervised learning
-    &lt;ul&gt;
-      &lt;li&gt;Semi Supervised Learning - (x1, y1), (x2, y2), (x3, y3), ………….  (xk, yk), xk+1, xk+2 ….xn,
-  predict yk+1, yk+2 ….. yn. eg.&lt;/li&gt;
-      &lt;li&gt;Active Learning&lt;/li&gt;
-      &lt;li&gt;Decision Theory&lt;/li&gt;
-      &lt;li&gt;Reinforcement Learning - maximize overall reward and minimize overall losses.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Generative vs Discriminative Models
-    &lt;ul&gt;
-      &lt;li&gt;Discriminative = P(y given x) which is Conditional Probability&lt;/li&gt;
-      &lt;li&gt;Generative = P(x and y) = f(x given y) p(y) = p(y given x) f(x) - models joint distribution - more powerful than Discriminative since using more parameters&lt;/li&gt;
-      &lt;li&gt;Estimating a density is difficult and need a lot of data leading to high variance and hence Generative model will have bad performance than Discriminative.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;kNN
-    &lt;ul&gt;
-      &lt;li&gt;circle concept that is used to decide the class of the test point&lt;/li&gt;
-      &lt;li&gt;Probabilistic interpretation - (y)&lt;/li&gt;
-      &lt;li&gt;Discriminative model&lt;/li&gt;
-      &lt;li&gt;Bias - variance tradeoff&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sun, 19 Mar 2017 17:15:34 +0530</pubDate>
-        <link>http://localhost:4000/2017/03/notes-for-youtube-ml-mathematicalmonk/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/03/notes-for-youtube-ml-mathematicalmonk/</guid>
         
         <category>Notes</category>
         
