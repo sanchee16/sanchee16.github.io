@@ -18,7 +18,7 @@ There is another part of my personality that I love the most - ***My food habits
 
 As to what and who inspire me are ***TED talks, INK talks and innovators***. What I strive for is to achieve great in life with an aim of benefiting the society as a whole. 
 
-Apart from this, I love the geeky me - I am glad that I got introduced to coding and now it's on my checklist of essential skills(Hopefully, someday we will talk about the checklist too!). After exploring deep learning, I have realised that I really want to go ahead in the neuroscience and so I am on my way to explore the human brain. Additionally, I am also crazy about ***nanotechnology*** as the next gen tech.
+Apart from this, I love the geeky me - I am glad that I got introduced to coding and now it's on my checklist of essential skills(Hopefully, someday we will talk about the checklist too!). After exploring ***deep learning***, I have realised that I really want to study ***neuroscience*** and so I am on my way to explore the human brain. Additionally, I am also crazy about ***nanotechnology*** as the next gen tech.
 
 In the end, I feel these lines aptly define me -  <br> <br>
 **I don't wanna run,** <br>
