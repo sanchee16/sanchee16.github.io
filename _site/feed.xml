@@ -5,9 +5,81 @@
     <description>Strong convictions precede great actions.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 20 Feb 2018 14:50:14 +0530</pubDate>
-    <lastBuildDate>Tue, 20 Feb 2018 14:50:14 +0530</lastBuildDate>
+    <pubDate>Mon, 26 Feb 2018 12:07:47 +0530</pubDate>
+    <lastBuildDate>Mon, 26 Feb 2018 12:07:47 +0530</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>The Nervous System!</title>
+        <description>&lt;p&gt;Week 1:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Sensory input -&amp;gt; integration -&amp;gt; motor output&lt;/li&gt;
+  &lt;li&gt;CNS And PNS&lt;/li&gt;
+  &lt;li&gt;PNS
+    &lt;ul&gt;
+      &lt;li&gt;Sensory or affrent division picks up stimuli&lt;/li&gt;
+      &lt;li&gt;Motor or effernt division responds to stimuli
+        &lt;ul&gt;
+          &lt;li&gt;Somatic nervous system (Voluntary) rules skeletal muscle movement&lt;/li&gt;
+          &lt;li&gt;Autonomic nervous system (Involuntary) rules heart beat, breath and stomach chruning
+            &lt;ul&gt;
+              &lt;li&gt;Sympathetic Division fires up the body&lt;/li&gt;
+              &lt;li&gt;Parasympathetic Division relaxes the body&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Neurons&lt;/li&gt;
+  &lt;li&gt;Glial Cells
+    &lt;ul&gt;
+      &lt;li&gt;CNS
+        &lt;ul&gt;
+          &lt;li&gt;Astrocytes surround, support and regulate ions&lt;/li&gt;
+          &lt;li&gt;Microglial Cells defend the neurons and perform immune operations&lt;/li&gt;
+          &lt;li&gt;Ependymal Cells line cavities and create, secrete and circulate cerebrospiral fluid&lt;/li&gt;
+          &lt;li&gt;Oligodendrocytes wrap, insulate and help in forming myelin sheath&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;PNS
+        &lt;ul&gt;
+          &lt;li&gt;Satellite Cells surround neuron cell bodies&lt;/li&gt;
+          &lt;li&gt;Schwann Cells insulate and help in forming myelin sheath&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Longest lived cells in body&lt;/li&gt;
+  &lt;li&gt;Irreplacable&lt;/li&gt;
+  &lt;li&gt;Huge appetites&lt;/li&gt;
+  &lt;li&gt;Soma&lt;/li&gt;
+  &lt;li&gt;Process is a projecting part of an organic structure&lt;/li&gt;
+  &lt;li&gt;Polarity of neurons
+    &lt;ul&gt;
+      &lt;li&gt;Multipolar&lt;/li&gt;
+      &lt;li&gt;Bipolar&lt;/li&gt;
+      &lt;li&gt;Unipolar&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Anatomical Separation
+    &lt;ul&gt;
+      &lt;li&gt;Sensory neurons are usually unipolar and transmit info from body to CNS&lt;/li&gt;
+      &lt;li&gt;Motor neurons are usually multipolar and transmit info from CNS to body&lt;/li&gt;
+      &lt;li&gt;Interneurons or association neurons are usually multipolar, live in CNS and transmit impulses between sensory and motor neurons&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 25 Feb 2018 15:53:34 +0530</pubDate>
+        <link>http://localhost:4000/2018/02/notes-for-nervous-system-youtube-crash-course/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/02/notes-for-nervous-system-youtube-crash-course/</guid>
+        
+        <category>Notes</category>
+        
+        
+      </item>
     
       <item>
         <title>Brain and behaviour - Regulating body weight!</title>
@@ -715,43 +787,6 @@ classifier and evaluate classifier on test images.&lt;/li&gt;
         <pubDate>Tue, 18 Apr 2017 17:15:34 +0530</pubDate>
         <link>http://localhost:4000/2017/04/notes-for-youtube-course-neural-networks/</link>
         <guid isPermaLink="true">http://localhost:4000/2017/04/notes-for-youtube-course-neural-networks/</guid>
-        
-        <category>Notes</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Notes for Intro to Data Analysis!</title>
-        <description>&lt;p&gt;Lesson 1:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Data Analysis Process
-    &lt;ul&gt;
-      &lt;li&gt;Question&lt;/li&gt;
-      &lt;li&gt;Wrangle
-        &lt;ul&gt;
-          &lt;li&gt;Acquiring Data&lt;/li&gt;
-          &lt;li&gt;Cleaning Data&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Explore&lt;/li&gt;
-      &lt;li&gt;Draw conclusions&lt;/li&gt;
-      &lt;li&gt;Communicate&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;The process is iterative and need to go back and forth.&lt;/li&gt;
-  &lt;li&gt;Each row of csv can be represented in two ways in python
-    &lt;ul&gt;
-      &lt;li&gt;As a list&lt;/li&gt;
-      &lt;li&gt;As a dictionary&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 24 Mar 2017 06:53:34 +0530</pubDate>
-        <link>http://localhost:4000/2017/03/notes-for-udacity-intro-to-data-analysis/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/03/notes-for-udacity-intro-to-data-analysis/</guid>
         
         <category>Notes</category>
         
