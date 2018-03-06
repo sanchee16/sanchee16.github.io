@@ -5,9 +5,138 @@
     <description>Strong convictions precede great actions.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 28 Feb 2018 14:01:42 +0530</pubDate>
-    <lastBuildDate>Wed, 28 Feb 2018 14:01:42 +0530</lastBuildDate>
+    <pubDate>Tue, 06 Mar 2018 10:45:48 +0530</pubDate>
+    <lastBuildDate>Tue, 06 Mar 2018 10:45:48 +0530</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Computational Neuroscience!</title>
+        <description>&lt;p&gt;Week 1:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Understanding brain using computational models
+    &lt;ul&gt;
+      &lt;li&gt;Descriptive models of brain
+        &lt;ul&gt;
+          &lt;li&gt;Encoding (Study how neurons respond to stimuli) and Decoding (Important in field of brain computer interface) model of brain&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Mechanistic models of brain
+        &lt;ul&gt;
+          &lt;li&gt;Simulate behaviour of single neuron&lt;/li&gt;
+          &lt;li&gt;Simulate network of neurons&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Interpretive or Normative model of brain
+        &lt;ul&gt;
+          &lt;li&gt;Understanding why the brain works the way it works&lt;/li&gt;
+          &lt;li&gt;Study computational principles underlying a neuron&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Computational Neuroscience is the study of how brain generates behaviours
+    &lt;ul&gt;
+      &lt;li&gt;Characterising what nervous systems do ie descriptive models&lt;/li&gt;
+      &lt;li&gt;Determining how they function ie mechanistic models&lt;/li&gt;
+      &lt;li&gt;Understanding why they operate in particular ways ie interpretive models&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Receptive Fields
+    &lt;ul&gt;
+      &lt;li&gt;Hubel and Wiesel Experiment with cats&lt;/li&gt;
+      &lt;li&gt;Specific properties of a sensory stimulus that generate a strong response from a cell&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Descriptive models
+    &lt;ul&gt;
+      &lt;li&gt;Retinal Ganglion cells&lt;/li&gt;
+      &lt;li&gt;Lateral Geniculate Nucleus&lt;/li&gt;
+      &lt;li&gt;Center Surround receptive fields in retina
+        &lt;ul&gt;
+          &lt;li&gt;On center off surround&lt;/li&gt;
+          &lt;li&gt;Off center on surround&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Primary Visual Cortex&lt;/li&gt;
+      &lt;li&gt;Cortical Receptive Fields ie oriented receptive fields&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Mechanistic models
+    &lt;ul&gt;
+      &lt;li&gt;Oriented receptive fields from center surround receptive fields&lt;/li&gt;
+      &lt;li&gt;Multiple converging LGN cells info is captured by V1 cell&lt;/li&gt;
+      &lt;li&gt;Above Hubel and Wiesel model does not take into account recurrent connections&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Interpretive models
+    &lt;ul&gt;
+      &lt;li&gt;Computational Advantages of receptive fields&lt;/li&gt;
+      &lt;li&gt;Effiecient Coding Hypothesis&lt;/li&gt;
+      &lt;li&gt;Image as linear combination of receptive fields&lt;/li&gt;
+      &lt;li&gt;Optimization problem of minimizing squared pixel wise errors in reconctructed and actual images&lt;/li&gt;
+      &lt;li&gt;Random RF and run efficient coding methods on images&lt;/li&gt;
+      &lt;li&gt;Efficient Coding algos
+        &lt;ul&gt;
+          &lt;li&gt;Sparse Coding&lt;/li&gt;
+          &lt;li&gt;ICA&lt;/li&gt;
+          &lt;li&gt;Predictive Coding&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Neurons Doctrine
+    &lt;ul&gt;
+      &lt;li&gt;Neuron is fundamental structural and functional unit of brain&lt;/li&gt;
+      &lt;li&gt;Majority are discrete cells&lt;/li&gt;
+      &lt;li&gt;Info flows from dendrites to axons via cell body&lt;/li&gt;
+      &lt;li&gt;EPSP (Excitatory Post Synaptic Potential)&lt;/li&gt;
+      &lt;li&gt;When Summation of EPSP’s surpases threshold then we have action potential&lt;/li&gt;
+      &lt;li&gt;Node of Ravier&lt;/li&gt;
+      &lt;li&gt;Leaky bag of charged liquid with a cell memberane made of lipid bilayer&lt;/li&gt;
+      &lt;li&gt;Ionic Channels are proteins which are selective and embedded in memberanes to allow ions to flow in or out&lt;/li&gt;
+      &lt;li&gt;Resting Potential of -70 mV because Na and Cl conc. is higher outside and K and organic Anions conc. higher inside&lt;/li&gt;
+      &lt;li&gt;Ionic Pump maintains the potential by explelling K and allowing Na inside&lt;/li&gt;
+      &lt;li&gt;Ionic channels are gated
+        &lt;ul&gt;
+          &lt;li&gt;Voltage gated&lt;/li&gt;
+          &lt;li&gt;Chemically gated eg synapses&lt;/li&gt;
+          &lt;li&gt;Mechanically gated&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Gated channels allow neuronal signaling
+        &lt;ul&gt;
+          &lt;li&gt;Chemically gated channels change local membrane potential then voltage gated channels open/close&lt;/li&gt;
+          &lt;li&gt;Depolarization(+ve change in voltage)&lt;/li&gt;
+          &lt;li&gt;Hyperpolarization(-ve change in voltage)&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Action Potential
+        &lt;ul&gt;
+          &lt;li&gt;Strong depolarization opens Na channels causing Na influx, more channels open and then they inactivate&lt;/li&gt;
+          &lt;li&gt;Outflux of the K ions and then K channels also close&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Myelination of Axons
+        &lt;ul&gt;
+          &lt;li&gt;Ensure flat long range spike communication&lt;/li&gt;
+          &lt;li&gt;Saltatory Conduction is when action potential hops from one non-myelinated region (Node of Ravier) to another and ensures lossless signal propagation&lt;/li&gt;
+          &lt;li&gt;In case of MS, the cell loses the ability to send action potentials&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Wed, 28 Feb 2018 15:53:34 +0530</pubDate>
+        <link>http://localhost:4000/2018/02/notes-for-computational-neuroscience/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/02/notes-for-computational-neuroscience/</guid>
+        
+        <category>Notes</category>
+        
+        
+      </item>
     
       <item>
         <title>The Nervous System!</title>
@@ -718,91 +847,6 @@ classifier and evaluate classifier on test images.&lt;/li&gt;
         <pubDate>Thu, 22 Jun 2017 06:53:34 +0530</pubDate>
         <link>http://localhost:4000/2017/06/notes-for-deep-learning-waterloo/</link>
         <guid isPermaLink="true">http://localhost:4000/2017/06/notes-for-deep-learning-waterloo/</guid>
-        
-        <category>Notes</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Notes for Artificial Neural Networks!</title>
-        <description>&lt;p&gt;Lesson 1:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;He defines the terminologies as weights denoted by w, bias denoted by b, activation function denoted by g(.), neuron preactivation(I/P) denoted by x, neuron activation(O/P) denoted by h(x). Everything exept b is a vector.&lt;/li&gt;
-  &lt;li&gt;He starts a discussion about potential activation functions in ANN.
-    &lt;ul&gt;
-      &lt;li&gt;Linear Activation Function, g(a) = a, No squashing of I/P
- 	- Sigmoid Function, g(a) = 1/(1+e^(-a)), Lies between 0 and 1, always +ve, bounded, strictly increasing.
- 	- Tanh Function, g(a) = (e^(2a)-1)/(e^(2a)+1), Lies netween -1 and 1, bounded, strictly increasing
- 	- ReLU Function, g(a) = max(0, a), Bounded below 0, Strictly increasing, tends to give neurons with sparse activities because it is 0 over a large range of -ve numbers.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;He further discusses the complexity of computations the neural network can perform.&lt;/li&gt;
-  &lt;li&gt;He talks about linearly separable problems(binary classification problems) which have a decision boundary and use single neuron to perform logistic regression. This can be achieved using sigmoid.&lt;/li&gt;
-  &lt;li&gt;He goes further and talks about alternate representations of input vector which can convert the non lineraly separable problem into a separable one. For eg. XOR can be represented by AND(X^, Y) on x axis and AND(X, Y^) on y axis. He tries to break the problem into pieces and check if single piece of problem can be represented by a neuron or a group of neurons and then combine all the representations to generate a representation for non linearly separable problem.&lt;/li&gt;
-  &lt;li&gt;He discusses the hidden layer pre-activation, hidden layer activation and output layer activation for a single layer neural network. Going ahead with multilayer neural network, the only difference is that multilayer neural network has multiple hidden layers.
-    &lt;ul&gt;
-      &lt;li&gt;To perform binary classification, one can use sigmoid as output activation function.&lt;/li&gt;
-      &lt;li&gt;For multiclass classification one needs multiple outputs, so one uses conditional probablity 
-  p(y = c|x) where c is the class and then using softmax activation function; A function which sums to 1 when all the probablities are added. Additionally, softmax is strictly positive.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;He discusses universal approximation theorm i.e. a single layer hidden neural network with linear output unit which can approx. any continuous function arbitrarily well, given enough hidden units.&lt;/li&gt;
-  &lt;li&gt;He discusses the inspiration that neural networks draw from biological neurons and talks about the idea of different layers and how they work in parallel with the visual cortex. He uses edges and points to introduce the idea of complex shapes formed using these simple structures and uses face detection as an example. He defines the following terms too.
-    &lt;ul&gt;
-      &lt;li&gt;Action potential is an electrical impulse that travels through the axon.&lt;/li&gt;
-      &lt;li&gt;Firing rate of a neuron is frequency with which a neuron can spike.&lt;/li&gt;
-      &lt;li&gt;Neurons tend to excite or inhibit other neurons.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Analogy between artificial NN and biological NN
-    &lt;ul&gt;
-      &lt;li&gt;Activation function is analogous to firing rate.&lt;/li&gt;
-      &lt;li&gt;Weights in ANN decide the excitation or inhibition of a neuron.&lt;/li&gt;
-      &lt;li&gt;Activation function and bias model the action potential of a neuron.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Lesson 2:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;He starts with discussion on empirical risk minimization also called structural risk minimization 
- when using regularization.&lt;/li&gt;
-  &lt;li&gt;
-    &lt;script type=&quot;math/tex; mode=display&quot;&gt;\arg\max_{\theta} \frac{1}{T} \sum_{t} l(f(x^t; \theta), y^t) + \lambda \Omega (\theta)&lt;/script&gt;
-    &lt;ul&gt;
-      &lt;li&gt;&lt;script type=&quot;math/tex&quot;&gt;\Omega (\theta)&lt;/script&gt; is a regularizer&lt;/li&gt;
-      &lt;li&gt;&lt;script type=&quot;math/tex&quot;&gt;l(f(x^t; \theta), y^t)&lt;/script&gt; is a loss function&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Learning hence becomes an optimization problem&lt;/li&gt;
-  &lt;li&gt;Ideally should optimize classification error but it’s not smooth as it’s either 0 or 1 so the above loss function is a surrogate for what we should truly optimise&lt;/li&gt;
-  &lt;li&gt;Stochastic Gradient Descent
-    &lt;ul&gt;
-      &lt;li&gt;Initialization of &lt;script type=&quot;math/tex&quot;&gt;\theta&lt;/script&gt; i.e. weights and biases.&lt;/li&gt;
-      &lt;li&gt;for N interations
-        &lt;ul&gt;
-          &lt;li&gt;for each training example
-            &lt;ul&gt;
-              &lt;li&gt;figure out a direction for updating the parameters. Take the negative gradient of loss and regularizer&lt;/li&gt;
-              &lt;li&gt;Use the above gradient value along with &lt;script type=&quot;math/tex&quot;&gt;\alpha&lt;/script&gt; ie learning rate to update the parameters&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Training epoch is equal to iteration over all the examples&lt;/li&gt;
-  &lt;li&gt;Neural network estimates &lt;script type=&quot;math/tex&quot;&gt;f(x)_c = p(y = c \lvert x)&lt;/script&gt; for classification task&lt;/li&gt;
-  &lt;li&gt;Aim is to Maximize probability of &lt;script type=&quot;math/tex&quot;&gt;y^{(t)} \ given \ x^{(t)}&lt;/script&gt; so we minimize - log likelihood 
- which is &lt;script type=&quot;math/tex&quot;&gt;l(f(x), y) = - log \ f(x)_{y}&lt;/script&gt; also called as cross entropy&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 18 Apr 2017 17:15:34 +0530</pubDate>
-        <link>http://localhost:4000/2017/04/notes-for-youtube-course-neural-networks/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/04/notes-for-youtube-course-neural-networks/</guid>
         
         <category>Notes</category>
         
