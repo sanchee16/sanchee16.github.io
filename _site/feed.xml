@@ -5,9 +5,127 @@
     <description>Strong convictions precede great actions.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 15 Mar 2018 10:52:54 +0530</pubDate>
-    <lastBuildDate>Thu, 15 Mar 2018 10:52:54 +0530</lastBuildDate>
+    <pubDate>Sun, 18 Mar 2018 17:12:20 +0530</pubDate>
+    <lastBuildDate>Sun, 18 Mar 2018 17:12:20 +0530</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Visual Perception and the Brain!</title>
+        <description>&lt;p&gt;Week 1:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Can’t explain perception which is the end result of vision&lt;/li&gt;
+  &lt;li&gt;Perception is what we are aware of&lt;/li&gt;
+  &lt;li&gt;Physical Measurements are objective&lt;/li&gt;
+  &lt;li&gt;Psychophysical Measurements are subjective&lt;/li&gt;
+  &lt;li&gt;Perception of Luminacnce
+    &lt;ul&gt;
+      &lt;li&gt;Relative Lightness&lt;/li&gt;
+      &lt;li&gt;Measured with phonometer&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Spectrophotometer&lt;/li&gt;
+  &lt;li&gt;Geometry
+    &lt;ul&gt;
+      &lt;li&gt;Angle Perception&lt;/li&gt;
+      &lt;li&gt;Motion Perception&lt;/li&gt;
+      &lt;li&gt;Direction Perception&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Perception is at odds with reality&lt;/li&gt;
+  &lt;li&gt;Inverse Optics Problem ie no way of getting back the exact composition of retinal stimulus&lt;/li&gt;
+  &lt;li&gt;Inverse problems makes source of any image uncertain&lt;/li&gt;
+  &lt;li&gt;Source of Illumination&lt;/li&gt;
+  &lt;li&gt;3D object surfaces&lt;/li&gt;
+  &lt;li&gt;Atmosphere&lt;/li&gt;
+  &lt;li&gt;Retinal Stimulus is compilation of
+    &lt;ul&gt;
+      &lt;li&gt;Illumination&lt;/li&gt;
+      &lt;li&gt;Reflectance&lt;/li&gt;
+      &lt;li&gt;Transmittance is the alteration of light by the atmosphere&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Visual Stimuli&lt;/li&gt;
+  &lt;li&gt;Light and Electromagnetic Radiation
+    &lt;ul&gt;
+      &lt;li&gt;Human visual system from 400 nm to 700 nm&lt;/li&gt;
+      &lt;li&gt;To lower size range, the energy tends to damange cells&lt;/li&gt;
+      &lt;li&gt;To greater size range, the energy tends to be present as heat&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Making an image
+    &lt;ul&gt;
+      &lt;li&gt;There is no image out there in the world just the mess of photons&lt;/li&gt;
+      &lt;li&gt;Cornea orders out this photonic flux&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Eye
+    &lt;ul&gt;
+      &lt;li&gt;Cornea
+        &lt;ul&gt;
+          &lt;li&gt;Refractive Abilities&lt;/li&gt;
+          &lt;li&gt;Refrative index is slightly greater than air&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Retina
+        &lt;ul&gt;
+          &lt;li&gt;Part of brain&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 18 Mar 2018 15:53:34 +0530</pubDate>
+        <link>http://localhost:4000/2018/03/notes-for-visual-perception-and-the-brain/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/03/notes-for-visual-perception-and-the-brain/</guid>
+        
+        <category>Notes</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Theoretical Neuroscience Computational and Mathematical Modeling of Neural Systems</title>
+        <description>&lt;p&gt;Preface:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Descriptive Models&lt;/li&gt;
+  &lt;li&gt;Mechanistic Models&lt;/li&gt;
+  &lt;li&gt;Interpretive Models&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Lesson 1:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Action potential&lt;/li&gt;
+  &lt;li&gt;Neural Encoding&lt;/li&gt;
+  &lt;li&gt;Neural Decoding&lt;/li&gt;
+  &lt;li&gt;Dendrites&lt;/li&gt;
+  &lt;li&gt;Axons&lt;/li&gt;
+  &lt;li&gt;Membrane Spanning Ion Channels&lt;/li&gt;
+  &lt;li&gt;Memberane Potential&lt;/li&gt;
+  &lt;li&gt;Na+ is much more concentrated outside a neuron than inside it&lt;/li&gt;
+  &lt;li&gt;Concentration of K+ is significantly higher inside the neuron than in the extracellular medium.&lt;/li&gt;
+  &lt;li&gt;Ions flow into and out of a cell due to both voltage and concentration gradients.&lt;/li&gt;
+  &lt;li&gt;Depolarization out of the cell and results in more negative charge membrane potential&lt;/li&gt;
+  &lt;li&gt;Hyperpolarization current flows into the cell and results in less negative or even positive charge&lt;/li&gt;
+  &lt;li&gt;If a neuron is depolarized sufficiently to raise the membrane potential above a threshold level, a positive feedback process is initiated, and the neuron generates an action potential&lt;/li&gt;
+  &lt;li&gt;An action potential is a roughly 100 mV fluctuation in the electrical potential across the cell membrane that lasts for about 1 ms&lt;/li&gt;
+  &lt;li&gt;absolute refractory period&lt;/li&gt;
+  &lt;li&gt;relative refractory period&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 17 Mar 2018 06:53:34 +0530</pubDate>
+        <link>http://localhost:4000/2018/03/notes-for-theoretical-and-computational-neuroscience-book/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/03/notes-for-theoretical-and-computational-neuroscience-book/</guid>
+        
+        <category>Book</category>
+        
+        <category>Notes</category>
+        
+        
+      </item>
     
       <item>
         <title>Brain and behaviour - Regulating body weight!</title>
@@ -825,191 +943,6 @@
         <guid isPermaLink="true">http://localhost:4000/2017/12/notes-for-head-first-design-patterns/</guid>
         
         <category>Book</category>
-        
-        <category>Notes</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Notes for CNN for Visual Recognition!</title>
-        <description>&lt;p&gt;Lesson 1:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Today is age of images/video but image/video data is hard to use&lt;/li&gt;
-  &lt;li&gt;Computer Vision as an interdisciplinary field&lt;/li&gt;
-  &lt;li&gt;Eye as an inspiration for big bang of species&lt;/li&gt;
-  &lt;li&gt;Vision important for speciation in the early evolution of the species&lt;/li&gt;
-  &lt;li&gt;Mechanical Vision i.e. Camera models - Camera Obscura&lt;/li&gt;
-  &lt;li&gt;Hubel and Wiesel experiment&lt;/li&gt;
-  &lt;li&gt;Primary visual cortex is very far away from eye&lt;/li&gt;
-  &lt;li&gt;Simple structures excite neurons in human brain&lt;/li&gt;
-  &lt;li&gt;Block World models - Visual world simplified into basic geometrical shapes&lt;/li&gt;
-  &lt;li&gt;Book Vision by david marr&lt;/li&gt;
-  &lt;li&gt;Hierarchical Representation&lt;/li&gt;
-  &lt;li&gt;Generalized Cylinder and Pictorial Structure models&lt;/li&gt;
-  &lt;li&gt;Normalized Cut - perceptual grouping problem - image segmentation&lt;/li&gt;
-  &lt;li&gt;Real time Face Detection by Fuji Films Camera&lt;/li&gt;
-  &lt;li&gt;Major focus is recognition&lt;/li&gt;
-  &lt;li&gt;Engineered Features like SIFT, HOG&lt;/li&gt;
-  &lt;li&gt;Spatial pyramid matching for scene recognition&lt;/li&gt;
-  &lt;li&gt;Deformable Part Model&lt;/li&gt;
-  &lt;li&gt;PASCAL visual object challenge&lt;/li&gt;
-  &lt;li&gt;Imagenet&lt;/li&gt;
-  &lt;li&gt;Image classification really useful for making progress in other image machine learning problems like image detection, segmentation, image captioning&lt;/li&gt;
-  &lt;li&gt;Semantic Segmentation and Perceptual Grouping&lt;/li&gt;
-  &lt;li&gt;Tell a story given a scene&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Lesson 2:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Image Classification&lt;/li&gt;
-  &lt;li&gt;Semantic Gap - Representation of image on computer as numbers&lt;/li&gt;
-  &lt;li&gt;Challenges are:
-    &lt;ul&gt;
-      &lt;li&gt;Viewpoint Variation - Camera rotations lead to changes in brightness.&lt;/li&gt;
-      &lt;li&gt;Illumination issues&lt;/li&gt;
-      &lt;li&gt;Deformation&lt;/li&gt;
-      &lt;li&gt;Occlusion&lt;/li&gt;
-      &lt;li&gt;Background Clutter&lt;/li&gt;
-      &lt;li&gt;Intraclass Variation&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Follow a data-driven approach i.e. Collect dataset of images and labels, use ML algos to train an image 
-classifier and evaluate classifier on test images.&lt;/li&gt;
-  &lt;li&gt;Nearest Neighbour Classifier - Use Manhattan distance&lt;/li&gt;
-  &lt;li&gt;Do more compute at train time but prediction should be constant time computation.&lt;/li&gt;
-  &lt;li&gt;Aside - Approximate Nearest Neighbour (FLANN)&lt;/li&gt;
-  &lt;li&gt;Hyper-parameter - Distance, and the value of k for kNN&lt;/li&gt;
-  &lt;li&gt;Training data, validation data and training data set or Cross Validation&lt;/li&gt;
-  &lt;li&gt;Linear Classification&lt;/li&gt;
-  &lt;li&gt;NN can see, hear, translate, control and think.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Lecture 4:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Forward pass gives loss and backward pass gives gradients&lt;/li&gt;
-  &lt;li&gt;Gradient Descent
-    &lt;ul&gt;
-      &lt;li&gt;Numerical which is slow and approx but easy to write&lt;/li&gt;
-      &lt;li&gt;Analytical which is fast and exact but error prone&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Computational Graph is huge for Neural Turing Machine&lt;/li&gt;
-  &lt;li&gt;Chain rule for backprop&lt;/li&gt;
-  &lt;li&gt;Local gradients are computed at the time of forward pass and can be chained to global gradient later at the time of backprop.&lt;/li&gt;
-  &lt;li&gt;For plus gate, during back prop, the value for the next gate is 1 * the previous value.&lt;/li&gt;
-  &lt;li&gt;For multiplicative gate, during back prop, the value for the next gate is the value of other input * the previous value.&lt;/li&gt;
-  &lt;li&gt;Hence, add gate is gradient distributor, the max gate is gradient router and mul gate can be the gradient switcher.&lt;/li&gt;
-  &lt;li&gt;At branches, gradients are added according to multivariate chain rule.&lt;/li&gt;
-  &lt;li&gt;Graph class with nodes topologically sorted and forward and backward function&lt;/li&gt;
-  &lt;li&gt;Lot of memory required to store intermediate results that will be used during back prop&lt;/li&gt;
-  &lt;li&gt;For vectors, we have jacobian matrix which stores derivative of each element of output wrt input&lt;/li&gt;
-  &lt;li&gt;Vectorized Operations&lt;/li&gt;
-  &lt;li&gt;Jacobian matrix is not always a full matrix and is a sparse matrix because there are values only on the diagonal and even not all those values are be used.&lt;/li&gt;
-  &lt;li&gt;Backpropagation is recursive application of chain rule along computational graph to computer gradients  of all inputs/params/intermediates&lt;/li&gt;
-  &lt;li&gt;Biological description of neurons
-    &lt;ul&gt;
-      &lt;li&gt;Soma: cell body&lt;/li&gt;
-      &lt;li&gt;Dendrites: listeners/input&lt;/li&gt;
-      &lt;li&gt;Axon: terminals/output&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Activation functions
-    &lt;ul&gt;
-      &lt;li&gt;Sigmoid&lt;/li&gt;
-      &lt;li&gt;tanh&lt;/li&gt;
-      &lt;li&gt;ReLU&lt;/li&gt;
-      &lt;li&gt;Maxout&lt;/li&gt;
-      &lt;li&gt;Leaky ReLU&lt;/li&gt;
-      &lt;li&gt;ELU&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Fully connected layer and hidden layers&lt;/li&gt;
-  &lt;li&gt;Kernel trick changes data representation to a space where it’s linearly separable&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Lecture 7:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;CNN operate over volumes.&lt;/li&gt;
-  &lt;li&gt;Filters are convolved over the image ie the filter is slid over the image spatially computing dot products which result in activation map.&lt;/li&gt;
-  &lt;li&gt;&lt;script type=&quot;math/tex&quot;&gt;\text{output_size} = ((N-F+2*P)/S) + 1&lt;/script&gt; where N is width/height, F is filter size, P is padding and S is stride.&lt;/li&gt;
-  &lt;li&gt;Input padding is a common practice since we want to preserve sizes spatially otherwise the size of the input decreases sharply.&lt;/li&gt;
-  &lt;li&gt;To always achieve same output volume spatially for stride of 1, use &lt;script type=&quot;math/tex&quot;&gt;(F-1)/2&lt;/script&gt; zero padding&lt;/li&gt;
-  &lt;li&gt;K, N, F and P are hyperparameters where K is the number of filters and is in powers of 2 as certains subroutines are efficient in computations with a power of 2.&lt;/li&gt;
-  &lt;li&gt;The depth of the output of a convolution will the total number of filters.&lt;/li&gt;
-  &lt;li&gt;With parameter sharing it introduces, &lt;script type=&quot;math/tex&quot;&gt;F*F*D_1&lt;/script&gt; weights per filter.&lt;/li&gt;
-  &lt;li&gt;1*1 convolutions are important since they return the same sized output since we do dot products over the full depth of the volume (depth columns or fibres).&lt;/li&gt;
-  &lt;li&gt;The size of F is usually odd.&lt;/li&gt;
-  &lt;li&gt;Usually, images are preprocessed to squares.&lt;/li&gt;
-  &lt;li&gt;The filter is also called kernel. Filters capture local information.&lt;/li&gt;
-  &lt;li&gt;Along the depth of the output volume, all the neurons have actually looked at the same patch but their weights will still be different.&lt;/li&gt;
-  &lt;li&gt;Pooling layer makes the representations smaller and managable&lt;/li&gt;
-  &lt;li&gt;Pooling operates over each activation map independently&lt;/li&gt;
-  &lt;li&gt;LeNet - 5&lt;/li&gt;
-  &lt;li&gt;AlexnNet
-    &lt;ul&gt;
-      &lt;li&gt;Use of ReLU&lt;/li&gt;
-      &lt;li&gt;Used norm layers&lt;/li&gt;
-      &lt;li&gt;Heavy data augmentation&lt;/li&gt;
-      &lt;li&gt;Dropout&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;ZFNet&lt;/li&gt;
-  &lt;li&gt;VGGNet&lt;/li&gt;
-  &lt;li&gt;GoogleNet&lt;/li&gt;
-  &lt;li&gt;ResNet
-    &lt;ul&gt;
-      &lt;li&gt;Skip Step&lt;/li&gt;
-      &lt;li&gt;Batch normalization layer and hence can use a higher learning rate&lt;/li&gt;
-      &lt;li&gt;No dropout&lt;/li&gt;
-      &lt;li&gt;Xavier/2 initialization&lt;/li&gt;
-      &lt;li&gt;Faster than VGGNet(20 layers) inspite of having 152 layers&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Policy network&lt;/li&gt;
-  &lt;li&gt;As we go ahead with the architectures, we find that the numbers of parameters are reduced but more conputation is required and the results are too promising.&lt;/li&gt;
-  &lt;li&gt;Instead of fully connected layers, use average pooling layers in the end of a CNN.&lt;/li&gt;
-  &lt;li&gt;Convnets stack - CONV, POOL, Fully Connected layers&lt;/li&gt;
-  &lt;li&gt;Trend towards smaller filters and deeper networks and getting rid of POOL/FC layers&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Mon, 09 Oct 2017 15:30:12 +0530</pubDate>
-        <link>http://localhost:4000/2017/10/notes-for-CNN-for-visual-recognition/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/10/notes-for-CNN-for-visual-recognition/</guid>
-        
-        <category>Notes</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Notes for Deep Learning STAT 946</title>
-        <description>&lt;p&gt;Lesson 6:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Network with atleast one convolutional layer&lt;/li&gt;
-  &lt;li&gt;Three stages
-    &lt;ul&gt;
-      &lt;li&gt;Convolution function (Discrete Convolution)&lt;/li&gt;
-      &lt;li&gt;Detection Eg. ReLU&lt;/li&gt;
-      &lt;li&gt;Pooling&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Convolution vs Cross Corelation (Replace + by - in convolution)&lt;/li&gt;
-  &lt;li&gt;Convolved Feature or Feature Map - captures features in image similar to kernel&lt;/li&gt;
-  &lt;li&gt;Sharing parameters&lt;/li&gt;
-  &lt;li&gt;Making the network sparse&lt;/li&gt;
-  &lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 22 Jun 2017 06:53:34 +0530</pubDate>
-        <link>http://localhost:4000/2017/06/notes-for-deep-learning-waterloo/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/06/notes-for-deep-learning-waterloo/</guid>
         
         <category>Notes</category>
         
