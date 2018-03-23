@@ -13,13 +13,13 @@ Week 1:
 - Physical Measurements are objective
 - Psychophysical Measurements are subjective
 - Perception of Luminacnce
-	- Relative Lightness
-	- Measured with phonometer
+    - Relative Lightness
+    - Measured with phonometer
 - Spectrophotometer
 - Geometry
-	- Angle Perception
-	- Motion Perception
-	- Direction Perception
+    - Angle Perception
+    - Motion Perception
+    - Direction Perception
 - Perception is at odds with reality
 - Inverse Optics Problem ie no way of getting back the exact composition of retinal stimulus
 - Inverse problems makes source of any image uncertain
@@ -27,20 +27,107 @@ Week 1:
 - 3D object surfaces
 - Atmosphere
 - Retinal Stimulus is compilation of
-	- Illumination
-	- Reflectance
-	- Transmittance is the alteration of light by the atmosphere
+    - Illumination
+    - Reflectance
+    - Transmittance is the alteration of light by the atmosphere
 - Visual Stimuli
 - Light and Electromagnetic Radiation
-	- Human visual system from 400 nm to 700 nm
-	- To lower size range, the energy tends to damange cells
-	- To greater size range, the energy tends to be present as heat
+    - Human visual system from 400 nm to 700 nm
+    - To lower size range, the energy tends to damange cells
+    - To greater size range, the energy tends to be present as heat
 - Making an image
-	- There is no image out there in the world just the mess of photons
-	- Cornea orders out this photonic flux
+    - There is no image out there in the world just the mess of photons
+    - Cornea orders out this photonic flux
 - Eye
-	- Cornea
-		- Refractive Abilities
-		- Refrative index is slightly greater than air
-	- Retina
-		- Part of brain
+    - Cornea
+        - Refractive Abilities
+        - Refrative index is greater than air
+    - Lens is attached by zonule fibres
+        - Involved in fine bending of light
+    - Cilliary muscles contract or relax to change the shape of lens
+    - Vitreous Humor
+    - Optic Disk (Papilla)
+    - Macula Lutea
+    - Ophtalmic Arteries and Veins
+- Eye Tracking
+    - Saccadic Eye movements
+- Retina
+    - Interface between neural and non-neural parts of eye
+    - Fovea
+    - Pigment Epithelium
+    - Photoreceptor Layer
+        - Rods and Cones
+    - Ganglion Cells are output layer cells
+    - Bipolar Cells responsible for high resolution 
+    - Amarcrine Cells responsible for capturing horizontal information 
+- Light -> To Optic Nerve -> Ganglion Cell -> Amacrine Cell -> Bipolar Cell -> Horizontal Cell -> Rods -> Cones -> Photoreceptors -> Pigment Eplithelium
+- Photo receptors have a high metabolic rate and discs on Pigment epithelium are turned over at high rate and are being degraded and need to be removed on an ongoing basis to function properly
+- Distribution of rods and cones
+    - Cones are concentated near and at the center of fovea
+    - Rods are concentrated near the periphery of retina
+- Cone function is one to one and rod function is many to one
+- At absolute thrshold of vision rods operate and in bright sunlight cones operate and in moonlight both operate
+- Primary Visual Pathway
+    - Eye
+    - Thalamus
+    - Primary visual cortex
+    - Superior Colliculus
+        - Concerened with eye and head movements
+- Autonomic Pathway
+    - Pupilary Light Reflex
+        - Concerned with pupil dilation
+- Optic Chaism
+    - Place where visual information crossing happens
+- Tail flip effect
+    - Information flipping and going on opposite side of brain
+- Thalamus
+    - Way station responsible for sensory organs
+    - Lateral Geniculate Nucleus responsible for vision
+        - 4 parvo-cellular layers concerned with full view vision, precision and color
+        - 2 magno-cellular layers concerned with grosser change in the image or movement
+- Retinotopy
+    - Neighbour relationship of pixels of image
+- Ganglion Cells of retina
+    - parvo-ganglion cells
+    - magno-ganglion cells
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
