@@ -2,7 +2,7 @@
 layout: post
 title:  "The Nervous System!"
 subtitle: "A course by Crash Course A&P"
-date: 2018-02-25 10:23:34
+date: 2018-03-23 10:23:34
 tag: [Notes]
 ---
 
@@ -52,3 +52,40 @@ Part 2:
 - Resting neuron is more negative on the inside and the resting potential is -70mV.
     - Na K Pump
     - Electrochemical gradient
+
+
+Part 3:
+
+- 70% of all sensory receptors are in eyes
+- Eyes look at electromagnetic radiation travelling in waves
+    - Frequency determine hue
+    - Amplitude determine brightness
+- Eye's photorecptors convert eye's light energy into nerve impulses
+- Lacrimal Glands, Eyebrows, Eyelids and Eyelashes are protective equipments
+- Globe luxation
+- Layers of eye
+    - Fibrous
+        - Sclera made of white connective tissue
+        - Cornea
+    - Vascular
+        - Choroid supplies blood to all layers
+        - Ciliary body
+        - Iris
+        - Pupil
+    - Inner
+        - Retina
+            - Pigmented Layer
+            - Neural Layer
+                - Photoreceptors
+                    - Rods
+                        - Numerous and light sensitive
+                        - Grayscale of black and white
+                        - Tell about general shape and features not details
+                    - Cones
+                        - Find fine detail and color
+                        - Red, blue and green sensitive types
+                - Ganglion Neurons
+                - Bipolar Neurons
+- Optic nerve
+- Photoreceptors can make us see after images
+- Cones can get tired and hence many illusions
