@@ -2,7 +2,7 @@
 layout: post
 title:  "Visual Perception and the Brain!"
 subtitle: "A course by Duke University"
-date: 2018-03-18 10:23:34
+date: 2018-03-23 10:23:34
 tag: [Notes]
 ---
 
@@ -90,44 +90,7 @@ Week 1:
 - Ganglion Cells of retina
     - parvo-ganglion cells
     - magno-ganglion cells
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- PVC in occipital lobe
+- Peak are gyri and valleys are sulci in the brain
+- Optic Radiation are the optic fibres going from the the thalamus to Visual Cortex and vice versa
+- Striate Cortex
