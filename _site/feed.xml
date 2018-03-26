@@ -5,8 +5,8 @@
     <description>Strong convictions precede great actions.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 25 Mar 2018 15:36:17 +0530</pubDate>
-    <lastBuildDate>Sun, 25 Mar 2018 15:36:17 +0530</lastBuildDate>
+    <pubDate>Sun, 25 Mar 2018 17:08:05 +0530</pubDate>
+    <lastBuildDate>Sun, 25 Mar 2018 17:08:05 +0530</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
@@ -220,16 +220,108 @@
       &lt;li&gt;Cornea
         &lt;ul&gt;
           &lt;li&gt;Refractive Abilities&lt;/li&gt;
-          &lt;li&gt;Refrative index is slightly greater than air&lt;/li&gt;
+          &lt;li&gt;Refrative index is greater than air&lt;/li&gt;
         &lt;/ul&gt;
       &lt;/li&gt;
-      &lt;li&gt;Retina
+      &lt;li&gt;Lens is attached by zonule fibres
         &lt;ul&gt;
-          &lt;li&gt;Part of brain&lt;/li&gt;
+          &lt;li&gt;Involved in fine bending of light&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Cilliary muscles contract or relax to change the shape of lens&lt;/li&gt;
+      &lt;li&gt;Vitreous Humor&lt;/li&gt;
+      &lt;li&gt;Optic Disk (Papilla)&lt;/li&gt;
+      &lt;li&gt;Macula Lutea&lt;/li&gt;
+      &lt;li&gt;Ophtalmic Arteries and Veins&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Eye Tracking
+    &lt;ul&gt;
+      &lt;li&gt;Saccadic Eye movements&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Retina
+    &lt;ul&gt;
+      &lt;li&gt;Interface between neural and non-neural parts of eye&lt;/li&gt;
+      &lt;li&gt;Fovea&lt;/li&gt;
+      &lt;li&gt;Pigment Epithelium&lt;/li&gt;
+      &lt;li&gt;Photoreceptor Layer
+        &lt;ul&gt;
+          &lt;li&gt;Rods and Cones&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Ganglion Cells are output layer cells&lt;/li&gt;
+      &lt;li&gt;Bipolar Cells responsible for high resolution&lt;/li&gt;
+      &lt;li&gt;Amarcrine Cells responsible for capturing horizontal information&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Light -&amp;gt; To Optic Nerve -&amp;gt; Ganglion Cell -&amp;gt; Amacrine Cell -&amp;gt; Bipolar Cell -&amp;gt; Horizontal Cell -&amp;gt; Rods -&amp;gt; Cones -&amp;gt; Photoreceptors -&amp;gt; Pigment Eplithelium&lt;/li&gt;
+  &lt;li&gt;Photo receptors have a high metabolic rate and discs on Pigment epithelium are turned over at high rate and are being degraded and need to be removed on an ongoing basis to function properly&lt;/li&gt;
+  &lt;li&gt;Distribution of rods and cones
+    &lt;ul&gt;
+      &lt;li&gt;Cones are concentated near and at the center of fovea&lt;/li&gt;
+      &lt;li&gt;Rods are concentrated near the periphery of retina&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Cone function is one to one and rod function is many to one&lt;/li&gt;
+  &lt;li&gt;At absolute thrshold of vision rods operate and in bright sunlight cones operate and in moonlight both operate&lt;/li&gt;
+  &lt;li&gt;Primary Visual Pathway
+    &lt;ul&gt;
+      &lt;li&gt;Eye&lt;/li&gt;
+      &lt;li&gt;Thalamus&lt;/li&gt;
+      &lt;li&gt;Primary visual cortex&lt;/li&gt;
+      &lt;li&gt;Superior Colliculus
+        &lt;ul&gt;
+          &lt;li&gt;Concerened with eye and head movements&lt;/li&gt;
         &lt;/ul&gt;
       &lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
+  &lt;li&gt;Autonomic Pathway
+    &lt;ul&gt;
+      &lt;li&gt;Pupilary Light Reflex
+        &lt;ul&gt;
+          &lt;li&gt;Concerned with pupil dilation&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Optic Chaism
+    &lt;ul&gt;
+      &lt;li&gt;Place where visual information crossing happens&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Tail flip effect
+    &lt;ul&gt;
+      &lt;li&gt;Information flipping and going on opposite side of brain&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Thalamus
+    &lt;ul&gt;
+      &lt;li&gt;Way station responsible for sensory organs&lt;/li&gt;
+      &lt;li&gt;Lateral Geniculate Nucleus responsible for vision
+        &lt;ul&gt;
+          &lt;li&gt;4 parvo-cellular layers concerned with full view vision, precision and color&lt;/li&gt;
+          &lt;li&gt;2 magno-cellular layers concerned with grosser change in the image or movement&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Retinotopy
+    &lt;ul&gt;
+      &lt;li&gt;Neighbour relationship of pixels of image&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Ganglion Cells of retina
+    &lt;ul&gt;
+      &lt;li&gt;parvo-ganglion cells&lt;/li&gt;
+      &lt;li&gt;magno-ganglion cells&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;PVC in occipital lobe&lt;/li&gt;
+  &lt;li&gt;Peak are gyri and valleys are sulci in the brain&lt;/li&gt;
+  &lt;li&gt;Optic Radiation are the optic fibres going from the the thalamus to Visual Cortex and vice versa&lt;/li&gt;
+  &lt;li&gt;Striate Cortex&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 18 Mar 2018 15:53:34 +0530</pubDate>
