@@ -2,7 +2,7 @@
 layout: post
 title:  "Visual Perception and the Brain!"
 subtitle: "A course by Duke University"
-date: 2018-03-23 10:23:34
+date: 2018-03-26 10:23:34
 tag: [Notes]
 ---
 
@@ -12,7 +12,7 @@ Week 1:
 - Perception is what we are aware of
 - Physical Measurements are objective
 - Psychophysical Measurements are subjective
-- Perception of Luminacnce
+- Perception of Luminance
     - Relative Lightness
     - Measured with phonometer
 - Spectrophotometer
@@ -33,7 +33,7 @@ Week 1:
 - Visual Stimuli
 - Light and Electromagnetic Radiation
     - Human visual system from 400 nm to 700 nm
-    - To lower size range, the energy tends to damange cells
+    - To lower size range, the energy tends to damage cells
     - To greater size range, the energy tends to be present as heat
 - Making an image
     - There is no image out there in the world just the mess of photons
@@ -66,7 +66,7 @@ Week 1:
     - Cones are concentated near and at the center of fovea
     - Rods are concentrated near the periphery of retina
 - Cone function is one to one and rod function is many to one
-- At absolute thrshold of vision rods operate and in bright sunlight cones operate and in moonlight both operate
+- At absolute threshold of vision rods operate and in bright sunlight cones operate and in moonlight both operate
 - Primary Visual Pathway
     - Eye
     - Thalamus
@@ -94,3 +94,20 @@ Week 1:
 - Peak are gyri and valleys are sulci in the brain
 - Optic Radiation are the optic fibres going from the the thalamus to Visual Cortex and vice versa
 - Striate Cortex
+
+
+Week 2:
+
+- Lightness is a psychophysical subjective impression of intensity of light relected from an object surface
+- Luminance is an physical objective measurement of light intensity per unit area
+- Difference in same color on light and dark surface
+- Difference between measured luminance and lightness we actually see is an incidental consequence of biology
+- Concept of edges
+- Receptive field the area which responds to the properties of neurons
+- Darkness
+- Color
+- 
+
+
+
+
