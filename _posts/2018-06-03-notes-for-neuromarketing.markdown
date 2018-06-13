@@ -55,3 +55,56 @@ Week 1:
     - Resting State task
 - PET Scan
     - Dopamine, Seratonine and Glucose act in presence of radioactive ligand
+
+
+Week 2:
+
+- Consumer choices driven by two main processes
+    - Unconscious quick and dirty valuation of immediate options
+    - Conscious experience of making a choice
+- Conscious Perception and Experience
+- Episodic Memory - memory for conscious events
+- Sublimial Learning
+- Unconscious Vestibular Signals
+- Binocular Rivalry
+- Inattention Blindness
+- Global Workspace Theory
+- Conscious vs Unconscious Events
+- Contexts and Goal Contexts
+- Waking consciousness is apparently needed for forward
+spread of sensory activation to occur
+- Neural Dawinist Models
+- Selective Attention
+- Unconscious Egocentric and Allocentric Cellular Maps
+- Contralateral neglect
+- Parietal cortex is involved in the first-person perspective
+
+- Attention and Consciousness
+    - Automatic attention
+    - Controlled attention
+    - Conscious Experience
+    - Selection process
+    - Attention is limited
+    - Bottom up vs top down attention
+    - Bottom up
+        - Automatically grab attention (contrast, density, movement, brightness, color, shape)
+        - Thalamus receives the signal projects to primary visual cortex
+        - Bottom up attention also called visual saliency
+        - Neurovision
+    - Top down
+        - Prefrontal and parietal part are involved
+        - Intentional Attention which is cognitively driven
+    - Consciousness is a state or an experience
+        - Purpose, challenging situations
+    - Unconscious during deep sleep
+        - Autopilot mode
+    - Brain consumes almost 20% of body energy
+    - Brands can imbue value unconsciously and drive attention
+    - Much of actions taken as a consumer is unconscious
+
+- Behaviour economics
+- Incorrect assumptions with Intercept
+    - Asking the correct questions
+    - Customer purchase was based on a conscious decision
+    - Customer's capability to justify their purchase
+
