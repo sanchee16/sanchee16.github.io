@@ -12,7 +12,7 @@ Week 1:
     - Commercial vs Academic
     - Multidisciplinary ie Economics, Psychology and Neuroscience
 - Neuroscience vs Neurology
-- Cognitive or Affective Neuroscience
+- Cognitive(Mental) or Affective(Emotional) Neuroscience
 - Traditional Market Research is conscious behaviour
 - Unconscious behaviour can be measured using Neuromarketing & Consumer Neuroscience
 - Stages 
@@ -107,4 +107,50 @@ spread of sensory activation to occur
     - Asking the correct questions
     - Customer purchase was based on a conscious decision
     - Customer's capability to justify their purchase
+- Neurovision
+    - Visual Saliency meaning a heat map which is not so scattered
+    - Fog map reverse of heat map
+- Consciousness is expensive in terms of energy needs amd autopilot behaviour makes sense
+- Under stress or when we have less time to make decision, visual saliency has a lot to say about
 
+
+Week 3:
+
+- Five Sections of Brain
+    - Occipital: Visual processing
+    - Parietal: Attention, Self Awareness
+    - Temporal: Language, Memory and Visual Perception
+    - Frontal: Motor Control, Planning, Preference and Working Memory
+    - Insular: Emotions
+- Other important brain structures
+    - Basal Ganglia: Putanum, Caudate Nucleus, Ventral Stratum
+    - Medial Temporal Lobe Structures - Hippocampus, Parietal Cortex, Amygdala
+    - Cingulate Cortex: Anterior and Posterior
+- Concepts of how brain works
+    - Redundancy: Function performed by two or more identical regions
+    - Degeneracy: Function performed by two or more dissimilar regions
+    - Pluripotentiality: One structure can take on many roles
+- Blind spot experiment
+- Brain fills in meaning even when there is an incomplete visual scene
+- Dorsal and ventral stream of brain
+    - Ventral stream from primary visual cortex to temporal cortex contain info about identity of objects
+    - Dorsal stream is all about navigation
+- Branding
+    - Odour
+    - Touch
+    - Sound
+- Sensory Neuromarketing
+    - Sensory Load chart
+    - Effect of scents on brand memory or brand recall
+- Sensory Load Chart
+- iMotions
+    - Eye tracking
+    - Pupiliometry
+    - Distance to screens
+    - Blinks
+    - Attentional Blink
+    - EEG
+    - Galvanic Skin Response
+    - EMT
+    - Muscle Contractions
+    - Heart Rate
