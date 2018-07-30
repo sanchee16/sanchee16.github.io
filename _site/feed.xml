@@ -5,9 +5,352 @@
     <description>Strong convictions precede great actions.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 14 Jun 2018 16:38:17 +0530</pubDate>
-    <lastBuildDate>Thu, 14 Jun 2018 16:38:17 +0530</lastBuildDate>
+    <pubDate>Mon, 30 Jul 2018 12:32:21 +0530</pubDate>
+    <lastBuildDate>Mon, 30 Jul 2018 12:32:21 +0530</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Notes for an intro to psychology!</title>
+        <description>&lt;p&gt;Video 1:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Psychology comes from latin meaning study of soul&lt;/li&gt;
+  &lt;li&gt;The science of behavior and mental processes&lt;/li&gt;
+  &lt;li&gt;Various schools of thought
+    &lt;ul&gt;
+      &lt;li&gt;Structuralism
+        &lt;ul&gt;
+          &lt;li&gt;Wilhelm Wundt&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Functionalism
+        &lt;ul&gt;
+          &lt;li&gt;William James&lt;/li&gt;
+          &lt;li&gt;Inspired by Charles Darwin&lt;/li&gt;
+          &lt;li&gt;Adaptive behaviours are conserved throughout the evolution&lt;/li&gt;
+          &lt;li&gt;Defined psychology as science of mental life&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Psychoanalysis
+        &lt;ul&gt;
+          &lt;li&gt;Sigmond Freud&lt;/li&gt;
+          &lt;li&gt;Free Associate Technique&lt;/li&gt;
+          &lt;li&gt;Unconscious Motives&lt;/li&gt;
+          &lt;li&gt;Mental Disorders to be healed through talk therapy and self discovery&lt;/li&gt;
+          &lt;li&gt;Later descended to psycholdynamic theory&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Behaviourism
+        &lt;ul&gt;
+          &lt;li&gt;B.F. Skinner&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Video 2:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;False Intution&lt;/li&gt;
+  &lt;li&gt;Hindsight Bias (I knew it all along phenomenon)&lt;/li&gt;
+  &lt;li&gt;Operationalizing the question&lt;/li&gt;
+  &lt;li&gt;Research Methods
+    &lt;ul&gt;
+      &lt;li&gt;Scientific method
+        &lt;ul&gt;
+          &lt;li&gt;Question and build a theory&lt;/li&gt;
+          &lt;li&gt;Make hypothesis and test your prediction&lt;/li&gt;
+          &lt;li&gt;Test with a replicable experiment&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Case studies can overgeneralizing&lt;/li&gt;
+      &lt;li&gt;Naturalistic observation
+        &lt;ul&gt;
+          &lt;li&gt;Good at describing behaviour&lt;/li&gt;
+          &lt;li&gt;Limited in explaining it&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Surveys and interviews&lt;/li&gt;
+      &lt;li&gt;Experiments&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Sampling Bias&lt;/li&gt;
+  &lt;li&gt;How behaviours corelate&lt;/li&gt;
+  &lt;li&gt;But corelation is not causation and hence cannot prove anything&lt;/li&gt;
+  &lt;li&gt;Experiments studying only one variable keeping others constant&lt;/li&gt;
+  &lt;li&gt;Experimental and control group&lt;/li&gt;
+  &lt;li&gt;Placebo an inert substance&lt;/li&gt;
+  &lt;li&gt;Double blind procedure&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Video 3:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Everything psychological is biological&lt;/li&gt;
+  &lt;li&gt;Neuron’s electrochemical nature
+    &lt;ul&gt;
+      &lt;li&gt;Bipolar/Interneuron&lt;/li&gt;
+      &lt;li&gt;Unipolar/Sensory&lt;/li&gt;
+      &lt;li&gt;Multipolar/Motor&lt;/li&gt;
+      &lt;li&gt;Pyramidal&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Soma, Dendrites, Axon, Synapses and Myelin Sheath&lt;/li&gt;
+  &lt;li&gt;Multiple Sclerosis caused by damage to myelin sheath leading to lack of muscle control&lt;/li&gt;
+  &lt;li&gt;Neurotransmitters
+    &lt;ul&gt;
+      &lt;li&gt;Excitatory
+        &lt;ul&gt;
+          &lt;li&gt;Norphinephrine&lt;/li&gt;
+          &lt;li&gt;Glutamate&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Inhibitory
+        &lt;ul&gt;
+          &lt;li&gt;GABA (Gamma Aminobutyric Axid)&lt;/li&gt;
+          &lt;li&gt;Seretonin&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Endorphins (Pain control and pleasure)&lt;/li&gt;
+      &lt;li&gt;Acetylchlonin and Dopamine can behave as both&lt;/li&gt;
+      &lt;li&gt;Alzheimer’s patients experience deterioration of Acetylchlonin producing neurons&lt;/li&gt;
+      &lt;li&gt;Schizophrenia&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Endocrine System
+    &lt;ul&gt;
+      &lt;li&gt;Hormones&lt;/li&gt;
+      &lt;li&gt;Attraction, Appetite and Aggression&lt;/li&gt;
+      &lt;li&gt;Take more time than neurotransmitters for reaction&lt;/li&gt;
+      &lt;li&gt;Adrenal Glands, Pencreas, Thyroid, Parathyroids, Ovaries, Pitutary Gland, Hypothalamus&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Reuptake is a process of absorption of excess of neurotransmitter by the neuron that released them&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Video 4:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Phrenology is the study of shape and size of cranium&lt;/li&gt;
+  &lt;li&gt;Different parts of brain control specific behaviour&lt;/li&gt;
+  &lt;li&gt;Function is localised&lt;/li&gt;
+  &lt;li&gt;Brain and mind(memories, consciousness, behaviour, decisions)&lt;/li&gt;
+  &lt;li&gt;How brain functions tie to the behaviour of mind&lt;/li&gt;
+  &lt;li&gt;CNS&lt;/li&gt;
+  &lt;li&gt;PNS&lt;/li&gt;
+  &lt;li&gt;Case of Phineas Gage&lt;/li&gt;
+  &lt;li&gt;Old Brain
+    &lt;ul&gt;
+      &lt;li&gt;Brain Stem&lt;/li&gt;
+      &lt;li&gt;Medulla&lt;/li&gt;
+      &lt;li&gt;Pons&lt;/li&gt;
+      &lt;li&gt;Thalamus&lt;/li&gt;
+      &lt;li&gt;Reticular Formation&lt;/li&gt;
+      &lt;li&gt;Cerebellum&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Limbic System
+    &lt;ul&gt;
+      &lt;li&gt;Hypothalamus&lt;/li&gt;
+      &lt;li&gt;Amygdala&lt;/li&gt;
+      &lt;li&gt;Hippocampus&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Grey Matter in cerebrum
+    &lt;ul&gt;
+      &lt;li&gt;Corpus Collosum&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Glial Cells&lt;/li&gt;
+  &lt;li&gt;Lobes
+    &lt;ul&gt;
+      &lt;li&gt;Frontal&lt;/li&gt;
+      &lt;li&gt;Parietal&lt;/li&gt;
+      &lt;li&gt;Occipital&lt;/li&gt;
+      &lt;li&gt;Temporal&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Fissures&lt;/li&gt;
+  &lt;li&gt;Cortex
+    &lt;ul&gt;
+      &lt;li&gt;Cerebral cortex&lt;/li&gt;
+      &lt;li&gt;Motor Cortex&lt;/li&gt;
+      &lt;li&gt;Somatosensory Cortex&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Association Areas&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Video 5:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Prosopagnosia neurological disorder of face blindness&lt;/li&gt;
+  &lt;li&gt;Fusiform Gyrus&lt;/li&gt;
+  &lt;li&gt;Sensation vs Perception
+    &lt;ul&gt;
+      &lt;li&gt;Bottom up process in which sensory organs receive and relay outside stimuli&lt;/li&gt;
+      &lt;li&gt;Top down way in which brain organizes and interpret information to put it into context&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Absolute threshold of sensation is the minimum stimulation needed to register a given stimulus 50% of the time.&lt;/li&gt;
+  &lt;li&gt;Signal Detection Theory is a model for predicting how and when a person will detect a weak stimuli partly based on context&lt;/li&gt;
+  &lt;li&gt;Sensory Adaptation&lt;/li&gt;
+  &lt;li&gt;Difference Threshold
+    &lt;ul&gt;
+      &lt;li&gt;Weber’s Law is that we percieve differences on log scale and not linear scale&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Wavelength and frequency determine hue&lt;/li&gt;
+  &lt;li&gt;Amplitude determine intensity or brightness&lt;/li&gt;
+  &lt;li&gt;Photoreceptors
+    &lt;ul&gt;
+      &lt;li&gt;Rods(Grayscale and Peripheral Vision) and Cones(Fine detail and color)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Theories of color vision
+    &lt;ul&gt;
+      &lt;li&gt;Young Helmholtz Trichromatic Theory
+        &lt;ul&gt;
+          &lt;li&gt;Dichromatic vs Trichromatic Vision&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Opponent Process Theory&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Feature Detector nerve cells&lt;/li&gt;
+  &lt;li&gt;Parallel Processing of Form, Motion, Depth and Color&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Video 6:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Homunculus(little man) is sensory map of human body&lt;/li&gt;
+  &lt;li&gt;Short Waves have high frequency and high pitch&lt;/li&gt;
+  &lt;li&gt;Amplitude determines loudness measured in Decibels&lt;/li&gt;
+  &lt;li&gt;Directional Stereophonic Hearing&lt;/li&gt;
+  &lt;li&gt;Ear Structure
+    &lt;ul&gt;
+      &lt;li&gt;Outer Ear&lt;/li&gt;
+      &lt;li&gt;Middle Ear&lt;/li&gt;
+      &lt;li&gt;Inner Ear&lt;/li&gt;
+      &lt;li&gt;Ear Drum&lt;/li&gt;
+      &lt;li&gt;Ossicle Bones
+        &lt;ul&gt;
+          &lt;li&gt;Stirrup&lt;/li&gt;
+          &lt;li&gt;Anvil&lt;/li&gt;
+          &lt;li&gt;Hammer&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Cochlea&lt;/li&gt;
+      &lt;li&gt;Auditory Nerve&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Taste Buds
+    &lt;ul&gt;
+      &lt;li&gt;Taste Pore&lt;/li&gt;
+      &lt;li&gt;Supporting Cell&lt;/li&gt;
+      &lt;li&gt;Gustatory Receptor Cell&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Umami Taste&lt;/li&gt;
+  &lt;li&gt;Sensory Interaction&lt;/li&gt;
+  &lt;li&gt;Synesthesia is sensory activation of one sense when another sense is triggered.&lt;/li&gt;
+  &lt;li&gt;Smell is Chemical Sense
+    &lt;ul&gt;
+      &lt;li&gt;Olfactory Receptors&lt;/li&gt;
+      &lt;li&gt;Olfactory Bulb&lt;/li&gt;
+      &lt;li&gt;Primary Smell Cortex&lt;/li&gt;
+      &lt;li&gt;Odor Receptors&lt;/li&gt;
+      &lt;li&gt;Near our lymbic system - amygdala and hippocampus and hence related to emotional response&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Touching
+    &lt;ul&gt;
+      &lt;li&gt;Pressure&lt;/li&gt;
+      &lt;li&gt;Warmth&lt;/li&gt;
+      &lt;li&gt;Cold&lt;/li&gt;
+      &lt;li&gt;Pain&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Kinesthesis is the way in which body senses it’s own movements and positioning&lt;/li&gt;
+  &lt;li&gt;Vestibular Sense monitors head’s position and balance
+    &lt;ul&gt;
+      &lt;li&gt;Semicircular canals&lt;/li&gt;
+      &lt;li&gt;Vestibular Sac&lt;/li&gt;
+      &lt;li&gt;Cochlea&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Video 7:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Perception is the top-down way in which brain organises and interpret information and put it into context
+    &lt;ul&gt;
+      &lt;li&gt;Make meaning out of our senses&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Duck vs Bunny&lt;/li&gt;
+  &lt;li&gt;Perceptual Set is the list of psychological factors that determine how we percieve the enviroment
+    &lt;ul&gt;
+      &lt;li&gt;Context&lt;/li&gt;
+      &lt;li&gt;Culture&lt;/li&gt;
+      &lt;li&gt;Expectation&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Form Perception
+    &lt;ul&gt;
+      &lt;li&gt;Figure Ground Relationship
+        &lt;ul&gt;
+          &lt;li&gt;Organisation of visual field into objects that stand out from their surroundings&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Rules of grouping
+        &lt;ul&gt;
+          &lt;li&gt;Orgainizing things by proximity&lt;/li&gt;
+          &lt;li&gt;Continuity&lt;/li&gt;
+          &lt;li&gt;Closure&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Depth Perception
+    &lt;ul&gt;
+      &lt;li&gt;Ability to see objects in 3D even when the retinal images are 2D&lt;/li&gt;
+      &lt;li&gt;Estimate distance and shape&lt;/li&gt;
+      &lt;li&gt;Binocular Cues and Retinal Disparity&lt;/li&gt;
+      &lt;li&gt;Monocular Cues
+        &lt;ul&gt;
+          &lt;li&gt;Relative size and height&lt;/li&gt;
+          &lt;li&gt;Linear Perspective&lt;/li&gt;
+          &lt;li&gt;Texture Gradient&lt;/li&gt;
+          &lt;li&gt;Interposition&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Motion Perception
+    &lt;ul&gt;
+      &lt;li&gt;Shrinking objects are retreating&lt;/li&gt;
+      &lt;li&gt;Enlarging objects are approaching&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Constancy
+    &lt;ul&gt;
+      &lt;li&gt;Ability to percieve objects even when stimulus changes slightly&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 01 Jul 2018 20:53:34 +0530</pubDate>
+        <link>http://localhost:4000/2018/07/notes-for-psychology/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/07/notes-for-psychology/</guid>
+        
+        <category>Notes</category>
+        
+        
+      </item>
     
       <item>
         <title>An introduction to neuromarketing!</title>
@@ -1241,59 +1584,6 @@ spread of sensory activation to occur&lt;/li&gt;
         <pubDate>Thu, 28 Dec 2017 06:53:34 +0530</pubDate>
         <link>http://localhost:4000/2017/12/notes-for-deep-learning-fast-ai/</link>
         <guid isPermaLink="true">http://localhost:4000/2017/12/notes-for-deep-learning-fast-ai/</guid>
-        
-        <category>Notes</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Design Patterns</title>
-        <description>&lt;p&gt;Lesson 0:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Experience Reuse&lt;/li&gt;
-  &lt;li&gt;Obeserver Pattern&lt;/li&gt;
-  &lt;li&gt;Decorator Pattern&lt;/li&gt;
-  &lt;li&gt;Factory Pattern&lt;/li&gt;
-  &lt;li&gt;Singleton Pattern&lt;/li&gt;
-  &lt;li&gt;Command Pattern&lt;/li&gt;
-  &lt;li&gt;Adapter and Facade Pattern&lt;/li&gt;
-  &lt;li&gt;Template Method Pattern&lt;/li&gt;
-  &lt;li&gt;Iterator and Composite Pattern&lt;/li&gt;
-  &lt;li&gt;State Pattern&lt;/li&gt;
-  &lt;li&gt;Proxy Pattern&lt;/li&gt;
-  &lt;li&gt;Compound Pattern&lt;/li&gt;
-  &lt;li&gt;Design Pattern&lt;/li&gt;
-  &lt;li&gt;Leftover Pattern&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Lesson 1:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Experience reuse&lt;/li&gt;
-  &lt;li&gt;Change is the only constant&lt;/li&gt;
-  &lt;li&gt;Exercise answers
-    &lt;ul&gt;
-      &lt;li&gt;Need to improve code for scalabitlity&lt;/li&gt;
-      &lt;li&gt;Prototyping for experiments and then building products if the prototype is successful&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Design Principles
-    &lt;ul&gt;
-      &lt;li&gt;Identify aspects of app which vary and encapsulate them&lt;/li&gt;
-      &lt;li&gt;Program to an interface not an implementation&lt;/li&gt;
-      &lt;li&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Behavious Class&lt;/li&gt;
-  &lt;li&gt;Interface&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 18 Dec 2017 06:53:34 +0530</pubDate>
-        <link>http://localhost:4000/2017/12/notes-for-head-first-design-patterns/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/12/notes-for-head-first-design-patterns/</guid>
-        
-        <category>Book</category>
         
         <category>Notes</category>
         
