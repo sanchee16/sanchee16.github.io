@@ -23,7 +23,7 @@ Video 1:
 		- Free Associate Technique
 		- Unconscious Motives
 		- Mental Disorders to be healed through talk therapy and self discovery
-		- Later descended to psycholdynamic theory
+		- Later descended to psychodynamic theory
 	- Behaviourism
 		- B.F. Skinner
 
@@ -215,3 +215,77 @@ Video 7:
 	- Enlarging objects are approaching
 - Constancy
 	- Ability to percieve objects even when stimulus changes slightly
+
+
+Video 8:
+
+- Consciousness
+	- Awareness of ourselves and our environment
+	- Stream of Consciousness
+	- What it means to be awake
+	- Waking
+	- Dreaming
+	- Tripping
+	- Sleeping
+- Cognitive neuroscience
+	- How brain activity is linked to our mental processes like thinking, perception, memory, language, pain etc
+	- Structural imaging
+	- Functional imaging
+		- Function is often localized in brain
+- Dual process model of consciousness
+	- Information processed simultaneously on conscious and non-conscious tracks
+	- 11 million bits of info per second
+- Selective attention
+	- Way of focusing of our conscious awareness on a particular stimulus
+	- Cocktail party effect
+- Inattentional Blindness
+	- Invisible gorilla
+	- Moonwalking bear
+	- Easy to miss something which we are not looking for
+	- Misdirection as experimental psychology
+- Change Blindness
+ 	- Psychological phenomenon in which we fail to notice changes in the environment
+ 	- Person Swap
+
+
+Video 9:
+
+- Sleep is another state of consciousness
+- Periodic, natural, reversible and near total loss of consciousness
+- Different from hibernation, coma, anesthetic oblivion
+- Reasons for sleeping
+	- Recuperation
+	- Growth
+	- Mental function
+- Electroencephalograph(EEG)
+	- machine that measures brain's electrical activity
+- REM Sleep stage
+	- Rapid Eye Movement
+	- Recurring sleep stage when vivid dreams occur
+- Sleep Stages
+	- REM
+	- NREM-1
+	- NREM-2
+	- NREM-3
+- Adrenal glands release cortisol awake harmone during day
+- Pineal gland release melatonin during night
+- Before sleep alpha wave stage
+- Hypnagogic Sensations
+- Sleep Spindles
+- Sleep deprivation leading to sleep disorders
+	- Insomnia has recurring problems in falling or staying asleep
+	- Narcolepsy uncontrollable sleep attacks
+		- Hypocretin
+	- Sleep Apnea can cause sleeper to temporarily stop breathing
+	- REM Sleep Behaviour Disorder
+	- Night Terrors in NREM-3
+	- Sleep Walking
+	- Sleep Talking
+	- Nightmares in REM
+	- Post Traumatic Stress Disorder
+- Oneirology
+	- Study of dreams
+	- Information Processing Theory
+	- Physiological Function Theory 
+	- Dreams are part of cognitive development
+ 	- Are Dreams side effects of REM sleep? Neural Activity Model
