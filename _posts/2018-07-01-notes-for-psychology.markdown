@@ -289,3 +289,80 @@ Video 9:
 	- Physiological Function Theory 
 	- Dreams are part of cognitive development
  	- Are Dreams side effects of REM sleep? Neural Activity Model
+
+
+Video 10:
+
+- Animal Magnetism
+- Hypnosys as Altered State of Consciousness
+- Hallucinations
+	- A calm trance like state during which you have heightened concentration and focus with openess to suggestion
+	- Not a reliable way to recall deeply burried memories
+	- Hypnosis can't make you act you against your will
+	- Social influence
+	- Dissociation is a special dual processing state of split consciousness
+	- Selective inattention to pain
+- In clinical hypnosys, people are asked to dissociate
+	- Highly hypnotizable
+- Adaptive Dissociative Capacity
+- Drugs
+	- Tolerance is the diminishing effect of a drug which happens with regular use and in order for them to be effective we start taking larger doses
+	- Neuroadaptation
+	- Psychoactive Drugs are chemical substances which alter mood and perception
+		- Placebo Effect
+		- Depressants mellow slow bodily function and supress neural activity
+			- Alcohol
+			- Tranquilizers
+			- Opiates
+			- Disinhibitor impairs brain's judgement areas, self awareness and self control
+			- Endorphins - Natural pain killing neurotransmitter
+		- Stimulants
+			- Speed up the bodily functions, enhance neural activity, self confidence and mood changes
+			- Caffine
+			- Nicotine
+			- Amphetamines
+			- Street Amphetamines
+			- Meth
+			- Ecstasy
+			- Cocaine
+		- Hallucinogens
+			- Also called psychedelics, they evoke sensory images and distort perceptions
+			- Plant
+			- Fungus
+			- Synthetic like LSD(Lysergic Acid Diethylamide)
+- Ways to hallucinate without drugs when neurological disturbances happen
+	- Seizures
+	- Brain injuries
+	- Sensory deprevation
+	- Fever
+	- Diseases
+	- Grief
+	- Depression
+
+
+Video 11:
+
+- Ivan Pavlov introduced behaviourism as a field psychology
+	- Science focused on observable behaviours and not unobservable internal mental processes
+	- Dog salivation experiment
+- Learning is the process of acquiring new and enduring information or behaviours through experience
+- Associative Learning happens when a subject links certain events, behaviour and stimuli together in process of conditioning
+- Acquisition and After conditioning phase
+- Classic Conditioning is the type of learning where subject learns to link two or more stimuli and anticipate events
+- Learning can be studied through direct observation of behaviour
+	- Psychology about objective observable behaviour
+- Operant Conditioning is a type of learning where behaviour is strengthened if followed by reinforcer or diminished if followed by punisher
+	- Shaping is an Operant Conditioning procedure in which reinforcers guide behaviour towards closer and closer approximations of the desired behavior
+		- Sucessive approximations
+	- Skinner box
+	- Air Crib
+	- Positive Reinforcement is a stimulus which when present after a response strengthens it
+	- Negative Reinforcement is a stimulus which when removed after a response strengthens it
+		- Negative Reinforcement is not punishment
+	- Primary Reinforcers is an innately biologically reinforcing stimulus
+	- Conditioned Reinforcers is a stimulus that gains it's reinforcing power from association with primary reinforcer
+	- Reinforcement schedules is a pattern that defines how often does a desired response will be reinforced
+	- Partial or intermittent reinforcement is a way in which we reinforce the behaviour only part of the time resulting in slower acquisition of response but much greater resistance to extinction than does continuous reinforcement
+	- Extinction
+- Cognitive processes also influence the way we learn
+
