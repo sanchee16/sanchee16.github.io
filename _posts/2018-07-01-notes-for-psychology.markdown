@@ -366,3 +366,58 @@ Video 11:
 	- Extinction
 - Cognitive processes also influence the way we learn
 
+
+Video 12:
+
+- Albert Bandura
+	- Bobo Beatdown
+	- Learning can occur through observing and immitating someone else's behaviour
+	- Imitation is sincerest form of learning
+	- Observational Learning is learning by observing others
+	- Modelling is process of observing and imitating a specific behaviour 
+	- Socio-Cognitive Learning
+- Humans are more taste averse than sound/sight averse
+- Birds are more sight averse
+- Not all associations are learnt equally
+	- Depends on species too as associations which help them survive and thrive are learnt with priority
+	- What we learn shapes our attitudes
+- Cognitions
+	- Thoughts, perspectives and expectations
+- Latent Learning
+	- Cognitive maps or mental representations of our surroundings
+- Learning
+	- Associating a response to a consequence
+	- Thinking
+- Neuroimaging
+- Reward systems work even when others are getting rewarded
+	- Mirror neurons fire when performing some action or observing others to do so
+
+
+Video 13:
+
+- HerpesViral Encephalitis wrecks the memory
+- Memory is the chain that connects past to present
+- Personal Memories are stored differently
+- Memory is learning persisted over time ie information that has been stored and can be recalled
+- Memories accessed in 3 ways:
+	- Recall is the measure of memory in which you access the already learned information
+	- Recognition is the measure of memory in which you identify items previously learned
+	- Relearning is the measure of memory in which you refreshing old information
+- Memory formation
+	- External Events lead to sensory memory
+	- Encoding to short term memory for under 30 seconds
+	- Encoding to long term memory and further retrieval
+- Working memory
+	- Conscious, active processing of auditory and visual-spatial information and info reterieved from long term memory
+	- Explicit Memory is the memory of facts and experiences one can consciously know and declare
+	- Implicit Memory is the retention of memory independent of conscious recollection
+	- Automatic processing
+		- Non-conscious encoding of incidental and well learned information
+- Long term Memory
+	- Procedural Memory
+	- Episodic Memory
+- Mnemonics helps in memory aids especially those techniques that use vivid imagery and organisational devices
+	- Chunking is organising items into familiar managable units
+	- Shallow processing is encoding information based on auditory or visual levels eg. based on structure, appearance or sound of word
+	- Deep processing is encoding information based on the meaning associated with a word
+
