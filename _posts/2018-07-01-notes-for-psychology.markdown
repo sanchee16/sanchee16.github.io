@@ -421,3 +421,55 @@ Video 13:
 	- Shallow processing is encoding information based on auditory or visual levels eg. based on structure, appearance or sound of word
 	- Deep processing is encoding information based on the meaning associated with a word
 
+
+Video 14:
+
+- Lot of work to retrieve memories from the long term storage
+- Forget and Remember
+- Retrieval Cues for backtracking memory
+- Priming is activating associations non-consciously
+	- Memoryless Memory
+	- Context Dependent Memory
+	- State Dependent Memory
+- Serial Positioning Effect
+	- Our tendency to best recall first and last items in a list
+	- Primacy Effect for first words which we rehearsed them more and were in long term memory
+	- Recency Effect for last words which remain in working memory
+- We forget things in 3 ways:
+	- We fail to encode it
+	- We fail to retrieve it
+		- Can happen because of interference of other memories in brain
+	- We experience storage decay
+- Proactive/Forward Acting Interference
+	- The disruptive effect of prior learning on the recall of new information
+- Retroactive/Backward Acting Interference
+	- The disruptive effect of new learning on the recall of previous information
+- Misinformation Effect
+	- Incorporating misleading information into one's memory of an event
+- Source Misattribution
+	- Forgetting or misrecalling the source of a memory
+
+
+Video 15:
+
+- Cognition
+	- Knowing
+	- Remembering
+	- Understanding
+	- Communicating
+	- Learning
+- Concepts
+	- Mental grouping of people, ideas, objects, events etc
+- Prototype
+	- Mental image or pinnacle eg of a certain thing
+- Problem Solving Techniques with plan of attack strategy
+	- Algorithms, Heuristics & Trial and Error
+- Frontal lobes involved in attention of typical problem solving
+- Conformation Bias
+	- Tendency to look for and favor evidence that confirms our ideas while avoiding or ignoring evidence to the contrary
+- Belief Perseverance
+	- Tendency to cling on to belief despite the proof to the contrary
+- Mental Set
+- Mentally available Memory
+- Availablity Heuristic is a mental shortcut relying on psychologically salient or easily imagined examples rather than actual odds or factual information
+- Framing is how an issue is posed or presented
