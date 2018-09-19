@@ -5,9 +5,80 @@
     <description>Strong convictions precede great actions.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 07 Aug 2018 14:44:05 +0530</pubDate>
-    <lastBuildDate>Tue, 07 Aug 2018 14:44:05 +0530</lastBuildDate>
+    <pubDate>Wed, 19 Sep 2018 15:51:26 +0530</pubDate>
+    <lastBuildDate>Wed, 19 Sep 2018 15:51:26 +0530</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Notes for an intro to psychology!</title>
+        <description>&lt;p&gt;Week 1:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Rene Descartes’s Philosophy
+    &lt;ul&gt;
+      &lt;li&gt;Story of moving statue&lt;/li&gt;
+      &lt;li&gt;Concept of Soul/Dual Nature&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;James Mill Idea of Materialism&lt;/li&gt;
+  &lt;li&gt;Empiricism&lt;/li&gt;
+  &lt;li&gt;Luigi Galvini’s Frog experiment&lt;/li&gt;
+  &lt;li&gt;Paul Broca&lt;/li&gt;
+  &lt;li&gt;Broca’s Area in Brain&lt;/li&gt;
+  &lt;li&gt;Wernicke’s Area in Brain&lt;/li&gt;
+  &lt;li&gt;Human behaviour determined by natural laws and hence is a science&lt;/li&gt;
+  &lt;li&gt;Clinical and Traditional Scientific Approach of Psychology&lt;/li&gt;
+  &lt;li&gt;Psychology Before Freud
+    &lt;ul&gt;
+      &lt;li&gt;Psychology born in Germany&lt;/li&gt;
+      &lt;li&gt;Hermann Von Helmholtz
+        &lt;ul&gt;
+          &lt;li&gt;Speed with which neural tissue transfers info&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Ernst Weber
+        &lt;ul&gt;
+          &lt;li&gt;Sensory Stimuli&lt;/li&gt;
+          &lt;li&gt;Just noticable difference&lt;/li&gt;
+          &lt;li&gt;Weber fractions&lt;/li&gt;
+          &lt;li&gt;Psychophysics&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Wilhelm Wundt
+        &lt;ul&gt;
+          &lt;li&gt;Father of modern psychology&lt;/li&gt;
+          &lt;li&gt;Introspection&lt;/li&gt;
+          &lt;li&gt;Structualism
+            &lt;ul&gt;
+              &lt;li&gt;Structure of Conscious Experience&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Darwin
+        &lt;ul&gt;
+          &lt;li&gt;Why the features are the way they are ?&lt;/li&gt;
+          &lt;li&gt;Functionalism&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;William James
+        &lt;ul&gt;
+          &lt;li&gt;Functionalism&lt;/li&gt;
+          &lt;li&gt;Function of psychology processes&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 01 Jul 2018 20:53:34 +0530</pubDate>
+        <link>http://localhost:4000/2018/07/notes-for-intro-to-psycho/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/07/notes-for-intro-to-psycho/</guid>
+        
+        <category>Notes</category>
+        
+        
+      </item>
     
       <item>
         <title>Notes for an intro to psychology!</title>
@@ -1963,49 +2034,6 @@ spread of sensory activation to occur&lt;/li&gt;
         <pubDate>Tue, 23 Jan 2018 06:53:34 +0530</pubDate>
         <link>http://localhost:4000/2018/01/notes-for-understanding-the-brain/</link>
         <guid isPermaLink="true">http://localhost:4000/2018/01/notes-for-understanding-the-brain/</guid>
-        
-        <category>Notes</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Notes for Deep Learning fast.ai MOOC!</title>
-        <description>&lt;p&gt;Lesson 0:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Incredibly flexible function (NN), all-purpose parameter fitting(Backprop), fast and scalable(GPU) made DL possible&lt;/li&gt;
-  &lt;li&gt;?? before any function describes the function in Ipynb&lt;/li&gt;
-  &lt;li&gt;Shift + Enter in Ipynb&lt;/li&gt;
-  &lt;li&gt;Try things with your own data&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Lesson 1:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Infinitely flexible function, all purpose parameter fitting and tuning which is fast and scalable.&lt;/li&gt;
-  &lt;li&gt;Neural network is the universal approximation function.&lt;/li&gt;
-  &lt;li&gt;Gradient Descent &amp;amp; Backpropagation is the tuning part.&lt;/li&gt;
-  &lt;li&gt;NVIDIA GPU supports CUDA which is efficient in running deep learning computations.&lt;/li&gt;
-  &lt;li&gt;P2 and t2.micro&lt;/li&gt;
-  &lt;li&gt;AWS Setup&lt;/li&gt;
-  &lt;li&gt;AMI: Amazon Machine Images: Snapshot of instance at a given point in time&lt;/li&gt;
-  &lt;li&gt;Literate programming&lt;/li&gt;
-  &lt;li&gt;Cmd + Shift + P for keyboard shortcuts on jupyter notebook&lt;/li&gt;
-  &lt;li&gt;tmux&lt;/li&gt;
-  &lt;li&gt;Test, Train and Validation Datasets. Also, introduced to sample data.&lt;/li&gt;
-  &lt;li&gt;Magic function&lt;/li&gt;
-  &lt;li&gt;Pretrained Model - Model with Learned Parameters&lt;/li&gt;
-  &lt;li&gt;VGG 16 model&lt;/li&gt;
-  &lt;li&gt;Keras.json &amp;amp; theanorc file for configuration&lt;/li&gt;
-  &lt;li&gt;Concept of Batch and Mini Batch&lt;/li&gt;
-  &lt;li&gt;GPU has limited memory and the data transfer is a costly operation&lt;/li&gt;
-  &lt;li&gt;Finetuning replaces the last layer of a pretrained network with the current classes&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 28 Dec 2017 06:53:34 +0530</pubDate>
-        <link>http://localhost:4000/2017/12/notes-for-deep-learning-fast-ai/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/12/notes-for-deep-learning-fast-ai/</guid>
         
         <category>Notes</category>
         
