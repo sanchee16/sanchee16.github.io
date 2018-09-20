@@ -6,7 +6,7 @@ date: 2018-07-01 15:23:34
 tag: [Notes]
 ---
 
-Week 1:
+Week 2:
 
 - Rene Descartes's Philosophy
 	- Story of moving statue
@@ -15,8 +15,8 @@ Week 1:
 - Empiricism
 - Luigi Galvini's Frog experiment
 - Paul Broca
-- Broca's Area in Brain
-- Wernicke's Area in Brain
+- Broca's Area in Brain related to production of speech
+- Wernicke's Area in Brain related to comprehension of speech 
 - Human behaviour determined by natural laws and hence is a science
 - Clinical and Traditional Scientific Approach of Psychology
 - Psychology Before Freud
@@ -39,3 +39,29 @@ Week 1:
 	- William James
 		- Functionalism
 		- Function of psychology processes
+- Psychology During Freud
+	- Sex and Agression least talked about things between men and women
+	- Psychic Conflict
+		- It (Biological Drives with immediate Gratification)
+		- Super Ego (Perfect part of us)
+		- Ego (A state between It and Super Ego)
+		- Inner Conflict shaping our behaviour
+	- Deal with the cause of conflict
+	- Clinical Approach to Psychology
+- Psychology After Freud
+	- Behaviourism
+	- SR Psychology (Stimulus-Response)
+	- Albert Experiment
+	- Fear can be conditioned
+	- Other Fields of Psychology
+		- Experimental Psychology
+		- Cognitive Revolution at the time of computers
+		- Social Psychology at the time of political instability
+		- Individual Differences in terms of Intelligence, Personality
+		- Cross Cultural Psychology
+		- Positive Psychology like empathy, creativity
+		- Neuroscience
+			- Biological Revolution for understanding the brain eg. fMRI
+- Knowind the truth
+	- Knowing by Thinking
+	- Knowing by Senses
