@@ -5,9 +5,100 @@
     <description>Strong convictions precede great actions.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 30 Nov 2019 15:04:17 +0530</pubDate>
-    <lastBuildDate>Sat, 30 Nov 2019 15:04:17 +0530</lastBuildDate>
+    <pubDate>Sat, 23 May 2020 21:23:25 +0530</pubDate>
+    <lastBuildDate>Sat, 23 May 2020 21:23:25 +0530</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Notes for The Fearless Organisation</title>
+        <description>&lt;p&gt;Preface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Today’s world is all about knowledge workers and they need to innovate continuously.&lt;/li&gt;
+  &lt;li&gt;For this to happen, they need to be able to share concerns, questions, mistakes and even half-formed ideas.&lt;/li&gt;
+  &lt;li&gt;Psychological safety is the key to performance in today’s world. Especially in the world of VUCA (Volatility, Uncertainty, Complexity, Ambiguity)&lt;/li&gt;
+  &lt;li&gt;Dynamic collaboration between teams is called Teaming. It’s the art of communicating and coordinating with people across boundaries of all kinds.&lt;/li&gt;
+  &lt;li&gt;Project Aristotle by Google mentioned PS as the underpinning for all other criteria for the best performing teams.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The Underpinning:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Unconscious Calculators:
+    &lt;ul&gt;
+      &lt;li&gt;Current Risk of speaking up vs Future benefit of solving the actual problem&lt;/li&gt;
+      &lt;li&gt;High importance to interpersonal risks&lt;/li&gt;
+      &lt;li&gt;Worry about looking ignorant(don’t ask questions), incompetent(don’t accept mistakes) or disruptive(don’t make suggestions)&lt;/li&gt;
+      &lt;li&gt;85% of respondents in a study didn’t raise an issue with their boss even though they felt it as an important one&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Psychological safety an attribute of groups
+    &lt;ul&gt;
+      &lt;li&gt;Speaking up facilitates open and authentic communication, focus on problems rather than people who made mistakes and open opportunities for improvement&lt;/li&gt;
+      &lt;li&gt;Microdynamics of face-saving by Goffman&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Accidental Discovery
+    &lt;ul&gt;
+      &lt;li&gt;Did better teams really make more mistakes? They don’t make more mistakes but they declare more mistakes.&lt;/li&gt;
+      &lt;li&gt;Talk openly about mistakes and errors.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Fear is not an effective motivator
+    &lt;ul&gt;
+      &lt;li&gt;Productivity a phenomenon of the past. Knowledge work can’t be done the same way.&lt;/li&gt;
+      &lt;li&gt;Fear inhibits learning and collaboration.
+        &lt;ul&gt;
+          &lt;li&gt;It consumes physiological resources diverting them from the parts that manage working memory to the amygdala and other fear response systems to deal with the situation.&lt;/li&gt;
+          &lt;li&gt;This blocks analytical thinking, creative insight and problem-solving.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Hierarchy is also a problem. We constantly assess our relative status wrt others subconsciously.&lt;/li&gt;
+      &lt;li&gt;Psychological safety ensures that fear is no longer a problem. It’s a safe space. One focuses more on learning.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;What PS is not ?
+    &lt;ul&gt;
+      &lt;li&gt;It’s not about being nice all the time.
+        &lt;ul&gt;
+          &lt;li&gt;It’s about candor and willingness to engage in productive disagrement so as to understand a different point of view.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;It’s not about personality types.
+        &lt;ul&gt;
+          &lt;li&gt;It refers to work climate and climate affects people with different personality traits.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;It’s not same as trust
+        &lt;ul&gt;
+          &lt;li&gt;Trust is individual, PS is a group phenomenon.&lt;/li&gt;
+          &lt;li&gt;Trust is about whether you can rely on someone, PS is about temporally immediate experience.&lt;/li&gt;
+          &lt;li&gt;Trust is about giving others a benefit of doubt, PS is about if you are given that benefit of doubt.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;It’s not about lowering performance standards
+        &lt;ul&gt;
+          &lt;li&gt;We still need to hold people accountable. It’s just that they can except mistakes and we can work together on it.&lt;/li&gt;
+          &lt;li&gt;High PS, Low Standards: Comfort Zone&lt;/li&gt;
+          &lt;li&gt;Low PS, High Standards: Anxiety Zone&lt;/li&gt;
+          &lt;li&gt;Low PS, Low Standards: Apathy Zone&lt;/li&gt;
+          &lt;li&gt;High PS, High Standards: Learning &amp;amp; Performing Zone&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Chronbach’s Alpha for measuring inter-item reliability&lt;/li&gt;
+  &lt;li&gt;Psychological Safety isn’t enough. We should hold high standards, inspire, coach and enable people by giving them apt and timely feedback.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 23 May 2020 15:30:12 +0530</pubDate>
+        <link>http://localhost:4000/2020/05/notes-for-the-fearless-organization/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/05/notes-for-the-fearless-organization/</guid>
+        
+        <category>Book</category>
+        
+        <category>Notes</category>
+        
+        
+      </item>
     
       <item>
         <title>Notes for an intro to psychology!</title>
@@ -2017,67 +2108,6 @@ spread of sensory activation to occur&lt;/li&gt;
         <pubDate>Fri, 02 Feb 2018 06:53:34 +0530</pubDate>
         <link>http://localhost:4000/2018/02/notes-for-fundamentals-of-neuroscience/</link>
         <guid isPermaLink="true">http://localhost:4000/2018/02/notes-for-fundamentals-of-neuroscience/</guid>
-        
-        <category>Notes</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Understanding the Brain - The Neurobiology of Everyday Life!</title>
-        <description>&lt;p&gt;Week 1:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Locked-in Syndrome&lt;/li&gt;
-  &lt;li&gt;Diving Bell and the Butterfly&lt;/li&gt;
-  &lt;li&gt;Four functions
-    &lt;ul&gt;
-      &lt;li&gt;Voluntary Movement
-        &lt;ul&gt;
-          &lt;li&gt;MotorNeurons&lt;/li&gt;
-          &lt;li&gt;Brain Stem or Spinal Cord&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Perception
-        &lt;ul&gt;
-          &lt;li&gt;Awareness of a Sensation&lt;/li&gt;
-          &lt;li&gt;Forebrain -&amp;gt; Cerebral Cortex&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Homeostasis
-        &lt;ul&gt;
-          &lt;li&gt;Process of maintaining of healthy internal conditions&lt;/li&gt;
-          &lt;li&gt;Forebrain(Hormonal Changes), Brain Stem and Spinal Cord&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Abstract Functions
-        &lt;ul&gt;
-          &lt;li&gt;Emotions, Thinking, Language, Memory&lt;/li&gt;
-          &lt;li&gt;Forebrain&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Brain Stem (Hind and Mid Brain) -&amp;gt; Cerebellum&lt;/li&gt;
-  &lt;li&gt;Foramen Magnum hole in the base of Skull from which Spinal Cord passes&lt;/li&gt;
-  &lt;li&gt;Neurons
-    &lt;ul&gt;
-      &lt;li&gt;Unique as they are longest cells in the body&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Parts of Neurons
-    &lt;ul&gt;
-      &lt;li&gt;Cell body/Soma contains Neucleous&lt;/li&gt;
-      &lt;li&gt;Dendrites (Dendritic Tree/Dendritic Arbor)&lt;/li&gt;
-      &lt;li&gt;Axon (Synaptic Terminal at the end)&lt;/li&gt;
-      &lt;li&gt;Synapse&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 23 Jan 2018 06:53:34 +0530</pubDate>
-        <link>http://localhost:4000/2018/01/notes-for-understanding-the-brain/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/01/notes-for-understanding-the-brain/</guid>
         
         <category>Notes</category>
         
