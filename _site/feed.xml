@@ -5,9 +5,29 @@
     <description>Strong convictions precede great actions.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 23 May 2020 21:23:25 +0530</pubDate>
-    <lastBuildDate>Sat, 23 May 2020 21:23:25 +0530</lastBuildDate>
+    <pubDate>Sun, 07 Jun 2020 16:42:02 +0530</pubDate>
+    <lastBuildDate>Sun, 07 Jun 2020 16:42:02 +0530</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Notes for Confirmation Bias</title>
+        <description>&lt;p&gt;Confirmation Bias&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Confirmation bias is our tendency to interpret facts or events in a way that confirms our pre-existing beliefs.&lt;/li&gt;
+  &lt;li&gt;Asking “What information would make you change your mind?”. If the answer to this is nothing then you know it.&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Sat, 23 May 2020 15:30:12 +0530</pubDate>
+        <link>http://localhost:4000/2020/05/notes-for-confirmation-bias/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/05/notes-for-confirmation-bias/</guid>
+        
+        <category>Biases</category>
+        
+        <category>Notes</category>
+        
+        
+      </item>
     
       <item>
         <title>Notes for The Fearless Organisation</title>
@@ -2054,60 +2074,6 @@ spread of sensory activation to occur&lt;/li&gt;
         <pubDate>Thu, 15 Feb 2018 15:53:34 +0530</pubDate>
         <link>http://localhost:4000/2018/02/notes-for-good-brain-bad-brain/</link>
         <guid isPermaLink="true">http://localhost:4000/2018/02/notes-for-good-brain-bad-brain/</guid>
-        
-        <category>Notes</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Fundamentals of Neuroscience!</title>
-        <description>&lt;p&gt;Course 0:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Guided Interaction&lt;/li&gt;
-  &lt;li&gt;Key to human brain is not the size but the inner wiring, it’s structure and function&lt;/li&gt;
-  &lt;li&gt;Nervous System
-    &lt;ul&gt;
-      &lt;li&gt;CNS (Central Nervous System) contains brain and spinal cord&lt;/li&gt;
-      &lt;li&gt;PNS (Peripheral Nervous System) contains peripheral nervous&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Neurons&lt;/li&gt;
-  &lt;li&gt;Complexity of brains&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Course 1:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Electricity&lt;/li&gt;
-  &lt;li&gt;Galvani and bioelectricity&lt;/li&gt;
-  &lt;li&gt;Volta and artificial electricity&lt;/li&gt;
-  &lt;li&gt;Neuron parts
-    &lt;ul&gt;
-      &lt;li&gt;Cell body or Soma
-        &lt;ul&gt;
-          &lt;li&gt;Membrane Potential (-70 mV between inside and outside of membrane)&lt;/li&gt;
-          &lt;li&gt;Outside part is considered Ground&lt;/li&gt;
-          &lt;li&gt;Water, Proteins, Ions and Sugars&lt;/li&gt;
-          &lt;li&gt;Key Ions (Na, Ca, K, Cl)&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Axons and Dendrites&lt;/li&gt;
-      &lt;li&gt;Lipid Bilayer (Cell Membrane)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Resting Potential
-    &lt;ul&gt;
-      &lt;li&gt;Diffusion (Movement from regions of high concentration to low concentration)&lt;/li&gt;
-      &lt;li&gt;Electrostatic force&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 02 Feb 2018 06:53:34 +0530</pubDate>
-        <link>http://localhost:4000/2018/02/notes-for-fundamentals-of-neuroscience/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/02/notes-for-fundamentals-of-neuroscience/</guid>
         
         <category>Notes</category>
         
