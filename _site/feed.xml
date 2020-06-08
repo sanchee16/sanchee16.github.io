@@ -5,8 +5,8 @@
     <description>Strong convictions precede great actions.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 07 Jun 2020 16:42:02 +0530</pubDate>
-    <lastBuildDate>Sun, 07 Jun 2020 16:42:02 +0530</lastBuildDate>
+    <pubDate>Mon, 08 Jun 2020 23:36:39 +0530</pubDate>
+    <lastBuildDate>Mon, 08 Jun 2020 23:36:39 +0530</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
@@ -112,6 +112,47 @@
         <pubDate>Sat, 23 May 2020 15:30:12 +0530</pubDate>
         <link>http://localhost:4000/2020/05/notes-for-the-fearless-organization/</link>
         <guid isPermaLink="true">http://localhost:4000/2020/05/notes-for-the-fearless-organization/</guid>
+        
+        <category>Book</category>
+        
+        <category>Notes</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Notes for Why We Sleep?</title>
+        <description>&lt;p&gt;To Sleep:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Insufficient sleep is the key reason for demolishing of immune system and increases the risk of diseases like Cancer, Alzheimers, Hearth Attack, Diabetes, Depression, Anxiety etc.&lt;/li&gt;
+  &lt;li&gt;Too little sleep swells concentrations of hormone that makes us hungry and suppresses the one which signals food satisfaction.&lt;/li&gt;
+  &lt;li&gt;Sleep deprivation not only relates to physical disorders but also to mental disorders.&lt;/li&gt;
+  &lt;li&gt;Lack of sleep can kill you outright
+    &lt;ul&gt;
+      &lt;li&gt;Rare genetic disorder called progressive insomnia&lt;/li&gt;
+      &lt;li&gt;Drowsy driving leads atleast 1 death in America per hour&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;We are so ignorant about sleep majorly because we haven’t been able to explain why we need it.&lt;/li&gt;
+  &lt;li&gt;This is the only biological drive we haven’t been able to explain out of eating, drinking, reproducing and sleeping.&lt;/li&gt;
+  &lt;li&gt;From an evolutionary perspective, given we can’t perform any activities and to top it we are more vulnerable to predators it is surprising why we sleep. If sleep doesn’t serve as absolutely vital function, then it is the biggest mistake the evolutionary process has made.&lt;/li&gt;
+  &lt;li&gt;Benefits of sleep
+    &lt;ul&gt;
+      &lt;li&gt;Health ensuring benefits&lt;/li&gt;
+      &lt;li&gt;Mental functions of memory, learning, choices etc.&lt;/li&gt;
+      &lt;li&gt;Recalibration of emotional brain circuits dealing with psychological challenges&lt;/li&gt;
+      &lt;li&gt;Dream&lt;/li&gt;
+      &lt;li&gt;Strenghthens Immunity and Fights Inflammation&lt;/li&gt;
+      &lt;li&gt;Regulates Appetite&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Sleep as a diagnostic litmus test to understand type of dementia based on sleeping brainwaves&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Fri, 08 May 2020 15:30:12 +0530</pubDate>
+        <link>http://localhost:4000/2020/05/notes-for-why-we-sleep/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/05/notes-for-why-we-sleep/</guid>
         
         <category>Book</category>
         
@@ -1964,116 +2005,6 @@ spread of sensory activation to occur&lt;/li&gt;
         <pubDate>Wed, 28 Feb 2018 15:53:34 +0530</pubDate>
         <link>http://localhost:4000/2018/02/notes-for-computational-neuroscience/</link>
         <guid isPermaLink="true">http://localhost:4000/2018/02/notes-for-computational-neuroscience/</guid>
-        
-        <category>Notes</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Good Brain Bad Brain!</title>
-        <description>&lt;p&gt;Week 1:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Gyrus are the parts of the brain visible on the surface between the grooves&lt;/li&gt;
-  &lt;li&gt;The bag that keeps the chemicals together is known as the cell membrane and the chemicals themselves are all that is necessary for that cell to be alive.&lt;/li&gt;
-  &lt;li&gt;According to estimates, humans contain 3.72 × 10^13 cells.&lt;/li&gt;
-  &lt;li&gt;Endocrine system releases harmones.&lt;/li&gt;
-  &lt;li&gt;Cell control = Endocrine + Nervous System&lt;/li&gt;
-  &lt;li&gt;Anatomical division of Nervous System
-    &lt;ul&gt;
-      &lt;li&gt;CNS (Central)
-        &lt;ul&gt;
-          &lt;li&gt;Brain&lt;/li&gt;
-          &lt;li&gt;Spinal Cord&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;PNS (Peripheral)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Brain
-    &lt;ul&gt;
-      &lt;li&gt;Lateral Sulcus&lt;/li&gt;
-      &lt;li&gt;Cental Sulcus&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Based on Sulcuses, we have four parts
-    &lt;ul&gt;
-      &lt;li&gt;Frontal Lobe&lt;/li&gt;
-      &lt;li&gt;Temporal Lobe&lt;/li&gt;
-      &lt;li&gt;Parietal Lobe&lt;/li&gt;
-      &lt;li&gt;Occipital Lobe&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Two types of brain cells
-    &lt;ul&gt;
-      &lt;li&gt;Neurons are information processors and transmitters&lt;/li&gt;
-      &lt;li&gt;Glia cells provide physical support for neurons and may have specific functions too.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Neurons
-    &lt;ul&gt;
-      &lt;li&gt;Usually Colourless&lt;/li&gt;
-      &lt;li&gt;Smaller than most cells&lt;/li&gt;
-      &lt;li&gt;Different structure than most cells
-        &lt;ul&gt;
-          &lt;li&gt;Dendrites&lt;/li&gt;
-          &lt;li&gt;Axon&lt;/li&gt;
-          &lt;li&gt;Ternimals/Synaptic ends&lt;/li&gt;
-          &lt;li&gt;Myelin - type of glia cells which aid the process in axon&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Types of neurons
-    &lt;ul&gt;
-      &lt;li&gt;Sensory&lt;/li&gt;
-      &lt;li&gt;Motor&lt;/li&gt;
-      &lt;li&gt;Interneurons&lt;/li&gt;
-      &lt;li&gt;Neurons in the brain&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Maximum number of neurons as toddlers&lt;/li&gt;
-  &lt;li&gt;Limited areas have neurogenesis properties in adulthood&lt;/li&gt;
-  &lt;li&gt;Darker Areas
-    &lt;ul&gt;
-      &lt;li&gt;Cell bodies and dendrites&lt;/li&gt;
-      &lt;li&gt;Gray Matter&lt;/li&gt;
-      &lt;li&gt;Found on outer surface and center of brain&lt;/li&gt;
-      &lt;li&gt;Folds on the cortical surface are also lined with grey matter and therefore the folds simply act to increase the surface area&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Lighter Areas
-    &lt;ul&gt;
-      &lt;li&gt;Axons&lt;/li&gt;
-      &lt;li&gt;White Matter&lt;/li&gt;
-      &lt;li&gt;Found beneath the gray matter and form bridge between two halves of brain&lt;/li&gt;
-      &lt;li&gt;The myelin produced by the oligodendrocytes is a type of lipid (fat) and has a pale appearance so the color of white matter&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Glial Cell Type
-    &lt;ul&gt;
-      &lt;li&gt;Oligodendrocyte type in CNS&lt;/li&gt;
-      &lt;li&gt;Schwann cell type in PNS&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Why the folded structure
-    &lt;ul&gt;
-      &lt;li&gt;As brain evolved to grow bigger and contain more cells there were two options&lt;/li&gt;
-      &lt;li&gt;Increase surface area or folded structure&lt;/li&gt;
-      &lt;li&gt;Rodents have smooth brains&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Brain function is localised&lt;/li&gt;
-  &lt;li&gt;Similar looking neurons are grouped together and have same functions&lt;/li&gt;
-  &lt;li&gt;Penfield’s maps&lt;/li&gt;
-  &lt;li&gt;Homunculus is neurological map of human body for motor functions&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Thu, 15 Feb 2018 15:53:34 +0530</pubDate>
-        <link>http://localhost:4000/2018/02/notes-for-good-brain-bad-brain/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/02/notes-for-good-brain-bad-brain/</guid>
         
         <category>Notes</category>
         
