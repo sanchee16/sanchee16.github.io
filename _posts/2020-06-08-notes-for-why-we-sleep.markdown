@@ -2,7 +2,7 @@
 layout: post
 title:  "Notes for Why We Sleep?"
 subtitle: "A Book by Matthew Walker"
-date:   2020-05-08 10:00:12
+date:   2020-06-08 10:00:12
 tag: [Book, Notes]
 ---
 
@@ -24,4 +24,4 @@ To Sleep:
     - Strenghthens Immunity and Fights Inflammation
     - Regulates Appetite
 - Sleep as a diagnostic litmus test to understand type of dementia based on sleeping brainwaves
- 
+
