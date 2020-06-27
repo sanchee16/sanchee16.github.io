@@ -3,7 +3,7 @@ layout: post
 title:  "Design Patterns"
 subtitle: "A book by Head First"
 date: 2017-12-18 01:23:34
-tag: [Book, Notes]
+tag: [Book, Notes, Tech]
 ---
 
 Lesson 0:
