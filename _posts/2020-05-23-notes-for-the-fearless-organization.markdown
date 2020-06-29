@@ -11,7 +11,7 @@ Preface:
 - For this to happen, they need to be able to share concerns, questions, mistakes and even half-formed ideas.
 - Psychological safety is the key to performance in today's world. Especially in the world of VUCA (Volatility, Uncertainty, Complexity, Ambiguity)
 - Dynamic collaboration between teams is called Teaming. It's the art of communicating and coordinating with people across boundaries of all kinds.
-- Project Aristotle by Google mentioned PS as the underpinning for all other criteria for the best performing teams. 
+- Project Aristotle by Google mentioned PS as the underpinning for all other criteria for the best performing teams. Others being Dependability, Structure and Clarity, Meaning & Impact.
 
 
 The Underpinning:
