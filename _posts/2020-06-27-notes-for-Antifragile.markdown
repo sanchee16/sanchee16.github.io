@@ -2,7 +2,7 @@
 layout: post
 title:  "Notes for Antifragile"
 subtitle: "A Book by Nassim Nicholas Taleb"
-date:   2020-06-22 10:00:12
+date: 2020-06-27 10:00:12
 tag: [Book, Notes]
 ---
 
@@ -27,3 +27,6 @@ Prologue:
 	- Definition of hero has gone a 360 degree change
 - Antidote to Black Swan:
 	- Events are retrospectively explainable and hence the illusion of predictabililty 
+	- You get pseudo order when you seek order, when you embrace randomness you get order and control.
+	- Complex systems have interdependencies which are hard to detect and have non-linear responses
+	- Manmade complex systems develop cascaded and chain of reactions which are really unpredictable
