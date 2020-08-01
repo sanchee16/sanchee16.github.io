@@ -5,9 +5,217 @@
     <description>Strong convictions precede great actions.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 29 Jun 2020 15:38:38 +0530</pubDate>
-    <lastBuildDate>Mon, 29 Jun 2020 15:38:38 +0530</lastBuildDate>
+    <pubDate>Sun, 02 Aug 2020 01:12:13 +0530</pubDate>
+    <lastBuildDate>Sun, 02 Aug 2020 01:12:13 +0530</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Notes for Storytelling with data</title>
+        <description>&lt;p&gt;Introduction:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;It’s too easy today to generate tables, charts, graphs. There were times when people did illustrations by hand, which meant you had to think before committing pen to paper.&lt;/li&gt;
+  &lt;li&gt;Having all the information in the world at our fingertips doesn’t make it easier to communicate: it makes it harder. The more information you’re dealing with, the more difficult it is to filter down to the most important bits.&lt;/li&gt;
+  &lt;li&gt;Bad graphs are everywhere&lt;/li&gt;
+  &lt;li&gt;Anyone can put some data into a graphing application and create a graph&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Importance of context:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Explorartory vs Explainatory&lt;/li&gt;
+  &lt;li&gt;To whom are we communicating ?
+    &lt;ul&gt;
+      &lt;li&gt;Identifying the decision maker is one way of narrowing your audience.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;What do we want the audience to know or do ?
+    &lt;ul&gt;
+      &lt;li&gt;Focus on discussion around action and prompt them to make a decision&lt;/li&gt;
+      &lt;li&gt;Using Verbs for the same&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;How can you use data to help make your point?
+    &lt;ul&gt;
+      &lt;li&gt;Amount of control vs level of detail&lt;/li&gt;
+      &lt;li&gt;Live Presentation
+        &lt;ul&gt;
+          &lt;li&gt;Practice makes perfect&lt;/li&gt;
+          &lt;li&gt;Able to respond to user cues&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Written Doc&lt;/li&gt;
+      &lt;li&gt;Slidement&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;What tone do you want your communication to set?&lt;/li&gt;
+  &lt;li&gt;What data is available that will help make my point?&lt;/li&gt;
+  &lt;li&gt;Consulting for context
+    &lt;ul&gt;
+      &lt;li&gt;What background information is relevant or essential?&lt;/li&gt;
+      &lt;li&gt;Who is the audience or decision maker? What do we know about them?&lt;/li&gt;
+      &lt;li&gt;What biases does our audience have that might make them supportive of or resistant to our message?&lt;/li&gt;
+      &lt;li&gt;What data is available that would strengthen our case? Is our audi- ence familiar with this data, or is it new?&lt;/li&gt;
+      &lt;li&gt;Where are the risks: what factors could weaken our case and do we need to proactively address them?&lt;/li&gt;
+      &lt;li&gt;What would a successful outcome look like?&lt;/li&gt;
+      &lt;li&gt;If you only had a limited amount of time or a single sentence to tell your audience what they need to know, what would you say?&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;3 minute story and a big idea for precise communication
+    &lt;ul&gt;
+      &lt;li&gt;Big Idea
+        &lt;ul&gt;
+          &lt;li&gt;It must articulate your unique point of view&lt;/li&gt;
+          &lt;li&gt;It must convey what’s at stake&lt;/li&gt;
+          &lt;li&gt;It must be a complete sentence&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;For planning the content use storyboarding
+    &lt;ul&gt;
+      &lt;li&gt;Issue&lt;/li&gt;
+      &lt;li&gt;Pre analysis&lt;/li&gt;
+      &lt;li&gt;Ideas for overcoming the issue&lt;/li&gt;
+      &lt;li&gt;Post analysis&lt;/li&gt;
+      &lt;li&gt;Recommendation&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Choosing an Effective Visual:
+    &lt;ul&gt;
+      &lt;li&gt;Simple text
+        &lt;ul&gt;
+          &lt;li&gt;When you have just a number or two that you want to communicate suse the numbers directly&lt;/li&gt;
+          &lt;li&gt;If you have two numbers, you can represent the change between orginal and new value&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Tables
+        &lt;ul&gt;
+          &lt;li&gt;Never to use it in live presentation&lt;/li&gt;
+          &lt;li&gt;Use light or minimal borders to make data standout&lt;/li&gt;
+          &lt;li&gt;Interact with our verbal system&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Heatmap
+        &lt;ul&gt;
+          &lt;li&gt;Color saturation&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Chart vs Graph&lt;/li&gt;
+      &lt;li&gt;Graphs
+        &lt;ul&gt;
+          &lt;li&gt;Interact with our visual system&lt;/li&gt;
+          &lt;li&gt;Points
+            &lt;ul&gt;
+              &lt;li&gt;Scatterplot&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;Lines
+            &lt;ul&gt;
+              &lt;li&gt;Plot continuous Data/data over time&lt;/li&gt;
+              &lt;li&gt;Focus is on relative position in space so no need to start with 0 baseline&lt;/li&gt;
+              &lt;li&gt;Types
+                &lt;ul&gt;
+                  &lt;li&gt;Standard Line Graph&lt;/li&gt;
+                  &lt;li&gt;Slopegraph
+                    &lt;ul&gt;
+                      &lt;li&gt;Two points of comparison and want to quickly show relative increases and decreases or differences across various categories between the two data points.&lt;/li&gt;
+                    &lt;/ul&gt;
+                  &lt;/li&gt;
+                &lt;/ul&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;Bars
+            &lt;ul&gt;
+              &lt;li&gt;Show categorical data&lt;/li&gt;
+              &lt;li&gt;Start with a 0 baseline&lt;/li&gt;
+              &lt;li&gt;If you want your audience to focus on big‐picture trends, think about preserving the axis but deemphasizing it by making it grey.&lt;/li&gt;
+              &lt;li&gt;If the specific numerical values are important, it may be bet- ter to label the data points directly. Omit the axis to avoid the inclusion of redundant information&lt;/li&gt;
+              &lt;li&gt;Types
+                &lt;ul&gt;
+                  &lt;li&gt;Vertical (Single or multi series)&lt;/li&gt;
+                  &lt;li&gt;Stacked vertical bar
+                    &lt;ul&gt;
+                      &lt;li&gt;Compare totals across categories and see the subcomponent pieces within a given category.&lt;/li&gt;
+                    &lt;/ul&gt;
+                  &lt;/li&gt;
+                  &lt;li&gt;Waterfall
+                    &lt;ul&gt;
+                      &lt;li&gt;Transitions with ins and outs&lt;/li&gt;
+                    &lt;/ul&gt;
+                  &lt;/li&gt;
+                  &lt;li&gt;Horizontal bar
+                    &lt;ul&gt;
+                      &lt;li&gt;Logical ordering of categories. Show most important category at top and rest in decrasing order or vice versa&lt;/li&gt;
+                    &lt;/ul&gt;
+                  &lt;/li&gt;
+                  &lt;li&gt;Stacked horizontal bar
+                    &lt;ul&gt;
+                      &lt;li&gt;Likert scale&lt;/li&gt;
+                      &lt;li&gt;Subcomponent pieces can be structured to show either absolute values or sum to 100%. Showing sum as 100% usually works better&lt;/li&gt;
+                    &lt;/ul&gt;
+                  &lt;/li&gt;
+                &lt;/ul&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;Area
+            &lt;ul&gt;
+              &lt;li&gt;Not too great for human eyes&lt;/li&gt;
+              &lt;li&gt;Except for when to visualize numbers greatly vast magnitude&lt;/li&gt;
+              &lt;li&gt;Types
+                &lt;ul&gt;
+                  &lt;li&gt;Square Area Graphs&lt;/li&gt;
+                &lt;/ul&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Infographic&lt;/li&gt;
+      &lt;li&gt;What to avoid ?
+        &lt;ul&gt;
+          &lt;li&gt;Pie Charts
+            &lt;ul&gt;
+              &lt;li&gt;Replace with horizontal chart&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;Donut Charts&lt;/li&gt;
+          &lt;li&gt;3D Charts&lt;/li&gt;
+          &lt;li&gt;Secondary y-axis
+            &lt;ul&gt;
+              &lt;li&gt;Instead,label the data points that belong on y-axis directly with focus on the data points&lt;/li&gt;
+              &lt;li&gt;Pull the graphs apart vertically and have separate y‐axis for each (both along the left) but leverage the same x‐axis across both with focus on the trend than the numbers&lt;/li&gt;
+              &lt;li&gt;Link the axis to the data to be read against it through the use of color&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;What is the right graph for my situation? Whatever will be easiest for your audience to read.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Clutter is your enemy:
+    &lt;ul&gt;
+      &lt;li&gt;Identify everything that isn’t adding informative value&lt;/li&gt;
+      &lt;li&gt;Cognitive load
+        &lt;ul&gt;
+          &lt;li&gt;As designers of information, we want to be smart about how we use our audience’s brain power.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Tue, 28 Jul 2020 15:30:12 +0530</pubDate>
+        <link>http://localhost:4000/2020/07/notes-for-Storytelling-with-data/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/07/notes-for-Storytelling-with-data/</guid>
+        
+        <category>Book</category>
+        
+        <category>Notes</category>
+        
+        
+      </item>
     
       <item>
         <title>Notes for Antifragile</title>
@@ -1530,162 +1738,6 @@ spread of sensory activation to occur&lt;/li&gt;
         <pubDate>Fri, 23 Mar 2018 15:53:34 +0530</pubDate>
         <link>http://localhost:4000/2018/03/notes-for-visual-perception-and-the-brain/</link>
         <guid isPermaLink="true">http://localhost:4000/2018/03/notes-for-visual-perception-and-the-brain/</guid>
-        
-        <category>Notes</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>The Nervous System!</title>
-        <description>&lt;p&gt;Part 1:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Sensory input -&amp;gt; integration -&amp;gt; motor output&lt;/li&gt;
-  &lt;li&gt;CNS And PNS&lt;/li&gt;
-  &lt;li&gt;PNS
-    &lt;ul&gt;
-      &lt;li&gt;Sensory or affrent division picks up stimuli&lt;/li&gt;
-      &lt;li&gt;Motor or effernt division responds to stimuli
-        &lt;ul&gt;
-          &lt;li&gt;Somatic nervous system (Voluntary) rules skeletal muscle movement&lt;/li&gt;
-          &lt;li&gt;Autonomic nervous system (Involuntary) rules heart beat, breath and stomach chruning
-            &lt;ul&gt;
-              &lt;li&gt;Sympathetic Division fires up the body&lt;/li&gt;
-              &lt;li&gt;Parasympathetic Division relaxes the body&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Neurons&lt;/li&gt;
-  &lt;li&gt;Glial Cells
-    &lt;ul&gt;
-      &lt;li&gt;CNS
-        &lt;ul&gt;
-          &lt;li&gt;Astrocytes surround, support and regulate ions&lt;/li&gt;
-          &lt;li&gt;Microglial Cells defend the neurons and perform immune operations&lt;/li&gt;
-          &lt;li&gt;Ependymal Cells line cavities and create, secrete and circulate cerebrospiral fluid&lt;/li&gt;
-          &lt;li&gt;Oligodendrocytes wrap, insulate and help in forming myelin sheath&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;PNS
-        &lt;ul&gt;
-          &lt;li&gt;Satellite Cells surround neuron cell bodies&lt;/li&gt;
-          &lt;li&gt;Schwann Cells insulate and help in forming myelin sheath&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Longest lived cells in body&lt;/li&gt;
-  &lt;li&gt;Irreplacable&lt;/li&gt;
-  &lt;li&gt;Huge appetites&lt;/li&gt;
-  &lt;li&gt;Soma&lt;/li&gt;
-  &lt;li&gt;Process is a projecting part of an organic structure&lt;/li&gt;
-  &lt;li&gt;Polarity of neurons
-    &lt;ul&gt;
-      &lt;li&gt;Multipolar&lt;/li&gt;
-      &lt;li&gt;Bipolar&lt;/li&gt;
-      &lt;li&gt;Unipolar&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Anatomical Separation
-    &lt;ul&gt;
-      &lt;li&gt;Sensory neurons are usually unipolar and transmit info from body to CNS&lt;/li&gt;
-      &lt;li&gt;Motor neurons are usually multipolar and transmit info from CNS to body&lt;/li&gt;
-      &lt;li&gt;Interneurons or association neurons are usually multipolar, live in CNS and transmit impulses between sensory and motor neurons&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Part 2:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Neurons can send only one signal and transmission is done at uniform strength and speed&lt;/li&gt;
-  &lt;li&gt;Voltage is the measure of potential energy generated by separated charges&lt;/li&gt;
-  &lt;li&gt;Current is the flow of electricity from one point to another&lt;/li&gt;
-  &lt;li&gt;Resistance is the whatever gets in the way of current.&lt;/li&gt;
-  &lt;li&gt;Action Potential&lt;/li&gt;
-  &lt;li&gt;Resting neuron is more negative on the inside and the resting potential is -70mV.
-    &lt;ul&gt;
-      &lt;li&gt;Na K Pump&lt;/li&gt;
-      &lt;li&gt;Electrochemical gradient&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Part 3:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;70% of all sensory receptors are in eyes&lt;/li&gt;
-  &lt;li&gt;Eyes look at electromagnetic radiation travelling in waves
-    &lt;ul&gt;
-      &lt;li&gt;Frequency determine hue&lt;/li&gt;
-      &lt;li&gt;Amplitude determine brightness&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Eye’s photorecptors convert eye’s light energy into nerve impulses&lt;/li&gt;
-  &lt;li&gt;Lacrimal Glands, Eyebrows, Eyelids and Eyelashes are protective equipments&lt;/li&gt;
-  &lt;li&gt;Globe luxation&lt;/li&gt;
-  &lt;li&gt;Layers of eye
-    &lt;ul&gt;
-      &lt;li&gt;Fibrous
-        &lt;ul&gt;
-          &lt;li&gt;Sclera made of white connective tissue&lt;/li&gt;
-          &lt;li&gt;Cornea&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Vascular
-        &lt;ul&gt;
-          &lt;li&gt;Choroid supplies blood to all layers&lt;/li&gt;
-          &lt;li&gt;Ciliary body&lt;/li&gt;
-          &lt;li&gt;Iris&lt;/li&gt;
-          &lt;li&gt;Pupil&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Inner
-        &lt;ul&gt;
-          &lt;li&gt;Retina
-            &lt;ul&gt;
-              &lt;li&gt;Pigmented Layer&lt;/li&gt;
-              &lt;li&gt;Neural Layer
-                &lt;ul&gt;
-                  &lt;li&gt;Photoreceptors
-                    &lt;ul&gt;
-                      &lt;li&gt;Rods
-                        &lt;ul&gt;
-                          &lt;li&gt;Numerous and light sensitive&lt;/li&gt;
-                          &lt;li&gt;Grayscale of black and white&lt;/li&gt;
-                          &lt;li&gt;Tell about general shape and features not details&lt;/li&gt;
-                        &lt;/ul&gt;
-                      &lt;/li&gt;
-                      &lt;li&gt;Cones
-                        &lt;ul&gt;
-                          &lt;li&gt;Find fine detail and color&lt;/li&gt;
-                          &lt;li&gt;Red, blue and green sensitive types&lt;/li&gt;
-                        &lt;/ul&gt;
-                      &lt;/li&gt;
-                    &lt;/ul&gt;
-                  &lt;/li&gt;
-                  &lt;li&gt;Ganglion Neurons&lt;/li&gt;
-                  &lt;li&gt;Bipolar Neurons&lt;/li&gt;
-                &lt;/ul&gt;
-              &lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Optic nerve&lt;/li&gt;
-  &lt;li&gt;Photoreceptors can make us see after images&lt;/li&gt;
-  &lt;li&gt;Cones can get tired and hence many illusions&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 23 Mar 2018 15:53:34 +0530</pubDate>
-        <link>http://localhost:4000/2018/03/notes-for-nervous-system-youtube-crash-course/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/03/notes-for-nervous-system-youtube-crash-course/</guid>
         
         <category>Notes</category>
         
