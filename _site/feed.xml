@@ -5,9 +5,358 @@
     <description>Strong convictions precede great actions.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 02 Aug 2020 01:12:13 +0530</pubDate>
-    <lastBuildDate>Sun, 02 Aug 2020 01:12:13 +0530</lastBuildDate>
+    <pubDate>Sun, 06 Sep 2020 18:48:20 +0530</pubDate>
+    <lastBuildDate>Sun, 06 Sep 2020 18:48:20 +0530</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Notes for Sprint</title>
+        <description>&lt;p&gt;Preface:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;It all started when Jake wanted to make his days more productive and meaningful&lt;/li&gt;
+  &lt;li&gt;Further trigger came when someone asked Jake - “How do you know brainstorming works?”&lt;/li&gt;
+  &lt;li&gt;His experience with Priority Inbox and Google Hangouts Projects&lt;/li&gt;
+  &lt;li&gt;He retrospected on how were these two projects different than brainstorming
+    &lt;ul&gt;
+      &lt;li&gt;Sufficient time but not too much time&lt;/li&gt;
+      &lt;li&gt;Focus on individual work&lt;/li&gt;
+      &lt;li&gt;Time to prototype&lt;/li&gt;
+      &lt;li&gt;Inescapable deadline&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Jake joining Google Ventures
+    &lt;ul&gt;
+      &lt;li&gt;Barden Kowitz added story-centered design&lt;/li&gt;
+      &lt;li&gt;John Zeratsky helped bring in the idea of starting at the end&lt;/li&gt;
+      &lt;li&gt;Michael Margolis helped in figuring out how to bring results in one day&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Sprint is a way to get more done faster be it solving big probems or testing out new ideas&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Introduction:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Savioke Labs &amp;amp; Willow Garage&lt;/li&gt;
+  &lt;li&gt;Monday is all about the problem. Pick up a problem and the important area to focus.
+    &lt;ul&gt;
+      &lt;li&gt;Have a question that you are trying to answer ?&lt;/li&gt;
+      &lt;li&gt;Create a map to identify big risks; thinking of map like a story&lt;/li&gt;
+      &lt;li&gt;Ask questions that worry you&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Tuesday move from problem to solutions
+    &lt;ul&gt;
+      &lt;li&gt;Let people sketch their solutions&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Wednesday finalize on the solution and turn ideas into testable hypothesis&lt;/li&gt;
+  &lt;li&gt;Thursday build the prototype; Voting and structured discussion&lt;/li&gt;
+  &lt;li&gt;Friday present to the customer
+    &lt;ul&gt;
+      &lt;li&gt;Build up for the interview and keep things as surprise for the end user if possible&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Good ideas are hard to find. Execution is even more difficult.&lt;/li&gt;
+  &lt;li&gt;Payoff of a success as a part of sprint is amazing but any failures mean quick learnings and high ROI&lt;/li&gt;
+  &lt;li&gt;Sprint is a practical way to deploy lean philosophy and design thinking&lt;/li&gt;
+  &lt;li&gt;Also, complimentary to agile&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Set the stage:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Right challenge with the right team with time and space to conduct it&lt;/li&gt;
+  &lt;li&gt;Challenge
+    &lt;ul&gt;
+      &lt;li&gt;Blue Bottle Story&lt;/li&gt;
+      &lt;li&gt;The bigger the challenge the better the sprint&lt;/li&gt;
+      &lt;li&gt;When to organize for a sprint:
+        &lt;ul&gt;
+          &lt;li&gt;High Stakes&lt;/li&gt;
+          &lt;li&gt;Not Enough Time&lt;/li&gt;
+          &lt;li&gt;Just plain stuck&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Graco Story&lt;/li&gt;
+      &lt;li&gt;No problem is too large for sprint
+        &lt;ul&gt;
+          &lt;li&gt;Focus on pressing questions&lt;/li&gt;
+          &lt;li&gt;Learn from the surface of finished products&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Team
+    &lt;ul&gt;
+      &lt;li&gt;Sprint resembles perfectly orchesterated heist&lt;/li&gt;
+      &lt;li&gt;The Decider is the ofiicial decision maker of the project
+        &lt;ul&gt;
+          &lt;li&gt;He brings core values &amp;amp; vision&lt;/li&gt;
+          &lt;li&gt;Rapid Progress&lt;/li&gt;
+          &lt;li&gt;Experiment&lt;/li&gt;
+          &lt;li&gt;Explain the tradeoffs&lt;/li&gt;
+          &lt;li&gt;Focus&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;7 people or fewer&lt;/li&gt;
+      &lt;li&gt;Mix of experts and executioners
+        &lt;ul&gt;
+          &lt;li&gt;Decider&lt;/li&gt;
+          &lt;li&gt;Finance Expert&lt;/li&gt;
+          &lt;li&gt;Marketing Expert&lt;/li&gt;
+          &lt;li&gt;Marketing Expert&lt;/li&gt;
+          &lt;li&gt;Customer Expert&lt;/li&gt;
+          &lt;li&gt;Tech/Logistics Expert&lt;/li&gt;
+          &lt;li&gt;Design Expert&lt;/li&gt;
+          &lt;li&gt;Troublemaker - Rebel vs Jerk&lt;/li&gt;
+          &lt;li&gt;Facilitator&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Deep expertise and excitement about the challenge&lt;/li&gt;
+      &lt;li&gt;Schedule extra experts on Monday&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Time and Space
+    &lt;ul&gt;
+      &lt;li&gt;Fragmentation hurts productivity&lt;/li&gt;
+      &lt;li&gt;10-5&lt;/li&gt;
+      &lt;li&gt;Ensure high energy level throughout the week&lt;/li&gt;
+      &lt;li&gt;Weekends cause a loss of continuity&lt;/li&gt;
+      &lt;li&gt;Breaks as pressure release valves&lt;/li&gt;
+      &lt;li&gt;No device rule. Exceptions being
+        &lt;ul&gt;
+          &lt;li&gt;Check the device during the break&lt;/li&gt;
+          &lt;li&gt;Okay to leave the room to check the device&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Whiteboards make us smarter
+        &lt;ul&gt;
+          &lt;li&gt;Check the whiteboard before the sprint starts&lt;/li&gt;
+          &lt;li&gt;Short term memory of humans isn’t that great as the spatial memory is.&lt;/li&gt;
+          &lt;li&gt;The simulatneous visbility of these project materials helps us identify patterns and encourages creative synthesis to occur much more readily than when these resources are hidden away in file folders, notebooks, PowerPoint Decks. - Tim Brown&lt;/li&gt;
+          &lt;li&gt;2 whiteboards
+            &lt;ul&gt;
+              &lt;li&gt;Rolling Whiteboards&lt;/li&gt;
+              &lt;li&gt;IdeaPaint&lt;/li&gt;
+              &lt;li&gt;Paper&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Stock up the supplies&lt;/li&gt;
+      &lt;li&gt;FN
+        &lt;ul&gt;
+          &lt;li&gt;Magic Clock
+            &lt;ul&gt;
+              &lt;li&gt;Time Timer&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Monday:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Start at the End
+    &lt;ul&gt;
+      &lt;li&gt;Apollo 13 story
+        &lt;ul&gt;
+          &lt;li&gt;Clear goal and a simple diagram keep the team focussed on the right problems&lt;/li&gt;
+          &lt;li&gt;Organized and sorted priorities before starting on solutions&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Start at the End
+        &lt;ul&gt;
+          &lt;li&gt;Look ahead to end of the sprint&lt;/li&gt;
+          &lt;li&gt;&lt;strong&gt;&lt;em&gt;Set a long term goal&lt;/em&gt;&lt;/strong&gt;
+            &lt;ul&gt;
+              &lt;li&gt;Why are we doing this project ?&lt;/li&gt;
+              &lt;li&gt;In 6 months time, what would have improved in business?&lt;/li&gt;
+              &lt;li&gt;Slow down and clarify if required but spend time on this&lt;/li&gt;
+              &lt;li&gt;What makes the goal challenging and ambitious ?&lt;/li&gt;
+              &lt;li&gt;Goal should reflect team principles and aspirations&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;&lt;strong&gt;&lt;em&gt;Sprint Questions&lt;/em&gt;&lt;/strong&gt;
+            &lt;ul&gt;
+              &lt;li&gt;The questions that must be answered this week&lt;/li&gt;
+              &lt;li&gt;What will have to be true for us to meet the long term goal ?&lt;/li&gt;
+              &lt;li&gt;Is it scalable ?&lt;/li&gt;
+              &lt;li&gt;Imagine a bleaky future to examine the assumptions
+                &lt;ul&gt;
+                  &lt;li&gt;What caused it to fail ?&lt;/li&gt;
+                  &lt;li&gt;How did the goal go wrong ?&lt;/li&gt;
+                &lt;/ul&gt;
+              &lt;/li&gt;
+              &lt;li&gt;Rephrase Assumptions and Obstacles into questions
+                &lt;ul&gt;
+                  &lt;li&gt;Creates a subtle shift from uncertainity which is uncomfortable to curiosity which is exciting&lt;/li&gt;
+                &lt;/ul&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Map
+    &lt;ul&gt;
+      &lt;li&gt;Shows user moving through your service or product&lt;/li&gt;
+      &lt;li&gt;Helps to narrow broad challenge into a specific target&lt;/li&gt;
+      &lt;li&gt;Structure for solution sketches and prototype&lt;/li&gt;
+      &lt;li&gt;They have to be &lt;strong&gt;simple&lt;/strong&gt;&lt;/li&gt;
+      &lt;li&gt;Maps are customer centric and have a story; a beginning, middle and an end&lt;/li&gt;
+      &lt;li&gt;Maps have key actors on the left; final action.ending on the right and all the steps in between these two extremes&lt;/li&gt;
+      &lt;li&gt;5-15 steps at max&lt;/li&gt;
+      &lt;li&gt;Ask for help&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Ask the Experts
+    &lt;ul&gt;
+      &lt;li&gt;Nobody knows everything
+        &lt;ul&gt;
+          &lt;li&gt;Strategy
+            &lt;ul&gt;
+              &lt;li&gt;Start by talking to Decider
+                &lt;ul&gt;
+                  &lt;li&gt;What will make this project a success ?&lt;/li&gt;
+                  &lt;li&gt;What’s our unique advantage or oppotunity ?&lt;/li&gt;
+                  &lt;li&gt;What’s the biggest risk ?&lt;/li&gt;
+                &lt;/ul&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;Voice of customer&lt;/li&gt;
+          &lt;li&gt;How things work ? Who understands the product the best ?&lt;/li&gt;
+          &lt;li&gt;Previous Efforts&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Early input in the process makes people more invested in the outcome. They become the supporters&lt;/li&gt;
+      &lt;li&gt;Steps
+        &lt;ul&gt;
+          &lt;li&gt;Introduce the sprint&lt;/li&gt;
+          &lt;li&gt;Review the whiteboards - goal, sprint questions and map&lt;/li&gt;
+          &lt;li&gt;Ask them to tell you what they about the challenge&lt;/li&gt;
+          &lt;li&gt;Ask Questions
+            &lt;ul&gt;
+              &lt;li&gt;Act like a bunch of reporters digging for a story&lt;/li&gt;
+              &lt;li&gt;Ask them whar can go wrong&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;Fix the whiteboards&lt;/li&gt;
+          &lt;li&gt;If they truly are experts; they will tell you what you don’t even know how to ask&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;How Might We
+        &lt;ul&gt;
+          &lt;li&gt;Open minded and optimistic phrasing to look out for opportunities and challenges&lt;/li&gt;
+          &lt;li&gt;Don’t get bogged down by the problems&lt;/li&gt;
+          &lt;li&gt;Remind us … is a useful question&lt;/li&gt;
+          &lt;li&gt;Neither to broad nor too narrow questions&lt;/li&gt;
+          &lt;li&gt;Organise how might we into groups
+            &lt;ul&gt;
+              &lt;li&gt;Misfit notes labelled as Misc&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;Put the highest voted notes on the map&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Target
+    &lt;ul&gt;
+      &lt;li&gt;By looking at goal, map and the how might we notes, the target mostly pops right out&lt;/li&gt;
+      &lt;li&gt;Place on the map where you have the biggest opportunity to do something great&lt;/li&gt;
+      &lt;li&gt;Pick one target customer and one target event&lt;/li&gt;
+      &lt;li&gt;Straw Poll&lt;/li&gt;
+      &lt;li&gt;See which sprint question lines up with the target&lt;/li&gt;
+      &lt;li&gt;FN
+        &lt;ul&gt;
+          &lt;li&gt;Ask for Permission
+            &lt;ul&gt;
+              &lt;li&gt;For keeping track of time&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;Always be capturing
+            &lt;ul&gt;
+              &lt;li&gt;Does it look right ?&lt;/li&gt;
+              &lt;li&gt;How do we capture that ?&lt;/li&gt;
+              &lt;li&gt;Is there a good way to capture this thinking and move on ?&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;Ask obvious questions
+            &lt;ul&gt;
+              &lt;li&gt;Dumb questions are genuine for outsiders&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;Take care of humans
+            &lt;ul&gt;
+              &lt;li&gt;Take frequent breaks&lt;/li&gt;
+              &lt;li&gt;Lunch late at 1 pm&lt;/li&gt;
+              &lt;li&gt;Eat light and often&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;Decide and move on&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Tuesday:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Remix and Improve
+    &lt;ul&gt;
+      &lt;li&gt;Coffee, Blotting Paper and Melitta Bentz&lt;/li&gt;
+      &lt;li&gt;Great innovation is built on existing ideas, repurposed with vision&lt;/li&gt;
+      &lt;li&gt;Remix and Improve but never blindly copy&lt;/li&gt;
+      &lt;li&gt;Lightening demos
+        &lt;ul&gt;
+          &lt;li&gt;3 minute tours&lt;/li&gt;
+          &lt;li&gt;Other products, different domains, within own company (inprogress but unfinished ideas or old abandoned ideas)&lt;/li&gt;
+          &lt;li&gt;Tcho - chocholate-bar wrapper &amp;amp; My neightbour Totoro&lt;/li&gt;
+          &lt;li&gt;How Lightening Demos work ?
+            &lt;ul&gt;
+              &lt;li&gt;Make a list
+                &lt;ul&gt;
+                  &lt;li&gt;Which other fields to draw inspiration from ?&lt;/li&gt;
+                &lt;/ul&gt;
+              &lt;/li&gt;
+              &lt;li&gt;Three minute demos to talk about what’s so cool about it&lt;/li&gt;
+              &lt;li&gt;Capture big ideas on the go
+                &lt;ul&gt;
+                  &lt;li&gt;What’s the big idea here that might be useful&lt;/li&gt;
+                &lt;/ul&gt;
+              &lt;/li&gt;
+              &lt;li&gt;Don’t make decisions and debate while demo happens&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Divide or swarm
+        &lt;ul&gt;
+          &lt;li&gt;Should you split the team into groups to tackle different parts of the problem or should you all focus on the same spot ?&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Sketch&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;FN - Facilitator Notes&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 08 Aug 2020 15:30:12 +0530</pubDate>
+        <link>http://localhost:4000/2020/08/notes-for-sprint/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/08/notes-for-sprint/</guid>
+        
+        <category>Book</category>
+        
+        <category>Notes</category>
+        
+        
+      </item>
     
       <item>
         <title>Notes for Storytelling with data</title>
@@ -79,128 +428,128 @@
       &lt;li&gt;Recommendation&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;Choosing an Effective Visual:
+&lt;/ul&gt;
+
+&lt;p&gt;Choosing an Effective Visual:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Simple text
     &lt;ul&gt;
-      &lt;li&gt;Simple text
-        &lt;ul&gt;
-          &lt;li&gt;When you have just a number or two that you want to communicate suse the numbers directly&lt;/li&gt;
-          &lt;li&gt;If you have two numbers, you can represent the change between orginal and new value&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Tables
-        &lt;ul&gt;
-          &lt;li&gt;Never to use it in live presentation&lt;/li&gt;
-          &lt;li&gt;Use light or minimal borders to make data standout&lt;/li&gt;
-          &lt;li&gt;Interact with our verbal system&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Heatmap
-        &lt;ul&gt;
-          &lt;li&gt;Color saturation&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Chart vs Graph&lt;/li&gt;
-      &lt;li&gt;Graphs
-        &lt;ul&gt;
-          &lt;li&gt;Interact with our visual system&lt;/li&gt;
-          &lt;li&gt;Points
-            &lt;ul&gt;
-              &lt;li&gt;Scatterplot&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-          &lt;li&gt;Lines
-            &lt;ul&gt;
-              &lt;li&gt;Plot continuous Data/data over time&lt;/li&gt;
-              &lt;li&gt;Focus is on relative position in space so no need to start with 0 baseline&lt;/li&gt;
-              &lt;li&gt;Types
-                &lt;ul&gt;
-                  &lt;li&gt;Standard Line Graph&lt;/li&gt;
-                  &lt;li&gt;Slopegraph
-                    &lt;ul&gt;
-                      &lt;li&gt;Two points of comparison and want to quickly show relative increases and decreases or differences across various categories between the two data points.&lt;/li&gt;
-                    &lt;/ul&gt;
-                  &lt;/li&gt;
-                &lt;/ul&gt;
-              &lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-          &lt;li&gt;Bars
-            &lt;ul&gt;
-              &lt;li&gt;Show categorical data&lt;/li&gt;
-              &lt;li&gt;Start with a 0 baseline&lt;/li&gt;
-              &lt;li&gt;If you want your audience to focus on big‐picture trends, think about preserving the axis but deemphasizing it by making it grey.&lt;/li&gt;
-              &lt;li&gt;If the specific numerical values are important, it may be bet- ter to label the data points directly. Omit the axis to avoid the inclusion of redundant information&lt;/li&gt;
-              &lt;li&gt;Types
-                &lt;ul&gt;
-                  &lt;li&gt;Vertical (Single or multi series)&lt;/li&gt;
-                  &lt;li&gt;Stacked vertical bar
-                    &lt;ul&gt;
-                      &lt;li&gt;Compare totals across categories and see the subcomponent pieces within a given category.&lt;/li&gt;
-                    &lt;/ul&gt;
-                  &lt;/li&gt;
-                  &lt;li&gt;Waterfall
-                    &lt;ul&gt;
-                      &lt;li&gt;Transitions with ins and outs&lt;/li&gt;
-                    &lt;/ul&gt;
-                  &lt;/li&gt;
-                  &lt;li&gt;Horizontal bar
-                    &lt;ul&gt;
-                      &lt;li&gt;Logical ordering of categories. Show most important category at top and rest in decrasing order or vice versa&lt;/li&gt;
-                    &lt;/ul&gt;
-                  &lt;/li&gt;
-                  &lt;li&gt;Stacked horizontal bar
-                    &lt;ul&gt;
-                      &lt;li&gt;Likert scale&lt;/li&gt;
-                      &lt;li&gt;Subcomponent pieces can be structured to show either absolute values or sum to 100%. Showing sum as 100% usually works better&lt;/li&gt;
-                    &lt;/ul&gt;
-                  &lt;/li&gt;
-                &lt;/ul&gt;
-              &lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-          &lt;li&gt;Area
-            &lt;ul&gt;
-              &lt;li&gt;Not too great for human eyes&lt;/li&gt;
-              &lt;li&gt;Except for when to visualize numbers greatly vast magnitude&lt;/li&gt;
-              &lt;li&gt;Types
-                &lt;ul&gt;
-                  &lt;li&gt;Square Area Graphs&lt;/li&gt;
-                &lt;/ul&gt;
-              &lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Infographic&lt;/li&gt;
-      &lt;li&gt;What to avoid ?
-        &lt;ul&gt;
-          &lt;li&gt;Pie Charts
-            &lt;ul&gt;
-              &lt;li&gt;Replace with horizontal chart&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-          &lt;li&gt;Donut Charts&lt;/li&gt;
-          &lt;li&gt;3D Charts&lt;/li&gt;
-          &lt;li&gt;Secondary y-axis
-            &lt;ul&gt;
-              &lt;li&gt;Instead,label the data points that belong on y-axis directly with focus on the data points&lt;/li&gt;
-              &lt;li&gt;Pull the graphs apart vertically and have separate y‐axis for each (both along the left) but leverage the same x‐axis across both with focus on the trend than the numbers&lt;/li&gt;
-              &lt;li&gt;Link the axis to the data to be read against it through the use of color&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;What is the right graph for my situation? Whatever will be easiest for your audience to read.&lt;/li&gt;
+      &lt;li&gt;When you have just a number or two that you want to communicate suse the numbers directly&lt;/li&gt;
+      &lt;li&gt;If you have two numbers, you can represent the change between orginal and new value&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;Clutter is your enemy:
+  &lt;li&gt;Tables
     &lt;ul&gt;
-      &lt;li&gt;Identify everything that isn’t adding informative value&lt;/li&gt;
-      &lt;li&gt;Cognitive load
+      &lt;li&gt;Never to use it in live presentation&lt;/li&gt;
+      &lt;li&gt;Use light or minimal borders to make data standout&lt;/li&gt;
+      &lt;li&gt;Interact with our verbal system&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Heatmap
+    &lt;ul&gt;
+      &lt;li&gt;Color saturation&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Chart vs Graph&lt;/li&gt;
+  &lt;li&gt;Graphs
+    &lt;ul&gt;
+      &lt;li&gt;Interact with our visual system&lt;/li&gt;
+      &lt;li&gt;Points
         &lt;ul&gt;
-          &lt;li&gt;As designers of information, we want to be smart about how we use our audience’s brain power.&lt;/li&gt;
+          &lt;li&gt;Scatterplot&lt;/li&gt;
         &lt;/ul&gt;
       &lt;/li&gt;
+      &lt;li&gt;Lines
+        &lt;ul&gt;
+          &lt;li&gt;Plot continuous Data/data over time&lt;/li&gt;
+          &lt;li&gt;Focus is on relative position in space so no need to start with 0 baseline&lt;/li&gt;
+          &lt;li&gt;Types
+            &lt;ul&gt;
+              &lt;li&gt;Standard Line Graph&lt;/li&gt;
+              &lt;li&gt;Slopegraph
+                &lt;ul&gt;
+                  &lt;li&gt;Two points of comparison and want to quickly show relative increases and decreases or differences across various categories between the two data points.&lt;/li&gt;
+                &lt;/ul&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Bars
+        &lt;ul&gt;
+          &lt;li&gt;Show categorical data&lt;/li&gt;
+          &lt;li&gt;Start with a 0 baseline&lt;/li&gt;
+          &lt;li&gt;If you want your audience to focus on big‐picture trends, think about preserving the axis but deemphasizing it by making it grey.&lt;/li&gt;
+          &lt;li&gt;If the specific numerical values are important, it may be bet- ter to label the data points directly. Omit the axis to avoid the inclusion of redundant information&lt;/li&gt;
+          &lt;li&gt;Types
+            &lt;ul&gt;
+              &lt;li&gt;Vertical (Single or multi series)&lt;/li&gt;
+              &lt;li&gt;Stacked vertical bar
+                &lt;ul&gt;
+                  &lt;li&gt;Compare totals across categories and see the subcomponent pieces within a given category.&lt;/li&gt;
+                &lt;/ul&gt;
+              &lt;/li&gt;
+              &lt;li&gt;Waterfall
+                &lt;ul&gt;
+                  &lt;li&gt;Transitions with ins and outs&lt;/li&gt;
+                &lt;/ul&gt;
+              &lt;/li&gt;
+              &lt;li&gt;Horizontal bar
+                &lt;ul&gt;
+                  &lt;li&gt;Logical ordering of categories. Show most important category at top and rest in decrasing order or vice versa&lt;/li&gt;
+                &lt;/ul&gt;
+              &lt;/li&gt;
+              &lt;li&gt;Stacked horizontal bar
+                &lt;ul&gt;
+                  &lt;li&gt;Likert scale&lt;/li&gt;
+                  &lt;li&gt;Subcomponent pieces can be structured to show either absolute values or sum to 100%. Showing sum as 100% usually works better&lt;/li&gt;
+                &lt;/ul&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Area
+        &lt;ul&gt;
+          &lt;li&gt;Not too great for human eyes&lt;/li&gt;
+          &lt;li&gt;Except for when to visualize numbers greatly vast magnitude&lt;/li&gt;
+          &lt;li&gt;Types
+            &lt;ul&gt;
+              &lt;li&gt;Square Area Graphs&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Infographic&lt;/li&gt;
+  &lt;li&gt;What to avoid ?
+    &lt;ul&gt;
+      &lt;li&gt;Pie Charts
+        &lt;ul&gt;
+          &lt;li&gt;Replace with horizontal chart&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Donut Charts&lt;/li&gt;
+      &lt;li&gt;3D Charts&lt;/li&gt;
+      &lt;li&gt;Secondary y-axis
+        &lt;ul&gt;
+          &lt;li&gt;Instead,label the data points that belong on y-axis directly with focus on the data points&lt;/li&gt;
+          &lt;li&gt;Pull the graphs apart vertically and have separate y‐axis for each (both along the left) but leverage the same x‐axis across both with focus on the trend than the numbers&lt;/li&gt;
+          &lt;li&gt;Link the axis to the data to be read against it through the use of color&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;What is the right graph for my situation? Whatever will be easiest for your audience to read.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Clutter is your enemy:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Identify everything that isn’t adding informative value&lt;/li&gt;
+  &lt;li&gt;Cognitive load
+    &lt;ul&gt;
+      &lt;li&gt;As designers of information, we want to be smart about how we use our audience’s brain power.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
@@ -1570,174 +1919,6 @@ spread of sensory activation to occur&lt;/li&gt;
         <pubDate>Sun, 03 Jun 2018 15:53:34 +0530</pubDate>
         <link>http://localhost:4000/2018/06/notes-for-neuromarketing/</link>
         <guid isPermaLink="true">http://localhost:4000/2018/06/notes-for-neuromarketing/</guid>
-        
-        <category>Notes</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Visual Perception and the Brain!</title>
-        <description>&lt;p&gt;Week 1:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Can’t explain perception which is the end result of vision&lt;/li&gt;
-  &lt;li&gt;Perception is what we are aware of&lt;/li&gt;
-  &lt;li&gt;Physical Measurements are objective&lt;/li&gt;
-  &lt;li&gt;Psychophysical Measurements are subjective&lt;/li&gt;
-  &lt;li&gt;Perception of Luminacnce
-    &lt;ul&gt;
-      &lt;li&gt;Relative Lightness&lt;/li&gt;
-      &lt;li&gt;Measured with phonometer&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Spectrophotometer&lt;/li&gt;
-  &lt;li&gt;Geometry
-    &lt;ul&gt;
-      &lt;li&gt;Angle Perception&lt;/li&gt;
-      &lt;li&gt;Motion Perception&lt;/li&gt;
-      &lt;li&gt;Direction Perception&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Perception is at odds with reality&lt;/li&gt;
-  &lt;li&gt;Inverse Optics Problem ie no way of getting back the exact composition of retinal stimulus&lt;/li&gt;
-  &lt;li&gt;Inverse problems makes source of any image uncertain&lt;/li&gt;
-  &lt;li&gt;Source of Illumination&lt;/li&gt;
-  &lt;li&gt;3D object surfaces&lt;/li&gt;
-  &lt;li&gt;Atmosphere&lt;/li&gt;
-  &lt;li&gt;Retinal Stimulus is compilation of
-    &lt;ul&gt;
-      &lt;li&gt;Illumination&lt;/li&gt;
-      &lt;li&gt;Reflectance&lt;/li&gt;
-      &lt;li&gt;Transmittance is the alteration of light by the atmosphere&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Visual Stimuli&lt;/li&gt;
-  &lt;li&gt;Light and Electromagnetic Radiation
-    &lt;ul&gt;
-      &lt;li&gt;Human visual system from 400 nm to 700 nm&lt;/li&gt;
-      &lt;li&gt;To lower size range, the energy tends to damange cells&lt;/li&gt;
-      &lt;li&gt;To greater size range, the energy tends to be present as heat&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Making an image
-    &lt;ul&gt;
-      &lt;li&gt;There is no image out there in the world just the mess of photons&lt;/li&gt;
-      &lt;li&gt;Cornea orders out this photonic flux&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Eye
-    &lt;ul&gt;
-      &lt;li&gt;Cornea
-        &lt;ul&gt;
-          &lt;li&gt;Refractive Abilities&lt;/li&gt;
-          &lt;li&gt;Refrative index is greater than air&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Lens is attached by zonule fibres
-        &lt;ul&gt;
-          &lt;li&gt;Involved in fine bending of light&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Cilliary muscles contract or relax to change the shape of lens&lt;/li&gt;
-      &lt;li&gt;Vitreous Humor&lt;/li&gt;
-      &lt;li&gt;Optic Disk (Papilla)&lt;/li&gt;
-      &lt;li&gt;Macula Lutea&lt;/li&gt;
-      &lt;li&gt;Ophtalmic Arteries and Veins&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Eye Tracking
-    &lt;ul&gt;
-      &lt;li&gt;Saccadic Eye movements&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Retina
-    &lt;ul&gt;
-      &lt;li&gt;Interface between neural and non-neural parts of eye&lt;/li&gt;
-      &lt;li&gt;Fovea&lt;/li&gt;
-      &lt;li&gt;Pigment Epithelium&lt;/li&gt;
-      &lt;li&gt;Photoreceptor Layer
-        &lt;ul&gt;
-          &lt;li&gt;Rods and Cones&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Ganglion Cells are output layer cells&lt;/li&gt;
-      &lt;li&gt;Bipolar Cells responsible for high resolution&lt;/li&gt;
-      &lt;li&gt;Amarcrine Cells responsible for capturing horizontal information&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Light -&amp;gt; To Optic Nerve -&amp;gt; Ganglion Cell -&amp;gt; Amacrine Cell -&amp;gt; Bipolar Cell -&amp;gt; Horizontal Cell -&amp;gt; Rods -&amp;gt; Cones -&amp;gt; Photoreceptors -&amp;gt; Pigment Eplithelium&lt;/li&gt;
-  &lt;li&gt;Photo receptors have a high metabolic rate and discs on Pigment epithelium are turned over at high rate and are being degraded and need to be removed on an ongoing basis to function properly&lt;/li&gt;
-  &lt;li&gt;Distribution of rods and cones
-    &lt;ul&gt;
-      &lt;li&gt;Cones are concentated near and at the center of fovea&lt;/li&gt;
-      &lt;li&gt;Rods are concentrated near the periphery of retina&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Cone function is one to one and rod function is many to one&lt;/li&gt;
-  &lt;li&gt;At absolute thrshold of vision rods operate and in bright sunlight cones operate and in moonlight both operate&lt;/li&gt;
-  &lt;li&gt;Primary Visual Pathway
-    &lt;ul&gt;
-      &lt;li&gt;Eye&lt;/li&gt;
-      &lt;li&gt;Thalamus&lt;/li&gt;
-      &lt;li&gt;Primary visual cortex&lt;/li&gt;
-      &lt;li&gt;Superior Colliculus
-        &lt;ul&gt;
-          &lt;li&gt;Concerened with eye and head movements&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Autonomic Pathway
-    &lt;ul&gt;
-      &lt;li&gt;Pupilary Light Reflex
-        &lt;ul&gt;
-          &lt;li&gt;Concerned with pupil dilation&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Optic Chaism
-    &lt;ul&gt;
-      &lt;li&gt;Place where visual information crossing happens&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Tail flip effect
-    &lt;ul&gt;
-      &lt;li&gt;Information flipping and going on opposite side of brain&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Thalamus
-    &lt;ul&gt;
-      &lt;li&gt;Way station responsible for sensory organs&lt;/li&gt;
-      &lt;li&gt;Lateral Geniculate Nucleus responsible for vision
-        &lt;ul&gt;
-          &lt;li&gt;4 parvo-cellular layers concerned with full view vision, precision and color&lt;/li&gt;
-          &lt;li&gt;2 magno-cellular layers concerned with grosser change in the image or movement&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Retinotopy
-    &lt;ul&gt;
-      &lt;li&gt;Neighbour relationship of pixels of image&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Ganglion Cells of retina
-    &lt;ul&gt;
-      &lt;li&gt;parvo-ganglion cells&lt;/li&gt;
-      &lt;li&gt;magno-ganglion cells&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;PVC in occipital lobe&lt;/li&gt;
-  &lt;li&gt;Peak are gyri and valleys are sulci in the brain&lt;/li&gt;
-  &lt;li&gt;Optic Radiation are the optic fibres going from the the thalamus to Visual Cortex and vice versa&lt;/li&gt;
-  &lt;li&gt;Striate Cortex&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 23 Mar 2018 15:53:34 +0530</pubDate>
-        <link>http://localhost:4000/2018/03/notes-for-visual-perception-and-the-brain/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/03/notes-for-visual-perception-and-the-brain/</guid>
         
         <category>Notes</category>
         

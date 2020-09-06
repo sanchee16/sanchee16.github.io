@@ -49,66 +49,66 @@ Importance of context:
 	- Recommendation
 
 
-- Choosing an Effective Visual:
-	- Simple text
-		- When you have just a number or two that you want to communicate suse the numbers directly
-		- If you have two numbers, you can represent the change between orginal and new value
-	- Tables
-		- Never to use it in live presentation
-		- Use light or minimal borders to make data standout
-		- Interact with our verbal system
-	- Heatmap
-		- Color saturation
-	- Chart vs Graph
-	- Graphs
-		- Interact with our visual system
-		- Points
-			- Scatterplot
-		- Lines
-			- Plot continuous Data/data over time
-			- Focus is on relative position in space so no need to start with 0 baseline
-			- Types
-				- Standard Line Graph
-				- Slopegraph
-					- Two points of comparison and want to quickly show relative increases and decreases or differences across various categories between the two data points.
-		- Bars
-			- Show categorical data
-			- Start with a 0 baseline
-			- If you want your audience to focus on big‐picture trends, think about preserving the axis but deemphasizing it by making it grey.
-			- If the specific numerical values are important, it may be bet- ter to label the data points directly. Omit the axis to avoid the inclusion of redundant information
-			- Types
-				- Vertical (Single or multi series)
-				- Stacked vertical bar 
-					- Compare totals across categories and see the subcomponent pieces within a given category. 
-				- Waterfall
-					- Transitions with ins and outs
-				- Horizontal bar
-					- Logical ordering of categories. Show most important category at top and rest in decrasing order or vice versa
-				- Stacked horizontal bar
-					- Likert scale 
-					- Subcomponent pieces can be structured to show either absolute values or sum to 100%. Showing sum as 100% usually works better
-		- Area
-			- Not too great for human eyes
-			- Except for when to visualize numbers greatly vast magnitude
-			- Types
-				- Square Area Graphs
-	- Infographic
-	- What to avoid ?
-		- Pie Charts
-			- Replace with horizontal chart
-		- Donut Charts
-		- 3D Charts
-		- Secondary y-axis
-			- Instead,label the data points that belong on y-axis directly with focus on the data points
-			- Pull the graphs apart vertically and have separate y‐axis for each (both along the left) but leverage the same x‐axis across both with focus on the trend than the numbers
-			- Link the axis to the data to be read against it through the use of color
-	- What is the right graph for my situation? Whatever will be easiest for your audience to read.
+Choosing an Effective Visual:
+- Simple text
+	- When you have just a number or two that you want to communicate suse the numbers directly
+	- If you have two numbers, you can represent the change between orginal and new value
+- Tables
+	- Never to use it in live presentation
+	- Use light or minimal borders to make data standout
+	- Interact with our verbal system
+- Heatmap
+	- Color saturation
+- Chart vs Graph
+- Graphs
+	- Interact with our visual system
+	- Points
+		- Scatterplot
+	- Lines
+		- Plot continuous Data/data over time
+		- Focus is on relative position in space so no need to start with 0 baseline
+		- Types
+			- Standard Line Graph
+			- Slopegraph
+				- Two points of comparison and want to quickly show relative increases and decreases or differences across various categories between the two data points.
+	- Bars
+		- Show categorical data
+		- Start with a 0 baseline
+		- If you want your audience to focus on big‐picture trends, think about preserving the axis but deemphasizing it by making it grey.
+		- If the specific numerical values are important, it may be bet- ter to label the data points directly. Omit the axis to avoid the inclusion of redundant information
+		- Types
+			- Vertical (Single or multi series)
+			- Stacked vertical bar 
+				- Compare totals across categories and see the subcomponent pieces within a given category. 
+			- Waterfall
+				- Transitions with ins and outs
+			- Horizontal bar
+				- Logical ordering of categories. Show most important category at top and rest in decrasing order or vice versa
+			- Stacked horizontal bar
+				- Likert scale 
+				- Subcomponent pieces can be structured to show either absolute values or sum to 100%. Showing sum as 100% usually works better
+	- Area
+		- Not too great for human eyes
+		- Except for when to visualize numbers greatly vast magnitude
+		- Types
+			- Square Area Graphs
+- Infographic
+- What to avoid ?
+	- Pie Charts
+		- Replace with horizontal chart
+	- Donut Charts
+	- 3D Charts
+	- Secondary y-axis
+		- Instead,label the data points that belong on y-axis directly with focus on the data points
+		- Pull the graphs apart vertically and have separate y‐axis for each (both along the left) but leverage the same x‐axis across both with focus on the trend than the numbers
+		- Link the axis to the data to be read against it through the use of color
+- What is the right graph for my situation? Whatever will be easiest for your audience to read.
 
 
-- Clutter is your enemy:
-	- Identify everything that isn't adding informative value
-	- Cognitive load
-		- As designers of information, we want to be smart about how we use our audience’s brain power.
+Clutter is your enemy:
+- Identify everything that isn't adding informative value
+- Cognitive load
+	- As designers of information, we want to be smart about how we use our audience’s brain power.
 
 
 
